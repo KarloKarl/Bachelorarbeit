@@ -1,0 +1,368 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Seite-1" id="00AcUc6yx9ek8OBuImYi">
+    <mxGraphModel dx="2741" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aS2wD1jBEEsElN4WLFi--1" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;Projektstukturplan Bachelorarbeit Fabian Heinlein&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Gliederungsprinzip: Phasenorientiert&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="174" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=none;" parent="1" target="aS2wD1jBEEsElN4WLFi--29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--2" target="aS2wD1jBEEsElN4WLFi--3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="200" />
+              <mxPoint x="-80" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--2" target="aS2wD1jBEEsElN4WLFi--18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="200" />
+              <mxPoint x="120" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--2" target="aS2wD1jBEEsElN4WLFi--29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--2" target="aS2wD1jBEEsElN4WLFi--53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--2" target="aS2wD1jBEEsElN4WLFi--69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="200" />
+              <mxPoint x="730" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--2" target="aS2wD1jBEEsElN4WLFi--79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="200" />
+              <mxPoint x="930" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--2" value="Bachelorarbeit&amp;nbsp;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;&lt;div&gt;Fabian Heinlein&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="322" y="80" width="184" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="aS2wD1jBEEsElN4WLFi--3" target="aS2wD1jBEEsElN4WLFi--4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="aS2wD1jBEEsElN4WLFi--3" target="aS2wD1jBEEsElN4WLFi--5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="aS2wD1jBEEsElN4WLFi--3" target="aS2wD1jBEEsElN4WLFi--6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="aS2wD1jBEEsElN4WLFi--3" target="aS2wD1jBEEsElN4WLFi--8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="aS2wD1jBEEsElN4WLFi--3" target="aS2wD1jBEEsElN4WLFi--7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="aS2wD1jBEEsElN4WLFi--3" target="aS2wD1jBEEsElN4WLFi--9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--3" value="Projektplanung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--4" value="Genaue Formulierung Forschungsfrage(n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--5" value="Erstellung Meilensteinplan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--6" value="Erstellung Ablaufplan (Zeitplan)&lt;br&gt;+ Gantt Diagramm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--7" value="Festlegen der wissenschaftlichen Methoden" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--8" value="Grobgliederung schreiben" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--9" value="Erstfassung schreiben" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="aS2wD1jBEEsElN4WLFi--18" target="aS2wD1jBEEsElN4WLFi--20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="aS2wD1jBEEsElN4WLFi--18" target="aS2wD1jBEEsElN4WLFi--22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="aS2wD1jBEEsElN4WLFi--18" target="aS2wD1jBEEsElN4WLFi--19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--18" target="aS2wD1jBEEsElN4WLFi--33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="aS2wD1jBEEsElN4WLFi--18" target="aS2wD1jBEEsElN4WLFi--37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="aS2wD1jBEEsElN4WLFi--18" target="aS2wD1jBEEsElN4WLFi--39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--18" value="Literaturrecherche" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--19" value="Recherche: verwandte Arbeiten im selben Lösungsraum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--20" value="Recherche: Motivation und ISO 50001 Allgemein" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--21" value="Schreiben der Einleitung&lt;br&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;-&lt;/span&gt; Motivation&lt;br&gt;&amp;nbsp;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;-&lt;/span&gt;&amp;nbsp;Problem&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;-&lt;/span&gt; Zielsetzung&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Kontext ISO 50001 und&amp;nbsp; EMS-EDM Prophet&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Einordnung Bachelorarbeit in Kontext ISO 50001&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="320" y="430" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--22" value="Recherche: EMS-EDM Prophet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--23" value="Analyse:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Vorgaben durch ISO 50001 (KPIs, Reporting, PDCA)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;-&lt;/span&gt; Stand der Wissenschaft /&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Vorhandene Ansätze&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- EMS-EDM Prophet Idee/Datenstruktur/&lt;br&gt;Potential (Pro/Contra)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Umsetzung ISO 50001 / vorraussetzungen&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="320" y="640" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--29" target="aS2wD1jBEEsElN4WLFi--21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--29" target="aS2wD1jBEEsElN4WLFi--41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--29" target="aS2wD1jBEEsElN4WLFi--45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--29" value="Ergebnisse der Literaturrecherche auswerten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="254" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--33" value="Herausarbeiten KPIs/Reporting-Anforderungen aus ISO 50001" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--37" value="Recherche: Methoden und Techniken des Datenmanegements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--39" value="Recherche: Umsetzung ISO 50001 (Messinfrastruktur)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--41" value="Niederschrift erster Hauptteil (Stand der Wissenschaft / verwandte Arbeiten)&amp;nbsp;&lt;div&gt;- Ergebnisse Literaturanalyse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="320" y="890" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.528;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--29" target="aS2wD1jBEEsElN4WLFi--23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="761" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--45" value="Synthese der Infos aus Literraturrecherche zusammentragen&lt;br&gt;(wichtigste allgemeine Infos)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="320" y="310" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--53" target="aS2wD1jBEEsElN4WLFi--56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="aS2wD1jBEEsElN4WLFi--53" target="aS2wD1jBEEsElN4WLFi--61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="aS2wD1jBEEsElN4WLFi--53" target="aS2wD1jBEEsElN4WLFi--58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="aS2wD1jBEEsElN4WLFi--53" target="aS2wD1jBEEsElN4WLFi--60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="506" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--53" value="Konzeption und Implementation Problemlösung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--56" value="Erfassen aller Anforderungen aus Literaturrecherche&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Kategorisierung (technisch/funktional, etc.)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="526" y="310" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--58" value="Konzeption/ Implementation/&lt;br&gt;Testing einer Lösung&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- soll allen erfassten Anforderungen gerecht werden&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="526" y="530" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--60" value="&lt;div&gt;Dokumentation der Lösung&lt;/div&gt;&lt;div&gt;&lt;div&gt;(Hauptteil 2)&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- detaillierte Begründung wie Lösung umgesetzt wird&lt;/div&gt;&lt;div&gt;- detaillierte Begründung warum Lösung so konzipiert wurde&lt;/div&gt;&lt;div&gt;- nachvollziehbar Praktische Schritte darstellen&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="526" y="650" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--61" value="Praktischen IST-Zustand beschreiben&lt;br&gt;(EDM-EMS Prophet)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- SWOT Analyse&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="526" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--69" target="aS2wD1jBEEsElN4WLFi--70" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="aS2wD1jBEEsElN4WLFi--69" target="aS2wD1jBEEsElN4WLFi--73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="aS2wD1jBEEsElN4WLFi--69" target="aS2wD1jBEEsElN4WLFi--71" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="aS2wD1jBEEsElN4WLFi--69" target="aS2wD1jBEEsElN4WLFi--72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="716" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--69" value="Evaluation der Problemlösung" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="670" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--70" value="angemessene wissenschaftliche Methoden zur Evaluation aus Phase: Projektplanung auswählen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="736" y="310" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--71" value="Interpretation der/des Experiment-ergebnisse(s)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- hat Konzept Problem gelöst?&lt;br&gt;- wie gut hat Konzept Problem gelöst&lt;/div&gt;&lt;div&gt;- vergleich mit alternativen Ansätzen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="736" y="620" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--72" value="&lt;div&gt;Niederschrift Evaluationsergebnisse&lt;br&gt;(Hauptteil 3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="736" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--73" value="wissenschaftliche(s) Experiment(e) planen und vorbereiten&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- klare Metriken/Kennzahlen festlegen&lt;/div&gt;&lt;div&gt;- Hypothese aufstellen&lt;/div&gt;&lt;div&gt;- sowohl Quantitative als auch qualitative Daten erfassen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="736" y="430" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--79" target="aS2wD1jBEEsElN4WLFi--80" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="916" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="aS2wD1jBEEsElN4WLFi--79" target="aS2wD1jBEEsElN4WLFi--83" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="916" y="553" />
+              <mxPoint x="936" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="aS2wD1jBEEsElN4WLFi--79" target="aS2wD1jBEEsElN4WLFi--81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="916" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" source="aS2wD1jBEEsElN4WLFi--79" target="aS2wD1jBEEsElN4WLFi--82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="916" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;endArrow=none;endFill=0;" parent="1" source="aS2wD1jBEEsElN4WLFi--79" target="aS2wD1jBEEsElN4WLFi--91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="916" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--79" value="Abschluss der Arbeit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="870" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--80" value="Verfassen Fazit&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- zusammengefasste Ergebnisse&lt;/div&gt;&lt;div&gt;- Reflektion der Evaluation&lt;/div&gt;&lt;div&gt;- auf Forschungsfrage(n) bezug nehmen&lt;/div&gt;&lt;div&gt;- Implikationen/ zukünftige Forschungsansäätze&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="936" y="300" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--81" value="Arbeit Korrekturlesen (lassen)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="936" y="620" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--82" value="&lt;div&gt;Arbeit binden lassen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="936" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--83" value="Verfassen Abstract&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Hintergründe/ Motivation&lt;br&gt;- zentrale Ergebnisse&lt;br&gt;- Was ist neu?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="936" y="505" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="aS2wD1jBEEsElN4WLFi--91" value="&lt;div&gt;Arbeit abgeben&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="936" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

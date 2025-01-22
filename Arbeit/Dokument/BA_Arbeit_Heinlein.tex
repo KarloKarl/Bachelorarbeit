@@ -1,0 +1,197 @@
+\documentclass[a4paper,10pt,twoside]{report}
+
+% Packages for enhancing LaTeX capabilities
+\usepackage[a4paper, inner=4cm, outer=3cm, top=2.5cm, bottom=2.5cm]{geometry}
+\usepackage{fontspec}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[backend=biber,style=apa]{biblatex}
+\usepackage{csquotes}
+\usepackage[ngerman]{babel}
+\usepackage{float}
+\usepackage{amsmath}
+
+
+
+\setmainfont{Arial}
+\setstretch{1.2}
+\pagenumbering{roman}
+\setcounter{page}{1}
+\addbibresource{../../Ressourcen/Bibliographie/ba_literatur.bib}
+
+
+\begin{document}
+
+% Titlepage
+\begin{titlepage}
+  \hspace*{\fill}
+  \includegraphics[width=0.4\textwidth,keepaspectratio]{../../Ressourcen/Bilder/FHE-AI_Logo.png}
+
+  \centering
+  \vspace*{1cm}
+
+  \vspace{0.5cm}
+
+  {\Huge\textbf{Bachelorarbeit in der Angewandten Informatik}}
+  \\
+  Registriernummer: AI-2024-BA-030
+
+  \vspace{1.5cm}
+
+  {\large\textbf{Konzeption und Entwicklung einer datenbankseitigen Abbildung von frei definierbaren Bilanzräumen
+      im Zusammenhang mit dem Energiemanagementsystem EMS-EDM PROPHET® nach ISO 50001.}}
+
+  \vspace{1.5cm}
+
+  {\Large\textbf{Fabian Heinlein}}
+  \\ in Kooperation mit dem Fraunhofer Institut Angewandte Systemtechnik (IOSB-AST)
+
+  \vspace{1cm}
+
+  \Large Abgabedatum: 28.02.2024
+
+  \vspace{1cm}
+
+  Prof. Dr. Marcel Spehr \\
+  Sven Möller
+
+  \vfill
+
+\end{titlepage}
+
+
+
+\chapter*{Kurzfassung}
+\addcontentsline{toc}{chapter}{Kurzfassung}
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+\chapter*{Vorwort}
+\addcontentsline{toc}{chapter}{Vorwort}
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Einleitung %%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Einleitung}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{../Kapitel/Einleitung/01_Hintergrund_Motivation.tex}
+
+
+\input{../Kapitel/Einleitung/02_Problemstellung.tex}
+
+
+\input{../Kapitel/Einleitung/03_Ziele.tex}
+
+
+\input{../Kapitel/Einleitung/04_Aufbau.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Theoretische Grundlagen %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Theoretische Grundlagen}
+\section{Modellierung von Bilanzräumen}
+
+\input{../Kapitel/Theoretische_Grundlagen/01_Modellierung_von_Bilanzräumen/01_Grundlagen_von_Bilanzräumen.tex}
+\input{../Kapitel/Theoretische_Grundlagen/01_Modellierung_von_Bilanzräumen/02_Bilanzräume_im_Energiemanagement_nach_ISO500001.tex}
+\input{../Kapitel/Theoretische_Grundlagen/01_Modellierung_von_Bilanzräumen/03_Ansätze_zur_Datenbankseitigen_Modellierung.tex}
+
+
+\section{Bewertung der energiebezogenen Leistung eines Bilanzraums}
+
+\input{../Kapitel/Theoretische_Grundlagen/02_Bewertung_der_energiebezogenen_Leistung_von_Bilanzräumen/01_Grundlagen_der_energiebezogenen_Leistung.tex}
+
+\input{../Kapitel/Theoretische_Grundlagen/02_Bewertung_der_energiebezogenen_Leistung_von_Bilanzräumen/02_Energieleistungskennzahlen.tex}
+
+\input{../Kapitel/Theoretische_Grundlagen/02_Bewertung_der_energiebezogenen_Leistung_von_Bilanzräumen/03_energetische_Ausgangsbasen.tex}
+
+\input{../Kapitel/Theoretische_Grundlagen/02_Bewertung_der_energiebezogenen_Leistung_von_Bilanzräumen/04_Ansätze_zur_Datenbankseitigen_Auswertung.tex}
+
+\section{Technische Anforderungen im Organisationskontext}
+
+\input{../Kapitel/Theoretische_Grundlagen/03_Technische_Anforderungen_im_Organisationskontext/01_Grundlagen_der_technischen_Anforderungen.tex}
+
+\input{../Kapitel/Theoretische_Grundlagen/03_Technische_Anforderungen_im_Organisationskontext/02_Energiedatensammlung_nach_ISO_50001.tex}
+
+\input{../Kapitel/Theoretische_Grundlagen/03_Technische_Anforderungen_im_Organisationskontext/03_Stammdatenverwaltung_nach_ISO_50001.tex}
+
+\input{../Kapitel/Theoretische_Grundlagen/03_Technische_Anforderungen_im_Organisationskontext/04_Umsetzung_im_Organisationskontext.tex}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Konzept %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Konzeption und implementation in EMS-EDM Prophet®}
+\section{Einleitung}
+
+\section{Ausgangszustand: EMS-EDM Prophet®}
+
+\section{Anforderungen}
+\subsection{Modellierung von Bilanzräumen}
+
+\subsection{Abbildung von Metriken zur Bewertung von Bilanzräumen}
+
+\subsection{Technische Anforderungen und Datenkommunikation}
+
+
+\section{Umsetzungskonzept für EMS-EDM Prophet®}
+
+\subsection{Systemarchitektur}
+\subsection{Datenmodell und Datenbankdesign}
+\subsection{Technische Umsetzung und Datenkommunikation}
+\subsection{EnPI Abbildung}
+\subsection{Test- und Validierungskonzept}
+\subsection{Sicherheitskonzept}
+\subsection{Bedingungen und Anforderungen an die Laufzeitumgebung}
+
+\section{Technische Realisierung}
+In diesem Kapitel sollen alle technischen Aspekte der Umsetzung beschrieben werden.
+\section{Umsetzungsablauf}
+In diesem Kapitel soll der Ablauf der Umsetzung beschrieben und begründet werden.
+\section{Ergebnis}
+In diesem Kapitel soll das Ergebnis der Umsetzung beschrieben werden.
+\subsection{Anforderungsumsetzung}
+In diesem Kapitel soll beschrieben werden wie die Anforderungen umgesetzt wurden und welche Anforderungen umgesetzt wurden.
+\subsection{Vergleich zum bestehenden System}
+In diesem Kapitel soll der Vergleich zum bestehenden System gezogen werden und erläutert werden was sich verändert hat.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Implementation und Evaluation %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{Evaluation}
+
+\section{Einleitung}
+\subsection{Ziel der Evaluation}
+\subsection{Methodik}
+
+\section{Metriken und Kennzahlen}
+\subsection{Definition der Erfolgsmessung}
+\subsection{Quantitative Metriken}
+\subsection{Qualitative Metriken}
+
+\section{Experimenteller Aufbau}
+\subsection{Beschreibung des Experimentes}
+\subsection{Testumgebung und -bedingungen}
+\subsection{Datensätze und Szenarien}
+
+\section{Durchführung und Ergebnisse}
+\subsection{Durchführung}
+\subsection{Quantitative Ergebnisse}
+\subsection{Qualitative Ergebnisse}
+
+\section{Vergleich mit alternativen Ansätzen}
+
+\section{Diskussion der Ergebnisse}
+
+\section{Zusammenfassung der Evaluation}
+
+\chapter{Fazit}
+\section{Zusammenfassung der Ergebnisse}
+\section{Ausblick auf zukünftige Arbeiten}
+
+\printbibliography[title={Literaturverzeichnis}]
+
+\appendix
+\chapter{Anhang}
+\section*{Selbstständigkeitserklärung}
+
+\end{document}
