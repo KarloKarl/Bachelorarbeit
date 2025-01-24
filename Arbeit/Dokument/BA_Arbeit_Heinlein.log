@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  22 JAN 2025 20:34
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  24 JAN 2025 20:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -705,75 +705,80 @@ Kapitel 1.
 
 ]) (../Kapitel/Einleitung/02_Problemstellung.tex
 
-[2]) (../Kapitel/Einleitung/03_Ziele.tex) (../Kapitel/Einleitung/04_Aufbau.tex
-Underfull \vbox (badness 2781) has occurred while \output is active []
+[2]) (../Kapitel/Einleitung/03_Ziele.tex)
+
+[3] (../Kapitel/Einleitung/04_Aufbau.tex
+Overfull \hbox (6.15479pt too wide) in paragraph at lines 6--8
+[]\TU/Arial(0)/m/n/10 Der Aufbau der Arbeit umfasst drei Hauptabschnitte: theoretische Grundlagen,Konzeption
+ []
 
 
-
-[3]
-Overfull \hbox (1.50746pt too wide) in paragraph at lines 7--12
+Overfull \hbox (1.50746pt too wide) in paragraph at lines 11--16
 []\TU/Arial(0)/m/n/10 Die praxisnahe Problemstellung erfordert eine anwendungsorientierte Forschung. Auf-
  []
 
 
-Overfull \hbox (0.40819pt too wide) in paragraph at lines 37--39
+
+[4]
+Overfull \hbox (0.40819pt too wide) in paragraph at lines 41--43
 \TU/Arial(0)/m/n/10 modells werden herausgearbeitete bewährte Ansätze zur Datenbankmodellierung von
  []
 
-
-
-[4])
+)
 
 [5]
 Kapitel 2.
-(../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Energiequellen_und_-senken.tex) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/04_Bilanzraumstrukturen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex
+(../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex
 
 [6
 
-]
-File: ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic file (type bmp)
-<../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg>
-) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/04_Reporting.tex) (../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/01_Datenstrukturen_zur_Abbildung_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/02_Abbildung_der_Datenstrukturen_in_relationalen_Datenbanken.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
+]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex
+Underfull \vbox (badness 4303) has occurred while \output is active []
 
 
 
 [7]
+File: ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic file (type bmp)
+<../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg>
 
-[8]
+
+[8]) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/04_Reporting.tex) (../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/01_Datenstrukturen_zur_Abbildung_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/02_Abbildung_der_Datenstrukturen_in_relationalen_Datenbanken.tex)
+
+[9]
 Kapitel 3.
 
 
-[9
+[10
 
 ]
 
-[10]
+[11]
 Kapitel 4.
-
-
-[11
-
-]
-Kapitel 5.
 
 
 [12
 
 ]
-Overfull \hbox (21.1786pt too wide) in paragraph at lines 186--186
-\TU/Arial(0)/m/n/10 managementsysteme – Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018);
- []
-
+Kapitel 5.
 
 
 [13
 
 ]
-Anhang A.
+Overfull \hbox (21.1786pt too wide) in paragraph at lines 185--185
+\TU/Arial(0)/m/n/10 managementsysteme – Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018);
+ []
+
+Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [14
+
+]
+Anhang A.
+
+
+[15
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -785,12 +790,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15668 strings out of 473965
- 341913 string characters out of 5736632
- 1346845 words of memory out of 5000000
- 38404 multiletter control sequences out of 15000+600000
+ 15693 strings out of 473965
+ 342325 string characters out of 5736632
+ 1346144 words of memory out of 5000000
+ 38432 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (20 pages, 268516 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (21 pages, 311236 bytes).

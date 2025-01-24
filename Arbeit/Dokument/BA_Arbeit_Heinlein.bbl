@@ -64,6 +64,46 @@
       \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
       \endverb
     \endentry
+    \entry{Ahrendts.2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89eaf2e7c1515148bd2cc532737bf7e6}{%
+           family={Ahrendts},
+           familyi={A\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7313ded08221c34c58adec3210d137}{%
+           family={Kabelac},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{fullhash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{fullhashraw}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{bibnamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorbibnamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authornamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorfullhash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorfullhashraw}{da714758ce52ed499f8c4aa001bb8351}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3642411207}
+      \field{title}{Das Ingenieurwissen: Technische Thermodynamik}
+      \field{year}{2014}
+      \verb{file}
+      \verb 978-3-642-41120-5:Attachments/978-3-642-41120-5.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{AlbertoFichera.2020}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=4257be749df163073b184ee0fcd139c9}{%
@@ -108,6 +148,46 @@
       \endverb
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S266616592030020X
+      \endverb
+    \endentry
+    \entry{Baehr.1966}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=88a4b99569c2d3b61d0f12e1786fcdab}{%
+           family={Baehr},
+           familyi={B\bibinitperiod},
+           given={Hans\bibnamedelima Dieter},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7313ded08221c34c58adec3210d137}{%
+           family={Kabelac},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{fullhash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{fullhashraw}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{bibnamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorbibnamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authornamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorfullhash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorfullhashraw}{81ed480cd45410fd54d3948ee2ced026}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermodynamik}
+      \field{volume}{12}
+      \field{year}{1966}
+      \verb{file}
+      \verb 978-3-662-49568-1 (1):Attachments/978-3-662-49568-1 (1).pdf:application/pdf
       \endverb
     \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
@@ -223,7 +303,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme -- Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
+      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
       \field{volume}{ICS 03.100.70; 27.015}
       \field{year}{2024}
       \verb{doi}
@@ -279,6 +359,51 @@
       \verb sustainability-09-01740 (1):Attachments/sustainability-09-01740 (1).pdf:application/pdf
       \endverb
       \keyw{benefits;difficulties;Energy Management System;ISO 50001;motivations;sustainability}
+    \endentry
+    \entry{Rönsch.2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dfa4b814ca546e741485fb00badc30b}{%
+           family={Rönsch},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{fullhash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{fullhashraw}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{bibnamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorbibnamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authornamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorfullhash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorfullhashraw}{4dfa4b814ca546e741485fb00badc30b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dieses Lehrbuch beschreibt ausführlich das Vorgehen und die Methodik von Anlagenbilanzierungen in der Energietechnik. Studenten und Ingenieuren wird damit ein umfangreiches Rüstzeug zur Planung und Optimierung der Anlagen an die Hand gegeben. Neben Grundgleichungen, Modellierungsansätzen und numerischen Methoden wird die stoffliche und energetische Bilanzierung anhand einer Vielzahl von Beispielrechnungen ausgeführt. Das Buch spannt dabei einen Bogen von der Funktionsweise der Komponenten über die Grundlagen der Thermodynamik, Reaktionsrechnung, Phasengleichgewichtsrechnung und Stoffwertberech}
+      \field{isbn}{9783658078232}
+      \field{title}{Anlagenbilanzierung in der Energietechnik: Grundlagen, Gleichungen und Modelle fr die Ingenieurpraxis}
+      \field{year}{2015}
+      \verb{file}
+      \verb 978-3-658-07824-9:Attachments/978-3-658-07824-9.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
+      \endverb
+      \keyw{Electronic books;Thermodynamics}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
@@ -327,6 +452,46 @@
       \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
       \endverb
     \endentry
+    \entry{Ahrendts.2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89eaf2e7c1515148bd2cc532737bf7e6}{%
+           family={Ahrendts},
+           familyi={A\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7313ded08221c34c58adec3210d137}{%
+           family={Kabelac},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{fullhash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{fullhashraw}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{bibnamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorbibnamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authornamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorfullhash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorfullhashraw}{da714758ce52ed499f8c4aa001bb8351}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3642411207}
+      \field{title}{Das Ingenieurwissen: Technische Thermodynamik}
+      \field{year}{2014}
+      \verb{file}
+      \verb 978-3-642-41120-5:Attachments/978-3-642-41120-5.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{AlbertoFichera.2020}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=4257be749df163073b184ee0fcd139c9}{%
@@ -371,6 +536,46 @@
       \endverb
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/pii/S266616592030020X
+      \endverb
+    \endentry
+    \entry{Baehr.1966}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=88a4b99569c2d3b61d0f12e1786fcdab}{%
+           family={Baehr},
+           familyi={B\bibinitperiod},
+           given={Hans\bibnamedelima Dieter},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7313ded08221c34c58adec3210d137}{%
+           family={Kabelac},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{fullhash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{fullhashraw}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{bibnamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorbibnamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authornamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorfullhash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorfullhashraw}{81ed480cd45410fd54d3948ee2ced026}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermodynamik}
+      \field{volume}{12}
+      \field{year}{1966}
+      \verb{file}
+      \verb 978-3-662-49568-1 (1):Attachments/978-3-662-49568-1 (1).pdf:application/pdf
       \endverb
     \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
@@ -486,7 +691,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme -- Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
+      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
       \field{volume}{ICS 03.100.70; 27.015}
       \field{year}{2024}
       \verb{doi}
@@ -542,6 +747,51 @@
       \verb sustainability-09-01740 (1):Attachments/sustainability-09-01740 (1).pdf:application/pdf
       \endverb
       \keyw{benefits;difficulties;Energy Management System;ISO 50001;motivations;sustainability}
+    \endentry
+    \entry{Rönsch.2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dfa4b814ca546e741485fb00badc30b}{%
+           family={Rönsch},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{fullhash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{fullhashraw}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{bibnamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorbibnamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authornamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorfullhash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorfullhashraw}{4dfa4b814ca546e741485fb00badc30b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dieses Lehrbuch beschreibt ausführlich das Vorgehen und die Methodik von Anlagenbilanzierungen in der Energietechnik. Studenten und Ingenieuren wird damit ein umfangreiches Rüstzeug zur Planung und Optimierung der Anlagen an die Hand gegeben. Neben Grundgleichungen, Modellierungsansätzen und numerischen Methoden wird die stoffliche und energetische Bilanzierung anhand einer Vielzahl von Beispielrechnungen ausgeführt. Das Buch spannt dabei einen Bogen von der Funktionsweise der Komponenten über die Grundlagen der Thermodynamik, Reaktionsrechnung, Phasengleichgewichtsrechnung und Stoffwertberech}
+      \field{isbn}{9783658078232}
+      \field{title}{Anlagenbilanzierung in der Energietechnik: Grundlagen, Gleichungen und Modelle fr die Ingenieurpraxis}
+      \field{year}{2015}
+      \verb{file}
+      \verb 978-3-658-07824-9:Attachments/978-3-658-07824-9.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
+      \endverb
+      \keyw{Electronic books;Thermodynamics}
     \endentry
   \enddatalist
 \endrefsection

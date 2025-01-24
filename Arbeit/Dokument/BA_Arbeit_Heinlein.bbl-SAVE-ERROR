@@ -19,103 +19,176 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{Engelmann.2015}{inbook}{}{}
+    \entry{AGEB.2024}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=fc75fe57f7afa29afdd55779a479856c}{%
-           family={Engelmann},
-           familyi={E\bibinitperiod},
-           given={Dirk},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
+           family={AGEB},
+           familyi={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
+           family={AGEB},
+           familyi={A\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Wiesbaden}%
+        {Statista}%
       }
-      \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
-      }
-      \strng{namehash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{fullhash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{fullhashraw}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{bibnamehash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{authorbibnamehash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{authornamehash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{authorfullhash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{authorfullhashraw}{fc75fe57f7afa29afdd55779a479856c}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \strng{namehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{fullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{fullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{bibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{authorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{authornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{authorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{authorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{editorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{editornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{editorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{editorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Ein Energiedatenmanagement beschreibt den Umgang mit Energiedaten~-- von der Datenerfassung bis hin zur Analyse und Auswertung. So schlicht die Beschreibung ist, so gro{ß} sind doch die Missverständnisse und so verschieden die Interpretationen.}
-      \field{booktitle}{Energiemanagement: Für Fachkräfte, Beauftragte und Manager}
-      \field{isbn}{978-3-658-02834-3}
-      \field{title}{Energiedatenmanagement}
-      \field{year}{2015}
-      \field{pages}{285\bibrangedash 320}
-      \range{pages}{36}
-      \verb{doi}
-      \verb 10.1007/978-3-658-02834-3{\textunderscore }5
-      \endverb
+      \field{title}{Energieverbrauch für Wärmezwecke in Deutschland nach Sektoren im Jahr 2023 (in Petajoule) [Graph]}
+      \field{year}{2024}
       \verb{file}
-      \verb 978-3-658-02834-3 (1):Attachments/978-3-658-02834-3 (1).pdf:application/pdf
-      \endverb
-      \warn{\item inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring}
-    \endentry
-    \entry{FrancescaPalazzi.2007}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=524a8107e23a51a70ebf75deed0ca63d}{%
-           family={{Francesca Palazzi}},
-           familyi={F\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=5f905005ddfca6e0e76b9a1ff9709bce}{%
-           family={{Nordahl Autissier}},
-           familyi={N\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=52b7074323da02332b0666d6a3aa26e2}{%
-           family={{François M.A. Marechal}},
-           familyi={F\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=bd88be47335a527239dc92f44e8c9a15}{%
-           family={{Daniel Favrat}},
-           familyi={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{b99b47aa4736c5a5802e2488f36fa99e}
-      \strng{fullhash}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{fullhashraw}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{bibnamehash}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{authorbibnamehash}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{authornamehash}{b99b47aa4736c5a5802e2488f36fa99e}
-      \strng{authorfullhash}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{authorfullhashraw}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In the context of stationary power generation, fuel cell-based systems are being foreseen as a valuable alternative to thermodynamic cycle-based power plants, especially in small scale applications. As the technology is not yet established, many aspects of fuel cell development are currently investigated worldwide. Part of the research focuses on integrating the fuel cell in a system that is both efficient and economically attractive. To address this problem, we present in this paper a thermo-economic optimization method that systematically generates the most attractive configurations of an integrated system. In the developed methodology, the energy flows are computed using conventional process simulation software. The system is integrated using the pinch based methods that rely on optimization techniques. This defines the minimum of energy required and sets the basis to design the ideal heat exchanger network. A thermo-economic method is then used to compute the integrated system performances, sizes and costs. This allows performing the optimization of the system with regard to two objectives: minimize the specific cost and maximize the efficiency. A solid oxide fuel cell (SOFC) system of 50kW integrating a planar SOFC is modeled and optimized leading to designs with efficiencies ranging from 34{\%} to 44{\%}. The multi-objective optimization strategy identifies interesting system configurations and their performance for the developed SOFC system model. The methods proves to be an attractive tool to be used both as an advanced analysis tool and as support to decision makers when designing new systems.}
-      \field{issn}{1359-4311}
-      \field{journaltitle}{Applied Thermal Engineering}
-      \field{number}{16}
-      \field{title}{A methodology for thermo-economic modeling and optimization of solid oxide fuel cell systems}
-      \field{volume}{27}
-      \field{year}{2007}
-      \field{pages}{2703\bibrangedash 2712}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.applthermaleng.2007.06.007
-      \endverb
-      \verb{file}
-      \verb 1-s2.0-S1359431107002049-main:Attachments/1-s2.0-S1359431107002049-main.pdf:application/pdf
+      \verb AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland:Attachments/AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S1359431107002049
+      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
       \endverb
       \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S1359431107002049
+      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
       \endverb
-      \keyw{Fuel cell;Multi-objective optimization;SOFC;System design}
+    \endentry
+    \entry{Ahrendts.2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89eaf2e7c1515148bd2cc532737bf7e6}{%
+           family={Ahrendts},
+           familyi={A\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7313ded08221c34c58adec3210d137}{%
+           family={Kabelac},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{fullhash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{fullhashraw}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{bibnamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorbibnamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authornamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorfullhash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorfullhashraw}{da714758ce52ed499f8c4aa001bb8351}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3642411207}
+      \field{title}{Das Ingenieurwissen: Technische Thermodynamik}
+      \field{year}{2014}
+      \verb{file}
+      \verb 978-3-642-41120-5:Attachments/978-3-642-41120-5.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{AlbertoFichera.2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4257be749df163073b184ee0fcd139c9}{%
+           family={{Alberto Fichera}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a5fa38d2fbc75f80895bf57e9d638c61}{%
+           family={{Rosaria Volpe}},
+           familyi={R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=1fd8208b9aa0274cceb5d0b383c2763c}{%
+           family={{Emanuele Cutore}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4144528c821c9faf6c848ee7720d78f}
+      \strng{fullhash}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{fullhashraw}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{bibnamehash}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{authorbibnamehash}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{authornamehash}{a4144528c821c9faf6c848ee7720d78f}
+      \strng{authorfullhash}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{authorfullhashraw}{8d9d089850de30951a1c16f6fe1f2118}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The International Standards ISO 50001 and ISO 50006 can be easily transferred to organizations, which outputs consist of tangible products. However, it is equally important to build an energy management system tailored to public organizations, whose outputs are often immaterial goods and in which buildings highly affect the overall energy performances. Commonly, energy performances of buildings are assessed by comparison with sector-based benchmarks, whilst monitoring and control practises are often overlooked. Under these premises, this paper aims at proposing a common framework for an energy management system tailored to public organizations in which buildings play a pivotal role in targeting energy performance improvement. The proposed energy management system also relies on the effective exploitation of monitoring and control tools to promptly identify deviations from the expected energy performance values and to evaluate improvements over time.}
+      \field{issn}{26661659}
+      \field{journaltitle}{Developments in the Built Environment}
+      \field{title}{Energy performance measurement, monitoring and control for buildings of public organizations: Standardized practises compliant with the ISO 50001 and ISO 50006}
+      \field{volume}{4}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.dibe.2020.100024
+      \endverb
+      \verb{file}
+      \verb 1-s2.0-S266616592030020X-main (1):Attachments/1-s2.0-S266616592030020X-main (1).pdf:application/pdf;S266616592030020X:Attachments/S266616592030020X.bib:application/octet-stream
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S266616592030020X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S266616592030020X
+      \endverb
+    \endentry
+    \entry{Baehr.1966}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=88a4b99569c2d3b61d0f12e1786fcdab}{%
+           family={Baehr},
+           familyi={B\bibinitperiod},
+           given={Hans\bibnamedelima Dieter},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7313ded08221c34c58adec3210d137}{%
+           family={Kabelac},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{fullhash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{fullhashraw}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{bibnamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorbibnamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authornamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorfullhash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorfullhashraw}{81ed480cd45410fd54d3948ee2ced026}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermodynamik}
+      \field{volume}{12}
+      \field{year}{1966}
+      \verb{file}
+      \verb 978-3-662-49568-1 (1):Attachments/978-3-662-49568-1 (1).pdf:application/pdf
+      \endverb
     \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
       \name{author}{1}{}{%
@@ -230,7 +303,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme -- Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
+      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
       \field{volume}{ICS 03.100.70; 27.015}
       \field{year}{2024}
       \verb{doi}
@@ -286,106 +359,224 @@
       \verb sustainability-09-01740 (1):Attachments/sustainability-09-01740 (1).pdf:application/pdf
       \endverb
       \keyw{benefits;difficulties;Energy Management System;ISO 50001;motivations;sustainability}
+    \endentry
+    \entry{Rönsch.2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dfa4b814ca546e741485fb00badc30b}{%
+           family={Rönsch},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{fullhash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{fullhashraw}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{bibnamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorbibnamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authornamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorfullhash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorfullhashraw}{4dfa4b814ca546e741485fb00badc30b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dieses Lehrbuch beschreibt ausführlich das Vorgehen und die Methodik von Anlagenbilanzierungen in der Energietechnik. Studenten und Ingenieuren wird damit ein umfangreiches Rüstzeug zur Planung und Optimierung der Anlagen an die Hand gegeben. Neben Grundgleichungen, Modellierungsansätzen und numerischen Methoden wird die stoffliche und energetische Bilanzierung anhand einer Vielzahl von Beispielrechnungen ausgeführt. Das Buch spannt dabei einen Bogen von der Funktionsweise der Komponenten über die Grundlagen der Thermodynamik, Reaktionsrechnung, Phasengleichgewichtsrechnung und Stoffwertberech}
+      \field{isbn}{9783658078232}
+      \field{title}{Anlagenbilanzierung in der Energietechnik: Grundlagen, Gleichungen und Modelle fr die Ingenieurpraxis}
+      \field{year}{2015}
+      \verb{file}
+      \verb 978-3-658-07824-9:Attachments/978-3-658-07824-9.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
+      \endverb
+      \keyw{Electronic books;Thermodynamics}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{Engelmann.2015}{inbook}{}{}
+    \entry{AGEB.2024}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=fc75fe57f7afa29afdd55779a479856c}{%
-           family={Engelmann},
-           familyi={E\bibinitperiod},
-           given={Dirk},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
+           family={AGEB},
+           familyi={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
+           family={AGEB},
+           familyi={A\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Wiesbaden}%
+        {Statista}%
       }
-      \list{publisher}{1}{%
-        {Springer Fachmedien Wiesbaden}%
-      }
-      \strng{namehash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{fullhash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{fullhashraw}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{bibnamehash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{authorbibnamehash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{authornamehash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{authorfullhash}{fc75fe57f7afa29afdd55779a479856c}
-      \strng{authorfullhashraw}{fc75fe57f7afa29afdd55779a479856c}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \strng{namehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{fullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{fullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{bibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{authorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{authornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{authorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{authorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{editorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{editornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{editorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \strng{editorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Ein Energiedatenmanagement beschreibt den Umgang mit Energiedaten~-- von der Datenerfassung bis hin zur Analyse und Auswertung. So schlicht die Beschreibung ist, so gro{ß} sind doch die Missverständnisse und so verschieden die Interpretationen.}
-      \field{booktitle}{Energiemanagement: Für Fachkräfte, Beauftragte und Manager}
-      \field{isbn}{978-3-658-02834-3}
-      \field{title}{Energiedatenmanagement}
-      \field{year}{2015}
-      \field{pages}{285\bibrangedash 320}
-      \range{pages}{36}
-      \verb{doi}
-      \verb 10.1007/978-3-658-02834-3{\textunderscore }5
-      \endverb
+      \field{title}{Energieverbrauch für Wärmezwecke in Deutschland nach Sektoren im Jahr 2023 (in Petajoule) [Graph]}
+      \field{year}{2024}
       \verb{file}
-      \verb 978-3-658-02834-3 (1):Attachments/978-3-658-02834-3 (1).pdf:application/pdf
-      \endverb
-      \warn{\item inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring}
-    \endentry
-    \entry{FrancescaPalazzi.2007}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=524a8107e23a51a70ebf75deed0ca63d}{%
-           family={{Francesca Palazzi}},
-           familyi={F\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=5f905005ddfca6e0e76b9a1ff9709bce}{%
-           family={{Nordahl Autissier}},
-           familyi={N\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=52b7074323da02332b0666d6a3aa26e2}{%
-           family={{François M.A. Marechal}},
-           familyi={F\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=bd88be47335a527239dc92f44e8c9a15}{%
-           family={{Daniel Favrat}},
-           familyi={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{b99b47aa4736c5a5802e2488f36fa99e}
-      \strng{fullhash}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{fullhashraw}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{bibnamehash}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{authorbibnamehash}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{authornamehash}{b99b47aa4736c5a5802e2488f36fa99e}
-      \strng{authorfullhash}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \strng{authorfullhashraw}{075de3cb29d996a8f55e0d2ebaa0b0da}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In the context of stationary power generation, fuel cell-based systems are being foreseen as a valuable alternative to thermodynamic cycle-based power plants, especially in small scale applications. As the technology is not yet established, many aspects of fuel cell development are currently investigated worldwide. Part of the research focuses on integrating the fuel cell in a system that is both efficient and economically attractive. To address this problem, we present in this paper a thermo-economic optimization method that systematically generates the most attractive configurations of an integrated system. In the developed methodology, the energy flows are computed using conventional process simulation software. The system is integrated using the pinch based methods that rely on optimization techniques. This defines the minimum of energy required and sets the basis to design the ideal heat exchanger network. A thermo-economic method is then used to compute the integrated system performances, sizes and costs. This allows performing the optimization of the system with regard to two objectives: minimize the specific cost and maximize the efficiency. A solid oxide fuel cell (SOFC) system of 50kW integrating a planar SOFC is modeled and optimized leading to designs with efficiencies ranging from 34{\%} to 44{\%}. The multi-objective optimization strategy identifies interesting system configurations and their performance for the developed SOFC system model. The methods proves to be an attractive tool to be used both as an advanced analysis tool and as support to decision makers when designing new systems.}
-      \field{issn}{1359-4311}
-      \field{journaltitle}{Applied Thermal Engineering}
-      \field{number}{16}
-      \field{title}{A methodology for thermo-economic modeling and optimization of solid oxide fuel cell systems}
-      \field{volume}{27}
-      \field{year}{2007}
-      \field{pages}{2703\bibrangedash 2712}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.applthermaleng.2007.06.007
-      \endverb
-      \verb{file}
-      \verb 1-s2.0-S1359431107002049-main:Attachments/1-s2.0-S1359431107002049-main.pdf:application/pdf
+      \verb AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland:Attachments/AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S1359431107002049
+      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
       \endverb
       \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S1359431107002049
+      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
       \endverb
-      \keyw{Fuel cell;Multi-objective optimization;SOFC;System design}
+    \endentry
+    \entry{Ahrendts.2014}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=89eaf2e7c1515148bd2cc532737bf7e6}{%
+           family={Ahrendts},
+           familyi={A\bibinitperiod},
+           given={Joachim},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7313ded08221c34c58adec3210d137}{%
+           family={Kabelac},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{fullhash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{fullhashraw}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{bibnamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorbibnamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authornamehash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorfullhash}{da714758ce52ed499f8c4aa001bb8351}
+      \strng{authorfullhashraw}{da714758ce52ed499f8c4aa001bb8351}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{3642411207}
+      \field{title}{Das Ingenieurwissen: Technische Thermodynamik}
+      \field{year}{2014}
+      \verb{file}
+      \verb 978-3-642-41120-5:Attachments/978-3-642-41120-5.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{AlbertoFichera.2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4257be749df163073b184ee0fcd139c9}{%
+           family={{Alberto Fichera}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a5fa38d2fbc75f80895bf57e9d638c61}{%
+           family={{Rosaria Volpe}},
+           familyi={R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=1fd8208b9aa0274cceb5d0b383c2763c}{%
+           family={{Emanuele Cutore}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4144528c821c9faf6c848ee7720d78f}
+      \strng{fullhash}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{fullhashraw}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{bibnamehash}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{authorbibnamehash}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{authornamehash}{a4144528c821c9faf6c848ee7720d78f}
+      \strng{authorfullhash}{8d9d089850de30951a1c16f6fe1f2118}
+      \strng{authorfullhashraw}{8d9d089850de30951a1c16f6fe1f2118}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The International Standards ISO 50001 and ISO 50006 can be easily transferred to organizations, which outputs consist of tangible products. However, it is equally important to build an energy management system tailored to public organizations, whose outputs are often immaterial goods and in which buildings highly affect the overall energy performances. Commonly, energy performances of buildings are assessed by comparison with sector-based benchmarks, whilst monitoring and control practises are often overlooked. Under these premises, this paper aims at proposing a common framework for an energy management system tailored to public organizations in which buildings play a pivotal role in targeting energy performance improvement. The proposed energy management system also relies on the effective exploitation of monitoring and control tools to promptly identify deviations from the expected energy performance values and to evaluate improvements over time.}
+      \field{issn}{26661659}
+      \field{journaltitle}{Developments in the Built Environment}
+      \field{title}{Energy performance measurement, monitoring and control for buildings of public organizations: Standardized practises compliant with the ISO 50001 and ISO 50006}
+      \field{volume}{4}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.dibe.2020.100024
+      \endverb
+      \verb{file}
+      \verb 1-s2.0-S266616592030020X-main (1):Attachments/1-s2.0-S266616592030020X-main (1).pdf:application/pdf;S266616592030020X:Attachments/S266616592030020X.bib:application/octet-stream
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S266616592030020X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S266616592030020X
+      \endverb
+    \endentry
+    \entry{Baehr.1966}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=88a4b99569c2d3b61d0f12e1786fcdab}{%
+           family={Baehr},
+           familyi={B\bibinitperiod},
+           given={Hans\bibnamedelima Dieter},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce7313ded08221c34c58adec3210d137}{%
+           family={Kabelac},
+           familyi={K\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{fullhash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{fullhashraw}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{bibnamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorbibnamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authornamehash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorfullhash}{81ed480cd45410fd54d3948ee2ced026}
+      \strng{authorfullhashraw}{81ed480cd45410fd54d3948ee2ced026}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermodynamik}
+      \field{volume}{12}
+      \field{year}{1966}
+      \verb{file}
+      \verb 978-3-662-49568-1 (1):Attachments/978-3-662-49568-1 (1).pdf:application/pdf
+      \endverb
     \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
       \name{author}{1}{}{%
@@ -500,7 +691,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme -- Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
+      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
       \field{volume}{ICS 03.100.70; 27.015}
       \field{year}{2024}
       \verb{doi}
@@ -556,6 +747,51 @@
       \verb sustainability-09-01740 (1):Attachments/sustainability-09-01740 (1).pdf:application/pdf
       \endverb
       \keyw{benefits;difficulties;Energy Management System;ISO 50001;motivations;sustainability}
+    \endentry
+    \entry{Rönsch.2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dfa4b814ca546e741485fb00badc30b}{%
+           family={Rönsch},
+           familyi={R\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{fullhash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{fullhashraw}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{bibnamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorbibnamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authornamehash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorfullhash}{4dfa4b814ca546e741485fb00badc30b}
+      \strng{authorfullhashraw}{4dfa4b814ca546e741485fb00badc30b}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dieses Lehrbuch beschreibt ausführlich das Vorgehen und die Methodik von Anlagenbilanzierungen in der Energietechnik. Studenten und Ingenieuren wird damit ein umfangreiches Rüstzeug zur Planung und Optimierung der Anlagen an die Hand gegeben. Neben Grundgleichungen, Modellierungsansätzen und numerischen Methoden wird die stoffliche und energetische Bilanzierung anhand einer Vielzahl von Beispielrechnungen ausgeführt. Das Buch spannt dabei einen Bogen von der Funktionsweise der Komponenten über die Grundlagen der Thermodynamik, Reaktionsrechnung, Phasengleichgewichtsrechnung und Stoffwertberech}
+      \field{isbn}{9783658078232}
+      \field{title}{Anlagenbilanzierung in der Energietechnik: Grundlagen, Gleichungen und Modelle fr die Ingenieurpraxis}
+      \field{year}{2015}
+      \verb{file}
+      \verb 978-3-658-07824-9:Attachments/978-3-658-07824-9.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
+      \endverb
+      \keyw{Electronic books;Thermodynamics}
     \endentry
   \enddatalist
 \endrefsection
