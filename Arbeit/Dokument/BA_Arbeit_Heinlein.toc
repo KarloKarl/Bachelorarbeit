@@ -13,7 +13,8 @@
 \contentsline {chapter}{\numberline {2}Stand der Forschung und Theoretische Grundlagen}{6}{}%
 \contentsline {section}{\numberline {2.1}Grundlagen von Bilanzräumen}{6}{}%
 \contentsline {subsection}{\numberline {2.1.1}Energiebilanzierung}{6}{}%
-\contentsline {subsubsection}{Energiebilanzierung aus Perspektive der Verfahrenstechnik}{6}{}%
+\contentsline {subsubsection}{Definition}{6}{}%
+\contentsline {subsubsection}{Zustandsgrößen in der Energiebilanzierung}{8}{}%
 \contentsline {subsubsection}{Energieströme}{8}{}%
 \contentsline {subsubsection}{Energiequellen und -senken}{8}{}%
 \contentsline {subsection}{\numberline {2.1.2}Definition von Bilanzräumen}{8}{}%

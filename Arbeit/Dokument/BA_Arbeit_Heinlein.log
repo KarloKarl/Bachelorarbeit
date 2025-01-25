@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  24 JAN 2025 20:07
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  25 JAN 2025 15:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -732,12 +732,9 @@ Kapitel 2.
 
 [6
 
-]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex
-Underfull \vbox (badness 4303) has occurred while \output is active []
+]
 
-
-
-[7]
+[7]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex
 File: ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic file (type bmp)
 <../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg>
 
@@ -790,12 +787,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15693 strings out of 473965
- 342325 string characters out of 5736632
- 1346144 words of memory out of 5000000
- 38432 multiletter control sequences out of 15000+600000
+ 15695 strings out of 473965
+ 342347 string characters out of 5736632
+ 1347152 words of memory out of 5000000
+ 38434 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (21 pages, 311236 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (21 pages, 327128 bytes).

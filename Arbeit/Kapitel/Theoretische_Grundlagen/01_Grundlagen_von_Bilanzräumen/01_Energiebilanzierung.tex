@@ -1,19 +1,22 @@
 \subsection{Energiebilanzierung}
-\subsubsection{Energiebilanzierung aus Perspektive der Verfahrenstechnik}
-Die Definition des Konzepts Bilanzierung hängt von der Perspektive ab. So wird die Bilanzierung aus Verfahrenstechnischer Perspektive nach 
-Rönsch (2015, S. 87) in drei Bilanzgleichungen aufgegliedert: der Massenbilanz, der Energiebilanz und der Impulsbilanz.
-Die Energiebilanz beruht dabei auf dem Energieerhaltungssatz (\cite[S. 87]{Rönsch.2015}), welcher das Prinzip von der Erhaltung
-der Energie ausdrückt (\cite[S. 57]{Baehr.1966}). Der Energieerhaltungssatz bezieht sich auf alle Erscheinungsformen in denen Energie auftritt, 
-und stellt diese in einen Zusammenhang der aussagt dass es unmöglich ist Energie zu erzeugen oder zu vernichten (\cite[S. 57]{Baehr.1966}).
-Für zu Bilanzierende Systeme bedeutet das, dass die Energie in einem abgeschlossenen adiabaten System über die Zeit 
-konstant ist (\cite[S. 87]{Rönsch.2015}). 
-Adiabat bedeutet in diesem Kontext, dass keine Wärme mit der Umgebung ausgetauscht wird
-Für Systeme die in der Lage sind Energie zu speichern, impliziert das nach Rönsch (2015, S. 87f.), 
-dass die darin gespeicherte Energie gleich der Differenz aus ein- und austretenden Energieströmen ist. 
-Für offene nicht-adiabate Systeme ohne Speicherfähigkeit gilt, dass die differenz der ein- und austretenden Energieströme Null ist (\cite[S. 87f.]{Rönsch.2015}).
+\subsubsection{Definition}
+Die Definition des Konzepts der Bilanzierung hängt von der Perspektive ab. Aus verfahrenstechnischer Sicht wird die Bilanzierung nach 
+Rönsch (2015, S. 87) in drei Bilanzgleichungen unterteilt: die Massenbilanz, die Energiebilanz und die Impulsbilanz. 
+Zur Beantwortung dieser Forschungsfrage hat insbesondere die Energiebilanz eine hohe Relevanz.
 
-Das Verhalten bezüglich Energiespeicherung eines Systems zur Energiebilanzierung wie sie Rönsch (2015) beschreibt lässt sich mathematisch 
-mit der Gleichung \eqref{energiebilanzierungsgleichung_Rönsch} darstellen:
+Die Energiebilanz beruht auf dem Energieerhaltungssatz (\cite[S. 87]{Rönsch.2015}), der das Prinzip der Erhaltung 
+der Energie ausdrückt (\cite[S. 57]{Baehr.1966}). Der Energieerhaltungssatz bezieht sich auf alle Erscheinungsformen, in denen Energie auftritt, 
+und besagt, dass es unmöglich ist, Energie zu erzeugen oder zu vernichten (\cite[S. 57]{Baehr.1966}). 
+Für zu bilanzierende Systeme bedeutet dies, dass die Energie in einem abgeschlossenen, adiabaten System über die Zeit 
+konstant ist (\cite[S. 87]{Rönsch.2015}). 
+Adiabat bedeutet in diesem Kontext, dass das System keinen Wärmeaustausch mit der Umgebung hat (\cite[S. 87]{Rönsch.2015}). 
+
+Für Systeme, die in der Lage sind, Energie zu speichern, impliziert dies nach Rönsch (2015, S. 87f.), 
+dass die darin gespeicherte Energie gleich der Differenz aus ein- und austretenden Energieströmen ist. 
+Für offene, nicht-adiabate Systeme ohne Speicherfähigkeit gilt, dass die Differenz der ein- und austretenden Energieströme Null ist 
+(\cite[S. 87f.]{Rönsch.2015}).
+Das von Rönsch (2015, S. 87f.) beschriebene Verhalten eines Systems bezüglich der Energiespeicherung, lässt sich mathematisch 
+vereinfacht mit der Gleichung \eqref{energiebilanzierungsgleichung_Rönsch} darstellen:
 
 \begin{equation}
 E_{\text{gespeichert}} = \sum E_{\text{eingang}} - \sum E_{\text{ausgang}}
@@ -24,25 +27,27 @@ E_{\text{gespeichert}} = \sum E_{\text{eingang}} - \sum E_{\text{ausgang}}
     \item \(E_{\text{gespeichert}}\): Im System gespeicherte Energie.
     \item \(E_{\text{eingang}}\): Energie eines eintretenden Energiestroms.
     \item \(E_{\text{ausgang}}\): Energie eines austretenden Energiestroms.
-    Für offene nicht-adiabate Systeme ohne Energiespeicher gilt:
+    \item Für offene, nicht-adiabate Systeme ohne Energiespeicher gilt:
     \[
     E_{\text{gespeichert}} = 0
     \]
-    In diesem Fall ist die zugeführte Energie gleich der verbrauchten Energie:
+    \item In diesem Fall ist die zugeführte Energie gleich der abgegebenen Energie:
     \[
     \sum E_{\text{eingang}} = \sum E_{\text{ausgang}}
     \]
 \end{description}
 
-Diese Gleichung beschreibt einen allgemeinen Ansatz zur Energiebilanzierung der gesamten gespeicherten Energie eines Systems. 
-Im rahmen der Bilanzierung von Systemen kann jedoch die Notwendigkeit einer detaillierteren Bilanzierung von einzelnen Zustandsgrößen 
-im System notwendig sein. 
-Nach den Aussagen Ahrendts (2014, Kapitel 1.5) lässt sich für jede Mengenartige Zustandsgröße die über die 
-Grenze eines Systems transportiert wird eine Bilanz aufstellen. 
-Diese Bilanz ist abhängig von ein- und austretenden Strömen und den im System enthaltenen Energiequellen und -senken und ermittel die 
-Geschwindigkeit der Änderung des Bestands der zu Bilanzierenden Zustandsgröße im System (\cite[Kapitel 1.5]{Ahrendts.2014}).
+Diese Gleichung beschreibt einen allgemeinen Ansatz zur Energiebilanzierung der im System gespeicherten Energie. 
+Im Rahmen der Bilanzierung komplexer Systeme kann jedoch eine detailliertere Bilanzierung einzelner Zustandsgrößen im System erforderlich sein.
 
-Ahrendts (2014, Kapitel 1.5) beschreibt die Bilanzierungsgleichung einer Zustandsgröße \eqref{BilanzierungsgleichungAhrendt} wiefolgt:
+Dieses Problem wird von der von Ahrendts (2014, Kapitel 1.5) aufgestellten Bilanzgleichung im Kontext der Thermodynamik addressiert. 
+Die Gleichung basiert auf dem Fakt, dass sich für jede mengenartige Zustandsgröße, die über die Grenze eines Systems transportiert wird, eine 
+Bilanz aufstellen lässt (\cite[Kapitel 1.5]{Ahrendts.2014}). 
+Diese Bilanz umfasst ein- und austretende Ströme sowie im System enthaltene Energiequellen und -senken und ermittelt die 
+Geschwindigkeit der Änderung des Bestands der zu bilanzierenden Zustandsgröße im System (\cite[Kapitel 1.5]{Ahrendts.2014}).
+
+Die von Ahrendts (2014, Kapitel 1.5) aufgestellte Bilanzgleichung wird in den Formeln \eqref{BilanzierungsgleichungAhrendt} und 
+\eqref{BilanzierungsgleichungAhrendtStrom} dargestellt.
 
 \begin{equation}
     dX_{\text{j}}/d\tau = (\sum \dot{X}_{\text{j,e}} - \sum \dot{X}_{\text{j,a}}) + (\dot{X}_{\text{j,Quell}} - \dot{X}_{\text{j,Senk}})
@@ -51,13 +56,14 @@ Ahrendts (2014, Kapitel 1.5) beschreibt die Bilanzierungsgleichung einer Zustand
 
 \begin{description}
     \item \(X_{\text{j}}\): Zustandsgröße.
-    \item \(X_{\text{j,e}}\): Über Systemgrenze zufließende Zustandsgröße.
-    \item \(X_{\text{j,a}}\): Über Systemgrenze abfließende Zustandsgröße.
-    \item \(X_{\text{j,Quell}}\): Quelle der Zustandsgröße im System.
-    \item \(X_{\text{j,Senk}}\): Senke der Zustandsgröße im System.
+    \item \(X_{\text{j,e}}\): Über die Systemgrenze zufließende Zustandsgröße.
+    \item \(X_{\text{j,a}}\): Über die Systemgrenze abfließende Zustandsgröße.
+    \item \(X_{\text{j,Quell}}\): Quellen der Zustandsgröße im System.
+    \item \(X_{\text{j,Senk}}\): Senken der Zustandsgröße im System.
 \end{description}
 
-mit der definition des Stroms der Zustandsgröße \(X_{\text{j}}\):
+Im Rahmen der Formel \eqref{BilanzierungsgleichungAhrendt} wird der Strom einer Zustandsgröße \(X_{\text{j}}\) in Gleichung 
+\eqref{BilanzierungsgleichungAhrendtStrom} definiert.
 
 \begin{equation}
     \dot{X}_{\text{j}} = \lim_{\Delta\tau \to 0} \Delta X_{\text{j}}/ \Delta\tau
@@ -70,22 +76,41 @@ mit der definition des Stroms der Zustandsgröße \(X_{\text{j}}\):
     \item \(\Delta \tau\): Zeitintervall.
 \end{description}
 
-Die Gleichungen \eqref{BilanzierungsgleichungAhrendt} und \eqref{BilanzierungsgleichungAhrendtStrom} beschreibt die Geschwindigkeit der Änderung des 
-Bestands der Größe \(X_{\text{j}}\) als Summe der Differenzen zwischen den über die Systemgrenz zu- und abfließenden Ströme der Zustandsgröße 
-\(X_{\text{j}}\) und den Quell- und Senkenströmen der Größe \(X_{\text{j}}\) innerhalb des Systems. 
+Die Gleichung \eqref{BilanzierungsgleichungAhrendt} in Verbindung mit \eqref{BilanzierungsgleichungAhrendtStrom} beschreibt die Geschwindigkeit der Änderung des 
+Bestands der Größe \(X_{\text{j}}\) als Summe der Differenzen zwischen den über die Systemgrenze zu- und abfließenden Strömen der Zustandsgröße 
+\(X_{\text{j}}\) sowie den Quell- und Senkenströmen der Größe \(X_{\text{j}}\) innerhalb des Systems. 
 
-% Detaillierter Beschreiben und Schlussfolgerungen ziehen
+Die Gleichungen \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} mit \eqref{BilanzierungsgleichungAhrendtStrom} 
+formulieren eine grundlegende und vereinfachte mathematische Beschreibung der Bilanzierungsrechnung im Kontext der Thermodynamik und Verfahrenstechnik. 
+Sie beschreiben jedoch die grundlegende Struktur einer Bilanz. 
+Die in \eqref{BilanzierungsgleichungAhrendt} beschriebene Zustandsgröße stellt die zu bilanzierende Größe dar und hat somit eine zentrale Rolle in der 
+Bilanzierungsrechnung. In \eqref{energiebilanzierungsgleichung_Rönsch} wird die Gesamtenergie eines Systems als Zustandsgröße betrachtet, 
+und es wird ein Zusammenhang zwischen der Zustandsgröße und der thermodynamischen Klassifikation der Speicherfähigkeit eines Systems hergestellt.
+Die Größe und Veränderung einer Zustandsgröße innerhalb eines Systems ist nach der Definition von Ahrendts (2014, Kapitel 1.5) zum einen  
+von den ein- und austretenden Zustandsströmen der Zustandsgröße abhängig. 
+Des Weiteren ist die Zustandsgröße von Quellen und Senken der Zustandsgröße innerhalb des Systems abhängig.
+Das System stellt den Kontext der Bilanz dar, indem es die Grenzen definiert und sich gemäß \eqref{energiebilanzierungsgleichung_Rönsch} auf das Verhalten der 
+Zustandsgröße auswirkt. Nach \eqref{BilanzierungsgleichungAhrendt} können in einem System mehrere Zustandsgrößen bilanziert werden.
 
-% Wie kann Zeitliche Aggregation in definition Integriert werden?
+Im Folgenden werden die aus \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} mit \eqref{BilanzierungsgleichungAhrendtStrom} 
+abgeleiteten Bestandteile einer Bilanz im Anwendungskontext des Problemraums analysiert. 
+
+\subsubsection{Zustandsgrößen in der Energiebilanzierung}
+
+% Wie kann zeitliche Aggregation in die Definition integriert werden?
+
+% Was ist ein Strom?
+
+% Detaillierter beschreiben und Schlussfolgerungen ziehen.
 
 \subsubsection{Energieströme}
-% Wie realisiert man Ströme (Zeitreihe->Strom)
-% Praxisbeispiele
-% (praktische Herausforderungen)
+% TODO: Beleg - in der Energiebilanzierung werden Energieströme betrachtet.
+
+% Wie realisiert man Ströme (Zeitreihe -> Strom)?
+% Praxisbeispiele.
+% (praktische Herausforderungen).
 
 \subsubsection{Energiequellen und -senken}
-% Was charakterisiert Energiequellen und -senken
-% Praxisbeispiele
-% (praktische Herausforderungen)
-
-% \subsubsection{Definition der Energiewirtschaft}
+% Was charakterisiert Energiequellen und -senken?
+% Praxisbeispiele.
+% (praktische Herausforderungen).
