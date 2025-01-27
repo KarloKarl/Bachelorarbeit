@@ -189,6 +189,9 @@ INPUT ../Kapitel/Einleitung/04_Aufbau.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex
+INPUT ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg
+INPUT ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg
+INPUT ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg
 INPUT ../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
@@ -198,9 +201,6 @@ INPUT ../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bila
 INPUT ../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex
-INPUT ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg
-INPUT ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg
-INPUT ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg
 INPUT ../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex
 INPUT ../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex
