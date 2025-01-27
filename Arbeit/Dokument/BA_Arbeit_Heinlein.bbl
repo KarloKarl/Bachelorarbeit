@@ -217,7 +217,7 @@
       \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
       \endverb
     \endentry
-    \entry{DIN50006.2024}{misc}{}{}
+    \entry{DIN18599.2018}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
            family={{Deutsches Institut für Normung e. V.}},
@@ -239,6 +239,36 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{title}{DIN V 18599-1:2018-09, Energetische Bewertung von Gebäuden -- Berechnung des Nutz-, End- und Primärenergiebedarfs für Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung -- Teil 1: Allgemeine Bilanzierungsverfahren, Begriffe, Zonierung und Bewertung der Energieträger}
+      \field{volume}{ICS 91.120.10; 91.140.01}
+      \field{year}{2018}
+      \verb{file}
+      \verb fulltext293515783:Attachments/fulltext293515783.pdf:application/pdf
+      \endverb
+      \warn{\item misc entry 'DIN18599.2018' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{DIN50006.2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
+           family={{Deutsches Institut für Normung e. V.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{bibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorbibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authornamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
       \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
       \field{volume}{ICS 03.100.70; 27.015}
       \field{year}{2024}
@@ -249,20 +279,6 @@
       \verb fulltext380315446:Attachments/fulltext380315446.pdf:application/pdf
       \endverb
       \warn{\item misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
-    \endentry
-    \entry{DIN18599.2018}{misc}{}{}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labeltitlesource}{title}
-      \field{title}{DIN V 18599-1:2018-09, Energetische Bewertung von Gebäuden -- Berechnung des Nutz-, End- und Primärenergiebedarfs für Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung -- Teil 1: Allgemeine Bilanzierungsverfahren, Begriffe, Zonierung und Bewertung der Energieträger}
-      \field{volume}{ICS 91.120.10; 91.140.01}
-      \field{year}{2018}
-      \verb{file}
-      \verb fulltext293515783:Attachments/fulltext293515783.pdf:application/pdf
-      \endverb
-      \warn{\item misc entry 'DIN18599.2018' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
     \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
       \name{author}{1}{}{%
@@ -657,7 +673,7 @@
       \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
       \endverb
     \endentry
-    \entry{DIN50006.2024}{misc}{}{}
+    \entry{DIN18599.2018}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
            family={{Deutsches Institut für Normung e. V.}},
@@ -679,6 +695,36 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{title}{DIN V 18599-1:2018-09, Energetische Bewertung von Gebäuden -- Berechnung des Nutz-, End- und Primärenergiebedarfs für Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung -- Teil 1: Allgemeine Bilanzierungsverfahren, Begriffe, Zonierung und Bewertung der Energieträger}
+      \field{volume}{ICS 91.120.10; 91.140.01}
+      \field{year}{2018}
+      \verb{file}
+      \verb fulltext293515783:Attachments/fulltext293515783.pdf:application/pdf
+      \endverb
+      \warn{\item misc entry 'DIN18599.2018' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{DIN50006.2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
+           family={{Deutsches Institut für Normung e. V.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{bibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorbibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authornamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
       \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
       \field{volume}{ICS 03.100.70; 27.015}
       \field{year}{2024}
@@ -689,20 +735,6 @@
       \verb fulltext380315446:Attachments/fulltext380315446.pdf:application/pdf
       \endverb
       \warn{\item misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
-    \endentry
-    \entry{DIN18599.2018}{misc}{}{}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labeltitlesource}{title}
-      \field{title}{DIN V 18599-1:2018-09, Energetische Bewertung von Gebäuden -- Berechnung des Nutz-, End- und Primärenergiebedarfs für Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung -- Teil 1: Allgemeine Bilanzierungsverfahren, Begriffe, Zonierung und Bewertung der Energieträger}
-      \field{volume}{ICS 91.120.10; 91.140.01}
-      \field{year}{2018}
-      \verb{file}
-      \verb fulltext293515783:Attachments/fulltext293515783.pdf:application/pdf
-      \endverb
-      \warn{\item misc entry 'DIN18599.2018' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
     \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
       \name{author}{1}{}{%
