@@ -1,5 +1,6 @@
 \subsection{Bilanzierung}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Kontext der Bilanzierung}
 
 Bilanzierung ist ein Konzept welches in unterschiedlichen Einsatzbereichen verwendung findet. Diese Forschung befasst sich mit Bilanzräumen 
@@ -27,13 +28,15 @@ Wirtschaftssektors energiebezogene Prozesse und Technologien im Gegensatz zur Ge
 
 Im Rahmen der Bestimmung des Gesamtenergiebedarfs eines Gebäudes über den Lebenszyklus wird vor allem der Gebäudebetrieb betrachtet \cite[S. 133]{Musall.2015}.
 Die sogenannte Graue Energie wird üblicherweise als kumulierter, nicht erneuerbarer Primärenergieaufwand beschrieben, der alle vor- und nachgelagerten 
-Prozesse der verwendeten Baustoffe und Materialien sowie der technischen Anlagen umfasst \cite[S. 133]{Musall.2015}. Da sich die Norm auf die 
+Prozesse der verwendeten Baustoffe und Materialien sowie der technischen Anlagen umfasst (\cite[S. 133]{Musall.2015}). Da sich die Norm auf die 
 fortlaufende Verbesserung der energiebezogenen Leistung abzielt und die Graue Energie konstant ist wird diese im Rahmen dieser Arbeit nicht 
 betrachtet. 
 Stattdessen liegt der Fokus dieser Forschungsarbeit auf der Bilanzierung energetischer Größen im Rahmen von Organisation des tertiäten Wirtschaftssektors. 
 Sie grenzt sich somit von der Bilanzierung von Rohstoffen und Materialien ab.
 
-\subsubsection{Definition}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection{Definition Bilanzierung}
 Im Rahmen des beschrieben Kontexts rückt die verfahrenstechnische Perspektive der Bilanzierung in den Fokus. 
 So wird die Bilanzierung im Kontext der Verfahrenstechnik nach Rönsch (2015, S. 66) in drei Bilanzgleichungen unterteilt: 
 die Massenbilanz, die Energiebilanz und die Impulsbilanz. 
@@ -44,7 +47,7 @@ der Energie ausdrückt (\cite[S. 57]{Baehr.1966}). Der Energieerhaltungssatz bez
 und besagt, dass es unmöglich ist, Energie zu erzeugen oder zu vernichten (\cite[S. 57]{Baehr.1966}). 
 Für zu bilanzierende Systeme bedeutet dies, dass die Energie in einem abgeschlossenen, adiabaten System über die Zeit 
 konstant ist (\cite[S. 66]{Rönsch.2015}). 
-Adiabat bedeutet in diesem Kontext, dass das System keinen Wärme mit seiner Umgebung austauscht (\cite[S. 66]{Rönsch.2015}). 
+Adiabat bedeutet in diesem Kontext, dass das System keine Wärme mit seiner Umgebung austauscht (\cite[S. 66]{Rönsch.2015}). 
 
 Für Systeme, die in der Lage sind, Energie zu speichern, impliziert dies nach Rönsch (2015, S. 66f.), 
 dass die darin gespeicherte Energie gleich der Differenz aus ein- und austretenden Energieströmen ist. 
@@ -91,11 +94,15 @@ Die von Ahrendts (2014, Kapitel 1.5) aufgestellte Bilanzgleichung wird in den Fo
 
 \begin{description}
     \item \(X_{\text{j}}\): Zustandsgröße.
+    \item \(\tau\): Zeitkonstante.
     \item \(X_{\text{j,e}}\): Über die Systemgrenze zufließende Zustandsgröße.
     \item \(X_{\text{j,a}}\): Über die Systemgrenze abfließende Zustandsgröße.
     \item \(X_{\text{j,Quell}}\): Quellen der Zustandsgröße im System.
     \item \(X_{\text{j,Senk}}\): Senken der Zustandsgröße im System.
 \end{description}
+
+Im Rahmen der Formel \eqref{BilanzierungsgleichungAhrendt} wird der Strom einer Zustandsgröße \(X_{\text{j}}\) in Gleichung 
+\eqref{BilanzierungsgleichungAhrendtStrom} definiert.
 
 \begin{equation}
     \dot{X}_{\text{j}} = \lim_{\Delta\tau \to 0} \Delta X_{\text{j}}/ \Delta\tau
@@ -107,49 +114,39 @@ Die von Ahrendts (2014, Kapitel 1.5) aufgestellte Bilanzgleichung wird in den Fo
     \item \(\Delta X_{\text{j}}\): Menge der Größe \(X_{\text{j}}\) im Zeitintervall \(\Delta \tau\).
     \item \(\Delta \tau\): Zeitintervall.
 \end{description}
-Im Rahmen der Formel \eqref{BilanzierungsgleichungAhrendt} wird der Strom einer Zustandsgröße \(X_{\text{j}}\) in Gleichung 
-\eqref{BilanzierungsgleichungAhrendtStrom} definiert.
 
+Die Gleichung \eqref{BilanzierungsgleichungAhrendt} in Verbindung mit \eqref{BilanzierungsgleichungAhrendtStrom} beschreibt die Geschwindigkeit 
+der Änderung des Bestands der Größe \(X_{\text{j}}\) als Summe der Differenzen zwischen den über die Systemgrenze zu- und abfließenden Strömen der 
+Zustandsgröße \(X_{\text{j}}\) sowie den Quell- und Senkströmen der Zustandsgröße \(X_{\text{j}}\) innerhalb des Systems.  
+Somit formulieren die Gleichungen \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} in Verbindung mit 
+\eqref{BilanzierungsgleichungAhrendtStrom} eine grundlegende und zugleich vereinfachte mathematische Beschreibung einer Bilanzierung im Kontext 
+der Thermodynamik und Verfahrenstechnik. Sie bilden die Basis für die Beschreibung der grundlegenden Struktur einer Bilanz.
+Im Folgenden werden die in \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} mit \eqref{BilanzierungsgleichungAhrendtStrom} 
+beschriebenen Bestandteile einer Bilanz im Anwendungskontext des Problemraums analysiert und in den praktischen Kontext dieser Arbeit gebracht. 
 
-Die Gleichung \eqref{BilanzierungsgleichungAhrendt} in Verbindung mit \eqref{BilanzierungsgleichungAhrendtStrom} beschreibt die Geschwindigkeit der Änderung des 
-Bestands der Größe \(X_{\text{j}}\) als Summe der Differenzen zwischen den über die Systemgrenze zu- und abfließenden Strömen der Zustandsgröße 
-\(X_{\text{j}}\) sowie den Quell- und Senkenströmen der Größe \(X_{\text{j}}\) innerhalb des Systems.
-
-Die Gleichungen \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} mit \eqref{BilanzierungsgleichungAhrendtStrom} 
-formulieren eine grundlegende und vereinfachte mathematische Beschreibung der Bilanzierungsrechnung im Kontext der Thermodynamik und Verfahrenstechnik. 
-Sie beschreiben jedoch die grundlegende Struktur einer Bilanz. 
-Die in \eqref{BilanzierungsgleichungAhrendt} beschriebene Zustandsgröße stellt die zu bilanzierende Größe dar und hat somit eine zentrale Rolle in der 
-Bilanzierungsrechnung. In \eqref{energiebilanzierungsgleichung_Rönsch} wird die Gesamtenergie eines Systems als Zustandsgröße betrachtet, 
-und es wird ein Zusammenhang zwischen der Zustandsgröße und der thermodynamischen Klassifikation der Speicherfähigkeit eines Systems hergestellt.
-Die Größe und Veränderung einer Zustandsgröße innerhalb eines Systems ist nach der Definition von Ahrendts (2014, Kapitel 1.5) zum einen  
-von den ein- und austretenden Zustandsströmen der Zustandsgröße abhängig. 
-Des Weiteren ist die Zustandsgröße von Quellen und Senken der Zustandsgröße innerhalb des Systems abhängig.
-Das System stellt den Kontext der Bilanz dar, indem es die Grenzen definiert und sich gemäß \eqref{energiebilanzierungsgleichung_Rönsch} auf das Verhalten der 
-Zustandsgröße auswirkt. Nach \eqref{BilanzierungsgleichungAhrendt} können in einem System mehrere Zustandsgrößen bilanziert werden.
-
-Im Folgenden werden die aus \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} mit \eqref{BilanzierungsgleichungAhrendtStrom} 
-abgeleiteten Bestandteile einer Bilanz im Anwendungskontext des Problemraums analysiert und in einen praktischen Kontext gebracht. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsubsection{Zustandsgrößen}
-Eine Bilanz, und somit auch die zu Bilanzierende Zustandsgröße bezieht sich nach Ahrendts (2014, Kaptiel 1.5) auf das von der Systemgrenze eingeschlossene Kontrollgebiet. 
-Die Systemgrenze ist dabei frei nach den Gesichtspunkten der Zweckmäßigkeit definierbar (\cite[Kapitel 1.5]{Ahrendts.2014}).
-Der Anwendungskontext im tertiären Wirtschaftssektor und das Ziel der DIN EN ISO 50001:2018-12 verlangt von einer zu bilanzierenden Zustandsgröße implizit eine 
-Zweckmäßigkeit hinsichtlich der energiebezogenen Leistung von Gebäudeenergie. Die DIN EN ISO 50001:2018-12 stellt zwar Anforderungen an den Nachweis der energiebezogenen 
-Leistung, macht jedoch keine Aussagen über die Umsetzung in einer Organisation des tertiären Wirtschaftssektors.
-Die vom Deutschen Institut für Normung e. V. (2018, S. 1) bereitgestellte Norm: DIN V 18599-1:2018-09 hingegen befasst sich mit der energetischen Bewertung von 
-Gebäuden. 
+% Die in \eqref{BilanzierungsgleichungAhrendt} beschriebene Zustandsgröße stellt die zu bilanzierende Größe dar und hat somit eine zentrale Rolle in der 
+% Bilanzierungsrechnung. In \eqref{energiebilanzierungsgleichung_Rönsch} wird die Gesamtenergie eines Systems als Zustandsgröße betrachtet, 
+% und es wird ein Zusammenhang zwischen der Zustandsgröße und der thermodynamischen Klassifikation der Speicherfähigkeit eines Systems hergestellt.
+Eine Bilanz bezieht sich gemäß Ahrendts (2014, Kapitel 1.5) auf das von der Systemgrenze eingeschlossene Kontrollgebiet. 
+Die Systemgrenze kann dabei unter Berücksichtigung der Zweckmäßigkeit frei definiert werden (\cite[Kapitel 1.5]{Ahrendts.2014}).
+Im Rahmen der in \eqref{energiebilanzierungsgleichung_Rönsch}, \eqref{BilanzierungsgleichungAhrendt} und \eqref{BilanzierungsgleichungAhrendtStrom} beschriebenen Bilanzierung 
+spielt die Zustandsgröße eine zentrale Rolle. 
+Daher sollte ihre Definition ebenfalls unter dem Gesichtspunkt der Zweckmäßigkeit erfolgen. 
+Die DIN EN ISO 50001:2018-12 gibt mit dem Ziel der fortlaufenden Verbesserung der energiebezogenen Leistung eine Vorgabe zur zweckmäßigen Definition der Zustandsgröße 
+(\cite[S. 11]{DIN50001.2018}).
+Da sich der Anwendungskontext der Bilanzierung auf energetische Größen im Bereich der Gebäudeenergie bezieht, ist eine zweckmäßige Auswahl der Zustandsgrößen zur Bewertung 
+dieser energetischen Parameter erforderlich.
 
-Die DIN EN ISO 50001:2018-12 definiert eine energetische Bewertung als "Analyse der Energieeffizienz [...], des Energieeinsatzes [...] und des Energieverbrauchs [...], basierend 
-auf Daten und anderer Information, die zur Identifizierung von SEUs [...] und von Möglichkeiten zur Verbesserung der energiebezogenen Leistung [...] führt" (\cite[Kapitel 3.5.5]{DIN50001.2018}).
-Ein wesentlicher Energieeinsatz, auch SEU (en: signitficant energy use) wird von der DIN EN ISO 50001:2018-12 wiefolgt definiert: "Energieeinsatz [...], der wesentlichen Anteil am 
-Energieverbrauch [...] hat und/oder erhebliches Potential für eine Verbesserung der energiebezogenen Leistung [...] bietet" \cite[Kapitel 3.5.6]{DIN50001.2018}.
-Bezieht man den Anwendungsbereich: Organisationen im tertiären Wirtschaftssektors mit ein so implizieren die Definitionen eine Relevanz der energetischen Bewertung von 
-Gebäuden, wie Sie in der DIN V 18599-1:2018-09 aufgearbeitet wird.
-Im Rahmen der Energiebilanzierung betrachtet die DIN V 18599-1:2018-09 die Berechnung des Nutz-, End- und Primärenergiebedarf (\cite{DIN18599.2018}). 
+Die vom Deutschen Institut für Normung e. V. (2018, S. 1) bereitgestellte Norm: DIN V 18599-1:2018-09 befasst sich mit der energetischen Bewertung von Gebäuden. 
+Das sich die Norm sich mit energetischer Bewertung befasst erfüllt Sie die Zweckmäßigkeit die durch die DIN EN ISO 50001:2018-12 gegeben ist. 
+Der fokus auf die Bewertung von Gebäuden, erfüllt die Zweckmäßigkeit welche durch den Anwendungskontext im tertiären Wirtschaftssektor gegeben ist.
+Die Vorgaben der DIN V 18599-1:2018-09 können somit einen Mehrwert zur zweckmäßigen erarbeitung der Zustandsgrößen bieten und wird im Folgenden genauer betrachtet.
+
+Im Rahmen der Energiebilanzierung betrachtet die DIN V 18599-1:2018-09 die Bilanzierung des Nutz-, End- und Primärenergiebedarf (\cite{DIN18599.2018}). 
 Dabei sind die Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung des Gebäudes Untersuchungsgegenstände der Bilanzierung des Energiebedarfs (\cite{DIN18599.2018}). 
-Auf Grundlage dieser Norm wird in dieser Forschung der Nutzenergiebedarf der genannten Untersuchungsgegenstände als zweckmäßige 
-Zustandsgröße betrachtet. % Primärenergie nicht Bilanziert, da alle Ströme als Energieströme angenommen werden (Abgrenzung von Quantifizierung von Stoffströmen für z.B. Wärme )
-
 Die Definition der Nutzeenergie ist laut DIN V 18599-1:2018-09 abhängig vom Untersuchungsgegenstand (\cite[Kapitel 5.3.1]{DIN18599.2018}).
 So versteht sich die Nutzeenergie für die Beleuchtung als die Energiemenge die zur Ausreichenden Beleuchtung der Gebäudezone aufgewendet werden muss (\cite[Kapitel 5.3.1]{DIN18599.2018}).
 Der Nutzwärmebedarf hingegen ist die Wämemenge, die der Gebäudezone zusätzlich (bedarfs-)geregelt zugeführt werden muss, um die vorgegebene 
@@ -159,7 +156,14 @@ raumlufttechnischen Anlage zu- beziehungsweise abgeführt werden muss um den erf
 Die Nutzenergie für die Trinkwarmwasserbereitung bedeutet die Energiemenge für die Erwärmung des Trinkwassers von der Kaltwassertemperatur auf die 
 Warmwassertemperatur an der Entnahmestelle (\cite[Kapitel 5.3.1]{DIN18599.2018}).
 
+% Primärenergiebedarf
+% Endenergiebedarf
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \subsubsection{Energieströme}
+Die Größe und Veränderung einer Zustandsgröße innerhalb eines Systems ist nach der Definition von Ahrendts (2014, Kapitel 1.5) zum einen  
+von den ein- und austretenden Zustandsströmen der Zustandsgröße abhängig. 
 % TODO: abgrenzung von Stoffströmen -> Alle Energieströme werden als Energie angenommen -> Quantifizierung auslagern
 
 % TODO: Beleg - in der Energiebilanzierung werden Energieströme betrachtet.
@@ -175,7 +179,17 @@ Warmwassertemperatur an der Entnahmestelle (\cite[Kapitel 5.3.1]{DIN18599.2018})
 % Detaillierter beschreiben und Schlussfolgerungen ziehen.
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \subsubsection{Energiequellen und -senken}
+Des Weiteren ist die Zustandsgröße von Quellen und Senken der Zustandsgröße innerhalb des Systems abhängig.
 % Was charakterisiert Energiequellen und -senken?
 % Praxisbeispiele.
 % (praktische Herausforderungen).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection{Bilanzräume als System}
+Das System stellt den Kontext der Bilanz dar, indem es die Grenzen definiert und sich gemäß \eqref{energiebilanzierungsgleichung_Rönsch} auf das Verhalten der 
+Zustandsgröße auswirkt. Nach \eqref{BilanzierungsgleichungAhrendt} können in einem System mehrere Zustandsgrößen bilanziert werden.

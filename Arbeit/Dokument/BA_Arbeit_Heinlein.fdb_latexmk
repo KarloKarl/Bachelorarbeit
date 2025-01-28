@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber BA_Arbeit_Heinlein"] 1738004453.45972 "BA_Arbeit_Heinlein.bcf" "BA_Arbeit_Heinlein.bbl" "BA_Arbeit_Heinlein" 1738004663.28239 0
+["biber BA_Arbeit_Heinlein"] 1738064689.03528 "BA_Arbeit_Heinlein.bcf" "BA_Arbeit_Heinlein.bbl" "BA_Arbeit_Heinlein" 1738065008.78881 0
   "../../Ressourcen/Bibliographie/ba_literatur.bib" 1738004452 45138 eb0c8b09039363deb53177d038cb6b59 ""
-  "BA_Arbeit_Heinlein.bcf" 1738004662 136411 f0001e35aab245524ce49f34006f005b "xelatex"
+  "BA_Arbeit_Heinlein.bcf" 1738065007 136342 817839da4d487131f16b62965f5774b9 "xelatex"
   (generated)
   "BA_Arbeit_Heinlein.bbl"
   "BA_Arbeit_Heinlein.blg"
   (rewritten before read)
-["xdvipdfmx"] 1738004662.47101 "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein.pdf" "BA_Arbeit_Heinlein" 1738004663.28872 0
-  "BA_Arbeit_Heinlein.xdv" 1738004662 387928 1f74863272b57a1f41f076d52d897671 "xelatex"
+["xdvipdfmx"] 1738065008.03678 "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein.pdf" "BA_Arbeit_Heinlein" 1738065008.79478 0
+  "BA_Arbeit_Heinlein.xdv" 1738065007 379936 ab374fe3e22012f10b6000f5f1b7f5ce "xelatex"
   (generated)
   "BA_Arbeit_Heinlein.pdf"
   (rewritten before read)
-["xelatex"] 1738004660.19332 "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein" 1738004663.2828 0
+["xelatex"] 1738065005.83747 "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein" 1738065008.78923 0
   "../../Ressourcen/Bibliographie/ba_literatur.bib" 1738004452 45138 eb0c8b09039363deb53177d038cb6b59 ""
   "../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg" 1735850030 372136 6c5d79b445fba1ea65979dd2f7a2dbf0 ""
   "../../Ressourcen/Bilder/FHE-AI_Logo.png" 1733237989 4037 9dd8e897bba9e7beeaa1a1f19c30077d ""
@@ -19,7 +19,7 @@
   "../Kapitel/Einleitung/02_Problemstellung.tex" 1737722028 4889 ef872a41e16f4f875f3a160753dee97a ""
   "../Kapitel/Einleitung/03_Ziele.tex" 1737722243 1284 9df562ba70b55f74186250cb1e8f4a4c ""
   "../Kapitel/Einleitung/04_Aufbau.tex" 1737637137 4658 c80b4ffbe7869ff95d6557138cffbe89 ""
-  "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex" 1738004659 13744 d810a537bd5f9972fb37faecf176adca ""
+  "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex" 1738065005 14369 263293dcaa4af20ce2beb3e2fbb463b8 ""
   "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex" 1738001604 1522 de1b0dc1f1aebf1de3354bb74cec87f8 ""
   "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex" 1737574483 33 647a7bc0876db4674f12a43462f0ce28 ""
   "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex" 1737987066 49 1cf49aac8ad9c8ef4bdf997c600a34f8 ""
@@ -28,11 +28,11 @@
   "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/04_Reporting.tex" 1737573829 22 cc6b59e04b2c6019cef7ad61beb94ae9 ""
   "../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/01_Datenstrukturen_zur_Abbildung_von_Bilanzräumen.tex" 1737574106 60 93cea6404df06b0d98571669c3721ced ""
   "../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/02_Abbildung_der_Datenstrukturen_in_relationalen_Datenbanken.tex" 1737574065 70 f1fc1ad69529fdf194039fbacfb3a537 ""
-  "BA_Arbeit_Heinlein.aux" 1738004662 16483 23a5e443afadbb54694491689907ec7a "xelatex"
-  "BA_Arbeit_Heinlein.bbl" 1738004455 49481 065a454acab0d98b2be4473163240305 "biber BA_Arbeit_Heinlein"
-  "BA_Arbeit_Heinlein.run.xml" 1738004662 2589 8efe822addff136623c6d9f45d72fa9e "xelatex"
+  "BA_Arbeit_Heinlein.aux" 1738065007 16448 8d6e483feb52d7cadf759482d518487d "xelatex"
+  "BA_Arbeit_Heinlein.bbl" 1738064691 49481 065a454acab0d98b2be4473163240305 "biber BA_Arbeit_Heinlein"
+  "BA_Arbeit_Heinlein.run.xml" 1738065007 2589 8efe822addff136623c6d9f45d72fa9e "xelatex"
   "BA_Arbeit_Heinlein.tex" 1737741690 5886 d482620755780872f96638e9dc3c9a14 ""
-  "BA_Arbeit_Heinlein.toc" 1738004662 5462 f93aab01ec99afd8ba5827522fa507ce "xelatex"
+  "BA_Arbeit_Heinlein.toc" 1738065007 5535 390c8a4d7b7cdbc8ba3d662a16d96184 "xelatex"
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1733171244 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1733169596 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2024/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1733169783 2289 4c0bd5448e6c4088c5170e3997082036 ""
