@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  28 JAN 2025 12:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  28 JAN 2025 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -753,41 +753,43 @@ File: ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic f
 
 [7]
 
-[8]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
+[8]
 
-[9]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/04_Reporting.tex) (../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/01_Datenstrukturen_zur_Abbildung_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/02_Abbildung_der_Datenstrukturen_in_relationalen_Datenbanken.tex)
+[9]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex
 
-[10]
+[10]) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/04_Reporting.tex) (../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/01_Datenstrukturen_zur_Abbildung_von_Bilanzräumen.tex) (../Kapitel/Theoretische_Grundlagen/03_Ansätze_zur_Datenbankseitigen_Abbildung/02_Abbildung_der_Datenstrukturen_in_relationalen_Datenbanken.tex)
+
+[11]
 Kapitel 3.
 
 
-[11
+[12
 
 ]
 
-[12]
+[13]
 Kapitel 4.
-
-
-[13
-
-]
-Kapitel 5.
 
 
 [14
 
 ]
-Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
+Kapitel 5.
 
 
 [15
 
 ]
-Anhang A.
+Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
 [16
+
+]
+Anhang A.
+
+
+[17
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -799,12 +801,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15721 strings out of 473965
- 342959 string characters out of 5736632
- 1349355 words of memory out of 5000000
- 38460 multiletter control sequences out of 15000+600000
+ 15731 strings out of 473965
+ 343077 string characters out of 5736632
+ 1349393 words of memory out of 5000000
+ 38470 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (22 pages, 379936 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (23 pages, 410056 bytes).
