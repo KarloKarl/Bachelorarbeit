@@ -104,7 +104,7 @@
       \verb 978-3-642-41120-5:Attachments/978-3-642-41120-5.pdf:application/pdf
       \endverb
     \endentry
-    \entry{AlbertoFichera.2020}{article}{}{}
+    \entry{Fichera.2020}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=4257be749df163073b184ee0fcd139c9}{%
            family={{Alberto Fichera}},
@@ -190,6 +190,96 @@
       \verb 978-3-662-49568-1 (1):Attachments/978-3-662-49568-1 (1).pdf:application/pdf
       \endverb
     \endentry
+    \entry{DIN50001.2018}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
+           family={{Deutsches Institut für Normung e. V.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{bibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorbibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authornamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DIN EN ISO 50001:2018-12, Energiemanagementsysteme -- Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018); Deutsche Fassung EN ISO 50001:2018}
+      \field{volume}{ICS 03.100.70; 27.015}
+      \verb{file}
+      \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
+      \endverb
+    \endentry
+    \entry{DIN18599.2018}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
+           family={{Deutsches Institut für Normung e. V.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{bibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorbibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authornamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DIN V 18599-1:2018-09, Energetische Bewertung von Gebäuden -- Berechnung des Nutz-, End- und Primärenergiebedarfs für Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung -- Teil 1: Allgemeine Bilanzierungsverfahren, Begriffe, Zonierung und Bewertung der Energieträger}
+      \field{volume}{ICS 91.120.10; 91.140.01}
+      \field{year}{2018}
+      \verb{file}
+      \verb fulltext293515783:Attachments/fulltext293515783.pdf:application/pdf
+      \endverb
+      \warn{\item misc entry 'DIN18599.2018' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{DIN50006.2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
+           family={{Deutsches Institut für Normung e. V.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{bibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorbibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authornamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
+      \field{volume}{ICS 03.100.70; 27.015}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.31030/3543690
+      \endverb
+      \verb{file}
+      \verb fulltext380315446:Attachments/fulltext380315446.pdf:application/pdf
+      \endverb
+      \warn{\item misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
+    \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d73fb1481f09d1b25d3e06ea5bda2e18}{%
@@ -220,33 +310,6 @@
       \field{title}{Win the Energy Challenge with ISO 50001}
       \field{year}{2011}
     \endentry
-    \entry{ISO.2018}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
-           family={{International Organization for Standardization}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \field{extraname}{1}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{DIN EN ISO 50001:2018-12, Energiemanagementsysteme -- Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018); Deutsche Fassung EN ISO 50001:2018}
-      \field{volume}{ICS 03.100.70; 27.015}
-      \verb{file}
-      \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
-      \endverb
-    \endentry
     \entry{InternationalOrganizationforStandardization.2023}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
@@ -261,7 +324,6 @@
       \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
       \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
       \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \field{extraname}{2}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
@@ -280,39 +342,6 @@
       \verb{url}
       \verb https://www.iso.org/the-iso-survey.html
       \endverb
-    \endentry
-    \entry{ISO.2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
-           family={{International Organization for Standardization}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \field{extraname}{3}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
-      \field{volume}{ICS 03.100.70; 27.015}
-      \field{year}{2024}
-      \verb{doi}
-      \verb 10.31030/3543690
-      \endverb
-      \verb{file}
-      \verb fulltext380315446:Attachments/fulltext380315446.pdf:application/pdf
-      \endverb
-      \warn{\item misc entry 'ISO.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
     \endentry
     \entry{Marimon.2017}{article}{}{}
       \name{author}{2}{}{%
@@ -359,6 +388,97 @@
       \verb sustainability-09-01740 (1):Attachments/sustainability-09-01740 (1).pdf:application/pdf
       \endverb
       \keyw{benefits;difficulties;Energy Management System;ISO 50001;motivations;sustainability}
+    \endentry
+    \entry{Miller.2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8f0c34c8cdd5cdaafe9a245ce4e6a144}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7aed7b9fd9f3f68f49fc52321ae8c4c9}{%
+           family={Bubeck},
+           familyi={B\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=639f93d9bad826d618553ced90026212}{%
+           family={Hufendiek},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4d2eab4ae32eefe21c1a644ec0a6b2d}
+      \strng{fullhash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{fullhashraw}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{bibnamehash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authorbibnamehash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authornamehash}{b4d2eab4ae32eefe21c1a644ec0a6b2d}
+      \strng{authorfullhash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authorfullhashraw}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In den Debatten um Nachhaltigkeit, Klimawandel und der effizienten Nutzung von Ressourcen werden die Begriffe Energieeffizienz, rationelle Energieanwendung und Ressourceneffizienz häufig verwendet. Dahinter verbergen sich oft uneinheitliche Bewertungskonzepte, die vielfach nicht transparent dargestellt und erläutert werden. Vor diesem Hintergrund ist der Kern dieses Beitrags die Identifikation methodischer Unterscheidungsmerkmale zur systematischen Einordung der drei Bewertungskonzepte.}
+      \field{issn}{1866-2765}
+      \field{journaltitle}{Zeitschrift für Energiewirtschaft}
+      \field{number}{3}
+      \field{title}{Zur Methodik von Effizienzbewertungen im energiewirtschaftlichen Kontext}
+      \field{volume}{40}
+      \field{year}{2016}
+      \field{pages}{105\bibrangedash 125}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s12398-016-0180-9
+      \endverb
+      \verb{file}
+      \verb s12398-016-0180-9:Attachments/s12398-016-0180-9.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Musall.2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27e1c28c8ad4e6d028c86eb7cd1e7b84}{%
+           family={Musall},
+           familyi={M\bibinitperiod},
+           given={Eike},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universität Wuppertal}%
+      }
+      \strng{namehash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{fullhash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{fullhashraw}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{bibnamehash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{authorbibnamehash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{authornamehash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{authorfullhash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{authorfullhashraw}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klimaneutrale Gebäude: internationale Konzepte, Umsetzungsstrategien und Bewertungsverfahren für Null-und Plusenergiegebäude}
+      \field{year}{2015}
+      \verb{file}
+      \verb Klimaneutrale Geb{\"a}ude:Attachments/Klimaneutrale Geb{\"a}ude.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb urn:nbn:de:hbz:468-20160205-115728-8
+      \endverb
+      \verb{url}
+      \verb urn:nbn:de:hbz:468-20160205-115728-8
+      \endverb
     \endentry
     \entry{Rönsch.2015}{book}{}{}
       \name{author}{1}{}{%
@@ -492,7 +612,7 @@
       \verb 978-3-642-41120-5:Attachments/978-3-642-41120-5.pdf:application/pdf
       \endverb
     \endentry
-    \entry{AlbertoFichera.2020}{article}{}{}
+    \entry{Fichera.2020}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=4257be749df163073b184ee0fcd139c9}{%
            family={{Alberto Fichera}},
@@ -578,6 +698,96 @@
       \verb 978-3-662-49568-1 (1):Attachments/978-3-662-49568-1 (1).pdf:application/pdf
       \endverb
     \endentry
+    \entry{DIN50001.2018}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
+           family={{Deutsches Institut für Normung e. V.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{bibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorbibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authornamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DIN EN ISO 50001:2018-12, Energiemanagementsysteme -- Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018); Deutsche Fassung EN ISO 50001:2018}
+      \field{volume}{ICS 03.100.70; 27.015}
+      \verb{file}
+      \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
+      \endverb
+    \endentry
+    \entry{DIN18599.2018}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
+           family={{Deutsches Institut für Normung e. V.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{bibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorbibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authornamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DIN V 18599-1:2018-09, Energetische Bewertung von Gebäuden -- Berechnung des Nutz-, End- und Primärenergiebedarfs für Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung -- Teil 1: Allgemeine Bilanzierungsverfahren, Begriffe, Zonierung und Bewertung der Energieträger}
+      \field{volume}{ICS 91.120.10; 91.140.01}
+      \field{year}{2018}
+      \verb{file}
+      \verb fulltext293515783:Attachments/fulltext293515783.pdf:application/pdf
+      \endverb
+      \warn{\item misc entry 'DIN18599.2018' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{DIN50006.2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b66eb65a23e2e4e9c8df58b31f643053}{%
+           family={{Deutsches Institut für Normung e. V.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{fullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{bibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorbibnamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authornamehash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhash}{b66eb65a23e2e4e9c8df58b31f643053}
+      \strng{authorfullhashraw}{b66eb65a23e2e4e9c8df58b31f643053}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
+      \field{volume}{ICS 03.100.70; 27.015}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.31030/3543690
+      \endverb
+      \verb{file}
+      \verb fulltext380315446:Attachments/fulltext380315446.pdf:application/pdf
+      \endverb
+      \warn{\item misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
+    \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d73fb1481f09d1b25d3e06ea5bda2e18}{%
@@ -608,33 +818,6 @@
       \field{title}{Win the Energy Challenge with ISO 50001}
       \field{year}{2011}
     \endentry
-    \entry{ISO.2018}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
-           family={{International Organization for Standardization}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \field{extraname}{1}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{DIN EN ISO 50001:2018-12, Energiemanagementsysteme -- Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018); Deutsche Fassung EN ISO 50001:2018}
-      \field{volume}{ICS 03.100.70; 27.015}
-      \verb{file}
-      \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
-      \endverb
-    \endentry
     \entry{InternationalOrganizationforStandardization.2023}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
@@ -649,7 +832,6 @@
       \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
       \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
       \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \field{extraname}{2}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
       \field{extradatescope}{labelyear}
@@ -668,39 +850,6 @@
       \verb{url}
       \verb https://www.iso.org/the-iso-survey.html
       \endverb
-    \endentry
-    \entry{ISO.2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
-           family={{International Organization for Standardization}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{fullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
-      \strng{authorfullhashraw}{7058e4bd76f877c52b621c942b30613c}
-      \field{extraname}{3}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{E DIN ISO 50006:2024-07 Energiemanagementsysteme - Bewertung der Energieleistung anhand von Energieleistungskennzahlen und energetischen Ausgangsbasen (ISO 50006:2023); Text Deutsch und Englisch}
-      \field{volume}{ICS 03.100.70; 27.015}
-      \field{year}{2024}
-      \verb{doi}
-      \verb 10.31030/3543690
-      \endverb
-      \verb{file}
-      \verb fulltext380315446:Attachments/fulltext380315446.pdf:application/pdf
-      \endverb
-      \warn{\item misc entry 'ISO.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
     \endentry
     \entry{Marimon.2017}{article}{}{}
       \name{author}{2}{}{%
@@ -747,6 +896,97 @@
       \verb sustainability-09-01740 (1):Attachments/sustainability-09-01740 (1).pdf:application/pdf
       \endverb
       \keyw{benefits;difficulties;Energy Management System;ISO 50001;motivations;sustainability}
+    \endentry
+    \entry{Miller.2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8f0c34c8cdd5cdaafe9a245ce4e6a144}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7aed7b9fd9f3f68f49fc52321ae8c4c9}{%
+           family={Bubeck},
+           familyi={B\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=639f93d9bad826d618553ced90026212}{%
+           family={Hufendiek},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4d2eab4ae32eefe21c1a644ec0a6b2d}
+      \strng{fullhash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{fullhashraw}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{bibnamehash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authorbibnamehash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authornamehash}{b4d2eab4ae32eefe21c1a644ec0a6b2d}
+      \strng{authorfullhash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authorfullhashraw}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In den Debatten um Nachhaltigkeit, Klimawandel und der effizienten Nutzung von Ressourcen werden die Begriffe Energieeffizienz, rationelle Energieanwendung und Ressourceneffizienz häufig verwendet. Dahinter verbergen sich oft uneinheitliche Bewertungskonzepte, die vielfach nicht transparent dargestellt und erläutert werden. Vor diesem Hintergrund ist der Kern dieses Beitrags die Identifikation methodischer Unterscheidungsmerkmale zur systematischen Einordung der drei Bewertungskonzepte.}
+      \field{issn}{1866-2765}
+      \field{journaltitle}{Zeitschrift für Energiewirtschaft}
+      \field{number}{3}
+      \field{title}{Zur Methodik von Effizienzbewertungen im energiewirtschaftlichen Kontext}
+      \field{volume}{40}
+      \field{year}{2016}
+      \field{pages}{105\bibrangedash 125}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s12398-016-0180-9
+      \endverb
+      \verb{file}
+      \verb s12398-016-0180-9:Attachments/s12398-016-0180-9.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Musall.2015}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=27e1c28c8ad4e6d028c86eb7cd1e7b84}{%
+           family={Musall},
+           familyi={M\bibinitperiod},
+           given={Eike},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universität Wuppertal}%
+      }
+      \strng{namehash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{fullhash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{fullhashraw}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{bibnamehash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{authorbibnamehash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{authornamehash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{authorfullhash}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \strng{authorfullhashraw}{27e1c28c8ad4e6d028c86eb7cd1e7b84}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Klimaneutrale Gebäude: internationale Konzepte, Umsetzungsstrategien und Bewertungsverfahren für Null-und Plusenergiegebäude}
+      \field{year}{2015}
+      \verb{file}
+      \verb Klimaneutrale Geb{\"a}ude:Attachments/Klimaneutrale Geb{\"a}ude.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb urn:nbn:de:hbz:468-20160205-115728-8
+      \endverb
+      \verb{url}
+      \verb urn:nbn:de:hbz:468-20160205-115728-8
+      \endverb
     \endentry
     \entry{Rönsch.2015}{book}{}{}
       \name{author}{1}{}{%
