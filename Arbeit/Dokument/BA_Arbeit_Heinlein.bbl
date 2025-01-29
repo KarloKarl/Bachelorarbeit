@@ -389,6 +389,58 @@
       \endverb
       \keyw{benefits;difficulties;Energy Management System;ISO 50001;motivations;sustainability}
     \endentry
+    \entry{Miller.2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8f0c34c8cdd5cdaafe9a245ce4e6a144}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7aed7b9fd9f3f68f49fc52321ae8c4c9}{%
+           family={Bubeck},
+           familyi={B\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=639f93d9bad826d618553ced90026212}{%
+           family={Hufendiek},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4d2eab4ae32eefe21c1a644ec0a6b2d}
+      \strng{fullhash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{fullhashraw}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{bibnamehash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authorbibnamehash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authornamehash}{b4d2eab4ae32eefe21c1a644ec0a6b2d}
+      \strng{authorfullhash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authorfullhashraw}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In den Debatten um Nachhaltigkeit, Klimawandel und der effizienten Nutzung von Ressourcen werden die Begriffe Energieeffizienz, rationelle Energieanwendung und Ressourceneffizienz häufig verwendet. Dahinter verbergen sich oft uneinheitliche Bewertungskonzepte, die vielfach nicht transparent dargestellt und erläutert werden. Vor diesem Hintergrund ist der Kern dieses Beitrags die Identifikation methodischer Unterscheidungsmerkmale zur systematischen Einordung der drei Bewertungskonzepte.}
+      \field{issn}{1866-2765}
+      \field{journaltitle}{Zeitschrift für Energiewirtschaft}
+      \field{number}{3}
+      \field{title}{Zur Methodik von Effizienzbewertungen im energiewirtschaftlichen Kontext}
+      \field{volume}{40}
+      \field{year}{2016}
+      \field{pages}{105\bibrangedash 125}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s12398-016-0180-9
+      \endverb
+      \verb{file}
+      \verb s12398-016-0180-9:Attachments/s12398-016-0180-9.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{Musall.2015}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=27e1c28c8ad4e6d028c86eb7cd1e7b84}{%
@@ -844,6 +896,58 @@
       \verb sustainability-09-01740 (1):Attachments/sustainability-09-01740 (1).pdf:application/pdf
       \endverb
       \keyw{benefits;difficulties;Energy Management System;ISO 50001;motivations;sustainability}
+    \endentry
+    \entry{Miller.2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8f0c34c8cdd5cdaafe9a245ce4e6a144}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7aed7b9fd9f3f68f49fc52321ae8c4c9}{%
+           family={Bubeck},
+           familyi={B\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=639f93d9bad826d618553ced90026212}{%
+           family={Hufendiek},
+           familyi={H\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b4d2eab4ae32eefe21c1a644ec0a6b2d}
+      \strng{fullhash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{fullhashraw}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{bibnamehash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authorbibnamehash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authornamehash}{b4d2eab4ae32eefe21c1a644ec0a6b2d}
+      \strng{authorfullhash}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \strng{authorfullhashraw}{41ebbb0388e9812c748bc1b6a47bcab2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In den Debatten um Nachhaltigkeit, Klimawandel und der effizienten Nutzung von Ressourcen werden die Begriffe Energieeffizienz, rationelle Energieanwendung und Ressourceneffizienz häufig verwendet. Dahinter verbergen sich oft uneinheitliche Bewertungskonzepte, die vielfach nicht transparent dargestellt und erläutert werden. Vor diesem Hintergrund ist der Kern dieses Beitrags die Identifikation methodischer Unterscheidungsmerkmale zur systematischen Einordung der drei Bewertungskonzepte.}
+      \field{issn}{1866-2765}
+      \field{journaltitle}{Zeitschrift für Energiewirtschaft}
+      \field{number}{3}
+      \field{title}{Zur Methodik von Effizienzbewertungen im energiewirtschaftlichen Kontext}
+      \field{volume}{40}
+      \field{year}{2016}
+      \field{pages}{105\bibrangedash 125}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s12398-016-0180-9
+      \endverb
+      \verb{file}
+      \verb s12398-016-0180-9:Attachments/s12398-016-0180-9.pdf:application/pdf
+      \endverb
     \endentry
     \entry{Musall.2015}{book}{}{}
       \name{author}{1}{}{%

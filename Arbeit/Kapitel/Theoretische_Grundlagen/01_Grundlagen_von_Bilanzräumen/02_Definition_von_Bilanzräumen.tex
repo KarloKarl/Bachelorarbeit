@@ -1,16 +1,123 @@
-\subsection{Definition von Bilanzräumen}
+\subsection{Konzept: Bilanzraum}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection{Bilanzraumgrenzen zur Abbildung des bilanzierten Systems}
+Eine Bilanz bezieht sich gemäß Ahrendts (2014, Kapitel 1.5) auf das von der Systemgrenze eingeschlossene Kontrollgebiet. 
+Die Systemgrenze kann dabei unter Berücksichtigung der Zweckmäßigkeit frei definiert werden (\cite[Kapitel 1.5]{Ahrendts.2014}).
+Das definierte System kann auch als Bilanzraum bezeichnet werden, da die Berechnung der in einen Bilanzraum ein- und austretenden Ströme als Bilanzierung bezeichnet wird (\cite[S. 65]{Rönsch.2015}).
+Einen Ansatz zur Definition von Bilanzräumen liefert Miller (2016, S. 105) mit der Konkretisierung von Bewertungsräumen mittels Kriterien der Bilanzgrenze, dem 
+Aggregationsniveau und der Bewertungseinheit. Das definierte System Dient der Bewertung der Nutzung der Ressourcen wobei der Effizienzbegriff eine zentrale Rolle spielt (\cite[S. 107]{Miller.2016}).
+Miller (2016, S. 107) definiert die Effizienz nach Gleichung \eqref{EffizienzgleichungMiller}.
+
+\begin{equation}
+    \text{Effizienz} := \frac{\text{Erreichter Nutzen}}{\text{Aufwand}}
+    \label{EffizienzgleichungMiller}
+\end{equation}
+
+Der Aufwand umfasst nach Miller (2016, S. 108f.) unterschiedliche Ressourcen, wobei im Kontext energiewirtschaftlicher Fragestellungen der Fokus auf der Ressource Energie 
+liegt. Der Nutzen ist vom Untersuchungsgegenstand, also der zu bilanzierenden Zustandsgröße, abhängig und wird im Kontext der energiewirtschaftlichen 
+Fragestellung häufig über Energiedienstleitstungen operationalisiert (\cite[S. 107]{Miller.2016}). Betrachtet man dass der Nutzen grundsätzlich durch Befriedigung 
+von Bedürfnissen beschrieben wird entsteht im Kontext der Energiewirtschaft ein Nutzenergiebedarf zur Befriedigung der Bedürfnisse im Rahmen einer Energiedienstleitstung 
+(\cite[S. 107]{Miller.2016}). Der Nutzen wird meist implizit durch den gewählten Untersuchungsgegenstand, also der bilanzierten Zustandsgröße, definiert (\cite[S. 110]{Miller.2016}).
+Die in \eqref{EffizienzgleichungMiller} aufgestellte Nutzen-Aufwand Relation stellt die Grundlage der Definition der Bilanzraumgrenze dar. 
+Die Bilanzraumgrenze lässt sich somit in die Aufwandsseitige Bilanzgrenze, die alle zu bilanzierenden Ressourcen umfasst und die Nutzenseitige Bilanzrgrenze die sich auf 
+die zu Bilanzierende Energiedienstleitstung bezieht (\cite[S. 111]{Miller.2016}).  
+
+Das von Miller (2016) beschriebene Konzept bringt eine neue Perspektive auf die in \eqref{BilanzierungsgleichungAhrendt} und \eqref{BilanzierungsgleichungAhrendtStrom} 
+aufgestellte Bilanzgleichung. Sie bringt das Prinzip der Effizienz ein und teilt eine Bilanz in Aufwands und Nutzenseite. 
+Aufwandsseitig sind die in \eqref{BilanzierungsgleichungAhrendt} zufließenden Ströme und Quellen der Zustandsgröße zu betrachten. 
+Nutzenseitig müssen abfließende Ströme und Senken der Zustandsgröße betrachtet werden. Im Zentrum der Bilanzierung steht der Untersuchungsgegenstand, welcher in 
+\eqref{BilanzierungsgleichungAhrendt} als Zustandsgröße definiert ist und einen Nutzen im Rahmen einer Energiedienstleitstung impliziert. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection{Zustandsgrößen in Bilanzräumen}
+Im Rahmen der in \eqref{energiebilanzierungsgleichung_Rönsch}, \eqref{BilanzierungsgleichungAhrendt} und \eqref{BilanzierungsgleichungAhrendtStrom} beschriebenen Bilanzierung 
+spielt die Zustandsgröße eine zentrale Rolle. 
+Die Definition der Systemgrenze wird vom Untersuchungsgegenstand, also der Zustandsgrößen beeinflusst (\cite[S. 109]{Miller.2016}). Somit gilt die Zweckmäßigkeit der Systemgrenze 
+auch für die zu untersuchenden Zustandsgrößen.
+
+Die DIN EN ISO 50001:2018-12 gibt mit dem Ziel der fortlaufenden Verbesserung der energiebezogenen Leistung eine Vorgabe zur zweckmäßigen Definition der Zustandsgröße 
+(\cite[S. 11]{DIN50001.2018}).
+Da sich der Anwendungskontext der Bilanzierung auf energetische Größen im Bereich der Gebäudeenergie bezieht, ist eine zweckmäßige Auswahl der Zustandsgrößen zur Bewertung 
+relevanter energetischer Parameter erforderlich.
+Die Vornorm DIN V 18599-1:2018-09, herausgegeben vom Deutschen Institut für Normung e. V. (2018, S. 1), behandelt die energetische Bewertung von Gebäuden und stellt ein 
+Verfahren zur Durchführung der Gesamtenergiebilanz bereit (\cite[S. 9]{DIN18599.2018}). Ihre Ausrichtung auf die energetische Bewertung erfüllt die Zweckmäßigkeit der 
+DIN EN ISO 50001:2018-12. Der Fokus auf die Bewertung von Gebäuden entspricht der Zielsetzung der DIN V 18599-1:2018-09. 
+Die Vorgaben der DIN V 18599-1:2018-09 bieten daher einen wertvollen Beitrag zur zielgerichteten Erarbeitung von zweckmäßigen Zustandsgrößen und werden im Folgenden 
+näher untersucht.
+
+Im Rahmen der energetischen bewertung von Gebäuden betrachtet die DIN V 18599-1:2018-09 die Bilanzierung des Nutz-, End- und Primärenergiebedarf (\cite{DIN18599.2018}).
+In einem energiewirtschaftlichen Rahmen hat besonders der Nutzeenergiebedarf eine Große Bedeutung da er aus der Befriedigung der Bedürfnisse im Rahmen einer 
+Energiedienstleistung resultiert (\cite[S. 107]{Miller.2016}).
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{../../Ressourcen/Bilder/Energiefluss_Miller.jpg}
+    \caption{Energieflussschema. (Dargestellt von Miller (2016))}
+    \label{fig:Energieflussschema_Miller}
+\end{figure}
+
+Im Energieflussdiagramm \eqref{fig:Energieflussschema_Miller} wird die Nutzenergie zwischen der Endenergie und der Energiedienstleistungen verortet. 
+Da die Endenergie die Energiemenge ist, die dem Bilanzraum zur bestimmungsgemäßen Nutzung bereitgestellt wird (\cite[Kapitel 3.1.2]{DIN18599.2018}), 
+Repräsentiert diese Energieform die Menge der potentiellen Ressourcen auf Aufwandsseite der Bilanzierung.
+Außerdem wird der praktische Sachverhalt veranschaulicht dass bei der Umwandlung von Endenergie in Energiedienstleistungen über die Nutzenergie 
+Umwandlungs und Transportverluste berücksichtigt werden müssen.
+Dass Zustandsvariablen den Nutzen, der durch Energiedienstleistungen operationalisiert wird, impliziert (\cite[S. 110]{Miller.2016}), zeigt die Notwendigkeit zur 
+festlegung geeigneter Zustandsvariablen des Nutzenergiebedarfs im Anwendungskontext.
+
+Die DIN V 18599-1:2018-09 definiert den Nutzenergiebedarf für Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung als relevante Untersuchungsgegenstände 
+zur energetischen Bewertung von Gebäuden (\cite{DIN18599.2018}). 
+Somit versteht sich der Nutzenergiebedarf im Rahmen der Vornorm als Überbegriff für Nutzwärmebedarf, Nutzkältebedarf, Nutzenergiebedarf für Tinkwarmwasser, Beleuchtung und 
+Befeuchtung definiert (\cite[Kapitel 3.1.3]{DIN18599.2018}).
+Die Nutzeenergie für die Beleuchtung versteht sich als die Energiemenge die zur Ausreichenden Beleuchtung der Gebäudezone aufgewendet werden muss (\cite[Kapitel 5.3.1]{DIN18599.2018}).
+Der Nutzwärmebedarf hingegen ist die Wämemenge, die der Gebäudezone zusätzlich (bedarfs-)geregelt zugeführt werden muss, um die vorgegebene 
+Sollinnentemperatur einzuhalten (\cite[Kapitel 5.3.1]{DIN18599.2018}).
+Im Rahmen der Luftaufbereitung versteht sich die Nutzenergie als Energiemenge die zum Erwärmen, Kühlen, Befeuchten und Entfeuchten der Luft in einer 
+raumlufttechnischen Anlage zu- beziehungsweise abgeführt werden muss um den erforderlichen Zuluftzustand zu erreichen (\cite[Kapitel 5.3.1]{DIN18599.2018}).
+Die Nutzenergie für die Trinkwarmwasserbereitung bedeutet die Energiemenge für die Erwärmung des Trinkwassers von der Kaltwassertemperatur auf die 
+Warmwassertemperatur an der Entnahmestelle (\cite[Kapitel 5.3.1]{DIN18599.2018}).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection{Energieströme in Bilanzräumen}
+Die Veränderung einer Zustandsgröße innerhalb eines Systems ist nach der von Ahrendts (2014, Kapitel 1.5) aufgestellten Gleichung zum einen  
+von den ein- und austretenden Zustandsströmen der Zustandsgröße abhängig. Dazu beitragend wird in der Gleichung \eqref{BilanzierungsgleichungAhrendtStrom}
+der Strom eines Zustands als Menge der Zustandsgröße in einem infinitesimal kleinen Zeitintervall definiert, welches im Grenzwert gegen 0 geht. 
+Die Definition von Ahrendts (2014, Kapitel 1.5) gibt also Auskunft über die Veränderung der Zustandsgröße zu einem spezifischen Zeitpunkt.
+
+Der in der DIN EN ISO 50001:2018-12 geforderte Nachweis der fortlaufenden Verbesserung der Energiebezogenen Leistung zeigt jedoch eine weitere notwendige Perspektive 
+auf den Sachverhalt der Bilanzierung von Zustandsgrößen. Und zwar meint "Fortlaufend" laut DIN EN ISO 50001:2018-12 das Auftreten über einen Zeitraum (\cite[S. 38]{DIN50001.2018}). 
+Das impliziert die Notwendigkeit die Bilanzierung einer Zustandsgröße auch in einem frei definierbaren Zeitintervall zu betrachten. 
+
+% TODO: Recherche neue Gleichung
+% Wie kommt man von der gegebenen Gleichung (Veränderung der Zustandsgröße an einem Zeitpunkt) zu einer Gleichung die die Größe der Zustandsgröße in einem Festen Zeitintervall beschreibt (Strom -> Zeitreihe)?
+
+\subsubsection{Energiequellen und -senken in Bilanzräumen}
+Gleichung \eqref{BilanzierungsgleichungAhrendt} unterscheidet zwmischen Quellen, Senken und zu- beziehungsweise abfließenden Strömen der Zustandsgröße. 
+Quell- und Senkenströme treten in einer Energiebilanz nach dem ersten Hauptsatz der Thermodynamik nicht auf da Energie als Erhaltungsgröße ist (\cite[S. 14]{Ahrendts.2014}). 
+Im Rahmen der DIN EN ISO 50001:2018-12 bezieht sich der Begriff Energie auf verschiedene Arten von Energie die erworben, gespeichert, aufbereitet, in einer Einrichtung oder einem Prozess verwendet 
+oder zurückgewonnen werden können (\cite[Kapitel 3.5.1]{DIN50001.2018}). Energie kann im Rahmen der Norm als Elektrizität, Brennstoff, Dampf, Wärme, Druckluft oder vergleichbares Medium auftreten 
+(\cite[Kapitel 3.5.1]{DIN50001.2018}).
+Folglich werden alle Energieströme, in denen Energie in eine Energieform umgewandelt wird, die nicht die genannten Kirterien erfüllen als Energiesenken betrachtet. 
+Analog dazu werden alle Energieströme, bei denen Energie, die nicht den von der Norm aufgestellten Kriterien entspricht, in eine nach ISO 50001 definierte Energieform 
+umgewandelt wird, als Energiequellen betrachtet.
+
+
+
 
 % TODO: Definition Haupmerkmale, Kontext SEU-Bilanz
 % TODO: Umformulieren
 
-Bei der Wahl einer Zustandsgröße haben neben der Zweckmäßigkeit auch die Messinfrastruktur in Organisationen eine Relevanz.
-Denn die Gleichung \eqref{BilanzierungsgleichungAhrendt} beschreibt das Verhalten der Zustandsgröße in Abhängigkeit von den zu- und abfließenden Zustandsgrößen und den 
-Quellen und Senken der Zustandsgröße. Wenn die Ströme, Quellen und Senken der Zustandsgröße nicht vollständig Erfasst werden ist somit auch keine korrekte Bilanzierung 
-möglich. 
-Die DIN EN ISO 50001:2018-12 (2018, Kapitel 6.6, A.6.6) stellt Anforderungen und Qualitätskriterien an die Datensammlung in Organisationen.
-Diese verpflichtet Organisationen dazu Hauptmerkmale ihrer Tätigkeiten, die sich auf die energiebezogene Leistung auswirken zu identifizieren, und diese in geplanten 
-Zeitabständen zu messen, überwachen und analysieren (\cite[S. 23]{DIN50001.2018}).
-Teil der zu erfassenden Hauptmerkmale sind relevante Variablen bezüglich wesentlicher Energieeinsätze, den Energieverbrauch bezüglich wesentlicher Einsätze 
-und der Organisation und betriebliche Kriterien bezüglich wesentlicher Energieeinsätze(\cite[S. 23]{DIN50001.2018}).
-Die komplexität der Umsetzung ist dabei nicht vorgeschrieben und kann von einfachen Zählwerten bis hin zu umfangreichen Werten aus Überwachungs- und Messystemen mit 
-Softwareandwendung reichen (\cite[S. 36]{DIN50001.2018}).
+% Bei der Wahl einer Zustandsgröße haben neben der Zweckmäßigkeit auch die Messinfrastruktur in Organisationen eine Relevanz.
+% Denn die Gleichung \eqref{BilanzierungsgleichungAhrendt} beschreibt das Verhalten der Zustandsgröße in Abhängigkeit von den zu- und abfließenden Zustandsgrößen und den 
+% Quellen und Senken der Zustandsgröße. Wenn die Ströme, Quellen und Senken der Zustandsgröße nicht vollständig Erfasst werden ist somit auch keine korrekte Bilanzierung 
+% möglich. 
+% Die DIN EN ISO 50001:2018-12 (2018, Kapitel 6.6, A.6.6) stellt Anforderungen und Qualitätskriterien an die Datensammlung in Organisationen.
+% Diese verpflichtet Organisationen dazu Hauptmerkmale ihrer Tätigkeiten, die sich auf die energiebezogene Leistung auswirken zu identifizieren, und diese in geplanten 
+% Zeitabständen zu messen, überwachen und analysieren (\cite[S. 23]{DIN50001.2018}).
+% Teil der zu erfassenden Hauptmerkmale sind relevante Variablen bezüglich wesentlicher Energieeinsätze, den Energieverbrauch bezüglich wesentlicher Einsätze 
+% und der Organisation und betriebliche Kriterien bezüglich wesentlicher Energieeinsätze(\cite[S. 23]{DIN50001.2018}).
+% Die komplexität der Umsetzung ist dabei nicht vorgeschrieben und kann von einfachen Zählwerten bis hin zu umfangreichen Werten aus Überwachungs- und Messystemen mit 
+% Softwareandwendung reichen (\cite[S. 36]{DIN50001.2018}).

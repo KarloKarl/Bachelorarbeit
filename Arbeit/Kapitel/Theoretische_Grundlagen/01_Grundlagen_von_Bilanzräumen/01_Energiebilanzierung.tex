@@ -28,8 +28,8 @@ Wirtschaftssektors energiebezogene Prozesse und Technologien im Gegensatz zur Ge
 
 Im Rahmen der Bestimmung des Gesamtenergiebedarfs eines Gebäudes über den Lebenszyklus wird vor allem der Gebäudebetrieb betrachtet (\cite[S. 133]{Musall.2015}).
 Die sogenannte Graue Energie wird üblicherweise als kumulierter, nicht erneuerbarer Primärenergieaufwand beschrieben, der alle vor- und nachgelagerten 
-Prozesse der verwendeten Baustoffe und Materialien sowie der technischen Anlagen umfasst (\cite[S. 133]{Musall.2015}). Da sich die Norm auf die 
-fortlaufende Verbesserung der energiebezogenen Leistung abzielt und die Graue Energie konstant ist wird diese im Rahmen dieser Arbeit nicht 
+Prozesse der verwendeten Baustoffe und Materialien sowie der technischen Anlagen umfasst (\cite[S. 133]{Musall.2015}). Da die DIN EN ISO 50001:2018-12 
+auf die fortlaufende Verbesserung der energiebezogenen Leistung abzielt und die Graue Energie konstant ist wird diese im Rahmen dieser Arbeit nicht 
 betrachtet. 
 Stattdessen liegt der Fokus dieser Forschungsarbeit auf der Bilanzierung energetischer Größen im Rahmen von Organisation des tertiäten Wirtschaftssektors. 
 Sie grenzt sich somit von der Bilanzierung von Rohstoffen und Materialien ab.
@@ -94,7 +94,7 @@ Die von Ahrendts (2014, Kapitel 1.5) aufgestellte Bilanzgleichung wird in den Fo
 
 \begin{description}
     \item \(X_{\text{j}}\): Zustandsgröße.
-    \item \(\tau\): Zeitkonstante.
+    \item \(\tau\): Zeitintervall.
     \item \(X_{\text{j,e}}\): Über die Systemgrenze zufließende Zustandsgröße.
     \item \(X_{\text{j,a}}\): Über die Systemgrenze abfließende Zustandsgröße.
     \item \(X_{\text{j,Quell}}\): Quellen der Zustandsgröße im System.
@@ -122,74 +122,5 @@ Somit formulieren die Gleichungen \eqref{energiebilanzierungsgleichung_Rönsch} 
 \eqref{BilanzierungsgleichungAhrendtStrom} eine grundlegende und zugleich vereinfachte mathematische Beschreibung einer Bilanzierung im Kontext 
 der Thermodynamik und Verfahrenstechnik. Sie bilden die Basis für die Beschreibung der grundlegenden Struktur einer Bilanz.
 Im Folgenden werden die in \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} mit \eqref{BilanzierungsgleichungAhrendtStrom} 
-beschriebenen Bestandteile einer Bilanz im Anwendungskontext des Problemraums analysiert und in den praktischen Kontext dieser Arbeit gebracht. 
+beschriebenen Bestandteile einer Bilanz zur Konzeption eines Bilanzraums im Anwendungskontext des Problemraums analysiert. 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\subsubsection{Zustandsgrößen}
-Eine Bilanz bezieht sich gemäß Ahrendts (2014, Kapitel 1.5) auf das von der Systemgrenze eingeschlossene Kontrollgebiet. 
-Die Systemgrenze kann dabei unter Berücksichtigung der Zweckmäßigkeit frei definiert werden (\cite[Kapitel 1.5]{Ahrendts.2014}).
-Im Rahmen der in \eqref{energiebilanzierungsgleichung_Rönsch}, \eqref{BilanzierungsgleichungAhrendt} und \eqref{BilanzierungsgleichungAhrendtStrom} beschriebenen Bilanzierung 
-spielt die Zustandsgröße eine zentrale Rolle. 
-Folglich muss die Definition der Zustandsgröße ebenfalls unter dem Gesichtspunkt der Zweckmäßigkeit erfolgen.
-
-Die DIN EN ISO 50001:2018-12 gibt mit dem Ziel der fortlaufenden Verbesserung der energiebezogenen Leistung eine Vorgabe zur zweckmäßigen Definition der Zustandsgröße 
-(\cite[S. 11]{DIN50001.2018}).
-Da sich der Anwendungskontext der Bilanzierung auf energetische Größen im Bereich der Gebäudeenergie bezieht, ist eine zweckmäßige Auswahl der Zustandsgrößen zur Bewertung 
-relevanter energetischer Parameter erforderlich.
-Die Vornorm DIN V 18599-1:2018-09, herausgegeben vom Deutschen Institut für Normung e. V. (2018, S. 1), behandelt die energetische Bewertung von Gebäuden und stellt ein 
-Verfahren zur Durchführung der Gesamtenergiebilanz bereit (\cite[S. 9]{DIN18599.2018}). Ihre Ausrichtung auf die energetische Bewertung erfüllt die ZweckmäßigkeDIN18599it der 
-DIN EN ISO 50001:2018-12. Der Fokus auf die Bewertung von Gebäuden entspricht der Zielsetzung der DIN V 18599-1:2018-09. 
-Die Vorgaben der DIN V 18599-1:2018-09 bieten daher einen wertvollen Beitrag zur zielgerichteten Erarbeitung von zweckmäßigen Zustandsgrößen und werden im Folgenden 
-näher untersucht.
-
-Im Rahmen der energetischen bewertung von Gebäuden betrachtet die DIN V 18599-1:2018-09 die Bilanzierung des Nutz-, End- und Primärenergiebedarf (\cite{DIN18599.2018}). 
-Dabei sind die Heizung, Kühlung, Lüftung, Trinkwarmwasser und Beleuchtung des Gebäudes Untersuchungsgegenstände der Bilanzierung des Energiebedarfs (\cite{DIN18599.2018}). 
-Der Nutzenergiebedarf wird von der Vornorm als Überbegriff für Nutzwärmebedarf, Nutzkältebedarf, Nutzenergiebedarf für Tinkwarmwasser, Beleuchtung und 
-Befeuchtung definiert (\cite[Kapitel 3.1.3]{DIN18599.2018}).
-So versteht sich die Nutzeenergie für die Beleuchtung als die Energiemenge die zur Ausreichenden Beleuchtung der Gebäudezone aufgewendet werden muss (\cite[Kapitel 5.3.1]{DIN18599.2018}).
-Der Nutzwärmebedarf hingegen ist die Wämemenge, die der Gebäudezone zusätzlich (bedarfs-)geregelt zugeführt werden muss, um die vorgegebene 
-Sollinnentemperatur einzuhalten (\cite[Kapitel 5.3.1]{DIN18599.2018}).
-Im Rahmen der Luftaufbereitung versteht sich die Nutzenergie als Energiemenge die zum Erwärmen, Kühlen, Befeuchten und Entfeuchten der Luft in einer 
-raumlufttechnischen Anlage zu- beziehungsweise abgeführt werden muss um den erforderlichen Zuluftzustand zu erreichen (\cite[Kapitel 5.3.1]{DIN18599.2018}).
-Die Nutzenergie für die Trinkwarmwasserbereitung bedeutet die Energiemenge für die Erwärmung des Trinkwassers von der Kaltwassertemperatur auf die 
-Warmwassertemperatur an der Entnahmestelle (\cite[Kapitel 5.3.1]{DIN18599.2018}).
-
-Der Endenergiebedarf wird von der Vornorm definiert als die berechnete Energiemenge, die der Anlagentechnik (Heizungsanlage, raumlufttechnische Anlage, Warmwasserbereitungsanlage, Beleuchtungsanlage) 
-zur Verfügung gestellt wird, um die festgelegte Rauminnentemperatur, die Erwärmung des Warmwassers und die gewünschte Beleuchtungsqualität über den Bilanzzeitraum sicherzustellen (\cite[Kapitel 3.1.2]{DIN18599.2018}).
-Die Endenergiemenge stellt somit die Energiemenge dar, die der Verbraucher für eine bestimmungsgemäße Nutzung unter normativen Randbedingungen im Bilanzzeitraum benötigt (\cite[Kapitel 3.1.2]{DIN18599.2018}). 
-Der Endenergiebedarf wird nach verwendeten Energieträgern angegeben (\cite[Kapitel 3.1.2]{DIN18599.2018}).
-Die Zustandsgrößen des Primärenergiebedarfs werden zur Reduktion der Komplexität im Rahmen dieser Forschung nicht weiter betrachtet.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\subsubsection{Energieströme und Energiemengen}
-Die Veränderung einer Zustandsgröße innerhalb eines Systems ist nach der von Ahrendts (2014, Kapitel 1.5) aufgestellten Gleichung zum einen  
-von den ein- und austretenden Zustandsströmen der Zustandsgröße abhängig. Dazu beitragend wird in der Gleichung \eqref{BilanzierungsgleichungAhrendtStrom}
-der Strom eines Zustands als Menge der Zustandsgröße in einem infinitesimal kleinen Zeitintervall definiert, welches im Grenzwert gegen 0 geht. 
-Die Definition von Ahrendts (2014, Kapitel 1.5) gibt also Auskunft über die Veränderung der Zustandsgröße zu einem spezifischen Zeitpunkt.
-
-Der in der DIN EN ISO 50001:2018-12 geforderte Nachweis der fortlaufenden Verbesserung der Energiebezogenen Leistung zeigt jedoch eine weitere notwendige Perspektive 
-auf den Sachverhalt der Bilanzierung von Zustandsgrößen. Und zwar meint "Fortlaufend" laut DIN EN ISO 50001:2018-12 das Auftreten über einen Zeitraum (\cite[S. 38]{DIN50001.2018}). 
-Das impliziert die Notwendigkeit die Bilanzierung einer Zustandsgröße auch in einem frei definierbaren Zeitintervall zu betrachten. 
-
-% TODO: Recherche neue Gleichung
-% Wie kommt man von der gegebenen Gleichung (Veränderung der Zustandsgröße an einem Zeitpunkt) zu einer Gleichung die die Größe der Zustandsgröße in einem Festen Zeitintervall beschreibt (Strom -> Zeitreihe)?
-
-Gleichung \eqref{BilanzierungsgleichungAhrendt} unterscheidet zwischen Quellen, Senken und zu- beziehungsweise abfließenden Strömen der Zustandsgröße. 
-Quell- und Senkenströme treten in einer Energiebilanz nach dem ersten Hauptsatz der Thermodynamik nicht auf da Energie als Erhaltungsgröße ist (\cite[S. 14]{Ahrendts.2014}). 
-Im Rahmen der DIN EN ISO 50001:2018-12 bezieht sich der Begriff Energie auf verschiedene Arten von Energie die erworben, gespeichert, aufbereitet, in einer Einrichtung oder einem Prozess verwendet 
-oder zurückgewonnen werden können (\cite[Kapitel 3.5.1]{DIN50001.2018}). Energie kann im Rahmen der Norm als Elektrizität, Brennstoff, Dampf, Wärme, Druckluft oder vergleichbares Medium auftreten 
-(\cite[Kapitel 3.5.1]{DIN50001.2018}).
-Folglich werden alle Energieströme, in denen Energie in eine Energieform umgewandelt wird, die nicht die genannten Kirterien erfüllen als Energiesenken betrachtet. 
-Analog dazu werden alle Energieströme, bei denen Energie, die nicht den von der Norm aufgestellten Kriterien entspricht, in eine nach ISO 50001 definierte Energieform 
-umgewandelt wird, als Energiequellen betrachtet.
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\subsubsection{Bilanzräume als System}
-Das System stellt den Kontext der Bilanz dar, indem es die Grenzen definiert und sich gemäß \eqref{energiebilanzierungsgleichung_Rönsch} auf das Verhalten der 
-Zustandsgröße auswirkt. Nach \eqref{BilanzierungsgleichungAhrendt} können in einem System mehrere Zustandsgrößen bilanziert werden.
