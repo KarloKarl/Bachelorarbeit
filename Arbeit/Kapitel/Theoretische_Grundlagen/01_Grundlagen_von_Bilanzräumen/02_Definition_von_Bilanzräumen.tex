@@ -83,21 +83,30 @@ Warmwassertemperatur an der Entnahmestelle (\cite[Kapitel 5.3.1]{DIN18599.2018})
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsubsection{Energieströme}
+% Strom -> Menge
 In der Gleichung \eqref{BilanzierungsgleichungAhrendtStrom} wird der Strom einer Zustandsgröße als Menge der Zustandsgröße in einem infinitesimal kleinen Zeit-
 intervall definiert, welches im Grenzwert gegen 0 geht. Folglich wird ein Strom von Ahrendts (2014) als Menge einer Zustandsgröße zu einem bestimmten Zeitpunkt 
 definiert. 
 
-% Strom -> Menge
+
 % Unterteilung: Aufwandsseitig/Nutzenseitig
 % Bewertungseinheiten
 % Aufwandseitig: Abgrenzung Energieträger
 % Aggregation von Ressourcen
-% Welche Herausforderungen bzgl Energiedatensammlung?
-% Wie grenzen sich Energiequellen/Senken ab? (Praktische Relevanz)
+
+Eine praktische Herausforderung der Energieströme ist die Energiedatensammlung der zu erfassenden Ströme zu der auch die DIN EN ISO 50001:2018-12 vorgaben macht. 
+Die DIN EN ISO 50001:2018-12 (2018, Kapitel 6.6, A.6.6) stellt Anforderungen und Qualitätskriterien an die Datensammlung in Organisationen.
+Diese verpflichtet Organisationen dazu Hauptmerkmale ihrer Tätigkeiten, die sich auf die energiebezogene Leistung auswirken zu identifizieren, und diese in geplanten 
+Zeitabständen zu messen, überwachen und analysieren (\cite[S. 23]{DIN50001.2018}).
+Teil der zu erfassenden Hauptmerkmale sind relevante Variablen bezüglich wesentlicher Energieeinsätze, den Energieverbrauch bezüglich wesentlicher Einsätze 
+und der Organisation und betriebliche Kriterien bezüglich wesentlicher Energieeinsätze(\cite[S. 23]{DIN50001.2018}).
+Die komplexität der Umsetzung ist dabei nicht vorgeschrieben und kann von einfachen Zählwerten bis hin zu umfangreichen Werten aus Überwachungs- und Messystemen mit 
+Softwareandwendung reichen (\cite[S. 36]{DIN50001.2018}).
+
 
 
 \subsubsection{Energiequellen und -senken}
-Gleichung \eqref{BilanzierungsgleichungAhrendt} unterscheidet zwmischen Quellen, Senken und zu- beziehungsweise abfließenden Strömen der Zustandsgröße. 
+Gleichung \eqref{BilanzierungsgleichungAhrendt} unterscheidet zwischen Quellen, Senken und zu- beziehungsweise abfließenden Strömen der Zustandsgröße. 
 Quell- und Senkenströme treten in einer Energiebilanz nach dem ersten Hauptsatz der Thermodynamik nicht auf da Energie als Erhaltungsgröße ist (\cite[S. 14]{Ahrendts.2014}). 
 Im Rahmen der DIN EN ISO 50001:2018-12 bezieht sich der Begriff Energie auf verschiedene Arten von Energie die erworben, gespeichert, aufbereitet, in einer Einrichtung oder einem Prozess verwendet 
 oder zurückgewonnen werden können (\cite[Kapitel 3.5.1]{DIN50001.2018}). Energie kann im Rahmen der Norm als Elektrizität, Brennstoff, Dampf, Wärme, Druckluft oder vergleichbares Medium auftreten 
@@ -105,15 +114,6 @@ oder zurückgewonnen werden können (\cite[Kapitel 3.5.1]{DIN50001.2018}). Energ
 Folglich werden alle Energieströme, in denen Energie in eine Energieform umgewandelt wird, die nicht die genannten Kirterien erfüllen als Energiesenken betrachtet. 
 Analog dazu werden alle Energieströme, bei denen Energie, die nicht den von der Norm aufgestellten Kriterien entspricht, in eine nach ISO 50001 definierte Energieform 
 umgewandelt wird, als Energiequellen betrachtet.
+In der Praxis stellen die in \eqref{fig:Energieflussschema_Miller} dargestellten Umwandlungs- und Transportverluste Energiesenken dar.
 
 
-
-
-
-% Die DIN EN ISO 50001:2018-12 (2018, Kapitel 6.6, A.6.6) stellt Anforderungen und Qualitätskriterien an die Datensammlung in Organisationen.
-% Diese verpflichtet Organisationen dazu Hauptmerkmale ihrer Tätigkeiten, die sich auf die energiebezogene Leistung auswirken zu identifizieren, und diese in geplanten 
-% Zeitabständen zu messen, überwachen und analysieren (\cite[S. 23]{DIN50001.2018}).
-% Teil der zu erfassenden Hauptmerkmale sind relevante Variablen bezüglich wesentlicher Energieeinsätze, den Energieverbrauch bezüglich wesentlicher Einsätze 
-% und der Organisation und betriebliche Kriterien bezüglich wesentlicher Energieeinsätze(\cite[S. 23]{DIN50001.2018}).
-% Die komplexität der Umsetzung ist dabei nicht vorgeschrieben und kann von einfachen Zählwerten bis hin zu umfangreichen Werten aus Überwachungs- und Messystemen mit 
-% Softwareandwendung reichen (\cite[S. 36]{DIN50001.2018}).

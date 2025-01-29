@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber BA_Arbeit_Heinlein"] 1738173523.03356 "BA_Arbeit_Heinlein.bcf" "BA_Arbeit_Heinlein.bbl" "BA_Arbeit_Heinlein" 1738174107.13409 0
+["biber BA_Arbeit_Heinlein"] 1738174554.53105 "BA_Arbeit_Heinlein.bcf" "BA_Arbeit_Heinlein.bbl" "BA_Arbeit_Heinlein" 1738174674.56405 0
   "../../Ressourcen/Bibliographie/ba_literatur.bib" 1738172158 45138 eb0c8b09039363deb53177d038cb6b59 ""
-  "BA_Arbeit_Heinlein.bcf" 1738174106 137151 3f471f42c1d74c9c1e589bde264e8237 "xelatex"
+  "BA_Arbeit_Heinlein.bcf" 1738174673 137358 15f146a2e6b0e06f9b227c29c5072fec "xelatex"
   (generated)
   "BA_Arbeit_Heinlein.bbl"
   "BA_Arbeit_Heinlein.blg"
   (rewritten before read)
-["xdvipdfmx"] 1738174106.35073 "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein.pdf" "BA_Arbeit_Heinlein" 1738174107.13958 0
-  "BA_Arbeit_Heinlein.xdv" 1738174106 412156 89db397c49e4eb7f296e06b4a3c23152 "xelatex"
+["xdvipdfmx"] 1738174673.76295 "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein.pdf" "BA_Arbeit_Heinlein" 1738174674.57005 0
+  "BA_Arbeit_Heinlein.xdv" 1738174673 424532 441ce684c708bac3527eb1e06d473eaa "xelatex"
   (generated)
   "BA_Arbeit_Heinlein.pdf"
   (rewritten before read)
-["xelatex"] 1738174104.04865 "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein" 1738174107.13449 0
+["xelatex"] 1738174671.3069 "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein" 1738174674.56446 0
   "../../Ressourcen/Bibliographie/ba_literatur.bib" 1738172158 45138 eb0c8b09039363deb53177d038cb6b59 ""
   "../../Ressourcen/Bilder/Energiefluss_Miller.jpg" 1738166716 152378 6c2421c9e69c42d8a4f774fae1d74e01 ""
   "../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg" 1735850030 372136 6c5d79b445fba1ea65979dd2f7a2dbf0 ""
@@ -21,16 +21,16 @@
   "../Kapitel/Einleitung/03_Ziele.tex" 1737722243 1284 9df562ba70b55f74186250cb1e8f4a4c ""
   "../Kapitel/Einleitung/04_Aufbau.tex" 1737637137 4658 c80b4ffbe7869ff95d6557138cffbe89 ""
   "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex" 1738172071 8803 3519de30cae4c3d8c4d95fa70afda0aa ""
-  "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex" 1738174103 11031 e5564c74d5ec70e5407d18d805ebbe5a ""
+  "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex" 1738174670 11197 6eb42cd33fcc7ab93b7abec52bb7a710 ""
   "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex" 1737574483 33 647a7bc0876db4674f12a43462f0ce28 ""
   "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex" 1737987066 49 1cf49aac8ad9c8ef4bdf997c600a34f8 ""
   "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex" 1737573831 29 b7173b3d6857d124ccd95eebc9b9c062 ""
   "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieleistungskennzahlen.tex" 1735660732 39 98040b6660ecc7a83ebcd2e00bc51e3f ""
-  "BA_Arbeit_Heinlein.aux" 1738174106 18082 edf3589f9b605d780d6ccf26d2e5a75e "xelatex"
-  "BA_Arbeit_Heinlein.bbl" 1738173525 54693 fa8afb03472263d22cba8986c491154d "biber BA_Arbeit_Heinlein"
-  "BA_Arbeit_Heinlein.run.xml" 1738174106 2589 8efe822addff136623c6d9f45d72fa9e "xelatex"
+  "BA_Arbeit_Heinlein.aux" 1738174673 18526 a28c5b0d5400257c15c34645228e4dab "xelatex"
+  "BA_Arbeit_Heinlein.bbl" 1738174556 54693 fa8afb03472263d22cba8986c491154d "biber BA_Arbeit_Heinlein"
+  "BA_Arbeit_Heinlein.run.xml" 1738174673 2589 8efe822addff136623c6d9f45d72fa9e "xelatex"
   "BA_Arbeit_Heinlein.tex" 1738172466 5419 5409f74830179067cdde112779a3bb6b ""
-  "BA_Arbeit_Heinlein.toc" 1738174106 5208 ab5cf4a78eea06f99e6a96a1765ff35d "xelatex"
+  "BA_Arbeit_Heinlein.toc" 1738174673 5208 884c7cbc911190d20d31909e06e7b504 "xelatex"
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1733171244 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1733169596 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2024/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1733169783 2289 4c0bd5448e6c4088c5170e3997082036 ""
