@@ -280,6 +280,88 @@
       \endverb
       \warn{\item misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
     \endentry
+    \entry{Engelmann.2015}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc75fe57f7afa29afdd55779a479856c}{%
+           family={Engelmann},
+           familyi={E\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{fullhash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{fullhashraw}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{bibnamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorbibnamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authornamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorfullhash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorfullhashraw}{fc75fe57f7afa29afdd55779a479856c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ein Energiedatenmanagement beschreibt den Umgang mit Energiedaten~-- von der Datenerfassung bis hin zur Analyse und Auswertung. So schlicht die Beschreibung ist, so gro{ß} sind doch die Missverständnisse und so verschieden die Interpretationen.}
+      \field{booktitle}{Energiemanagement: Für Fachkräfte, Beauftragte und Manager}
+      \field{isbn}{978-3-658-02834-3}
+      \field{title}{Energiedatenmanagement}
+      \field{year}{2015}
+      \field{pages}{285\bibrangedash 320}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1007/978-3-658-02834-3{\textunderscore }5
+      \endverb
+      \verb{file}
+      \verb 978-3-658-02834-3 (1):Attachments/978-3-658-02834-3 (1).pdf:application/pdf
+      \endverb
+      \warn{\item inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Hohnhold.2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dc6551321f5fbe52120f6556ad039da6}{%
+           family={Hohnhold},
+           familyi={H\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=6192b6edcf461fb0a5e875b857daf273}{%
+           family={Kai},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{fullhash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{fullhashraw}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{bibnamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorbibnamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authornamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorfullhash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorfullhashraw}{dbdcee021e53e5faae946cb8d1ca6098}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Economics: 330}
+      \field{title}{Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs- und Anwendungsmöglichkeiten in der Praxis}
+      \field{year}{2013}
+      \verb{file}
+      \verb 772085021:Attachments/772085021.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hdl.handle.net/10419/88105
+      \endverb
+      \verb{url}
+      \verb https://hdl.handle.net/10419/88105
+      \endverb
+    \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d73fb1481f09d1b25d3e06ea5bda2e18}{%
@@ -787,6 +869,88 @@
       \verb fulltext380315446:Attachments/fulltext380315446.pdf:application/pdf
       \endverb
       \warn{\item misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Engelmann.2015}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc75fe57f7afa29afdd55779a479856c}{%
+           family={Engelmann},
+           familyi={E\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{fullhash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{fullhashraw}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{bibnamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorbibnamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authornamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorfullhash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorfullhashraw}{fc75fe57f7afa29afdd55779a479856c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ein Energiedatenmanagement beschreibt den Umgang mit Energiedaten~-- von der Datenerfassung bis hin zur Analyse und Auswertung. So schlicht die Beschreibung ist, so gro{ß} sind doch die Missverständnisse und so verschieden die Interpretationen.}
+      \field{booktitle}{Energiemanagement: Für Fachkräfte, Beauftragte und Manager}
+      \field{isbn}{978-3-658-02834-3}
+      \field{title}{Energiedatenmanagement}
+      \field{year}{2015}
+      \field{pages}{285\bibrangedash 320}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1007/978-3-658-02834-3{\textunderscore }5
+      \endverb
+      \verb{file}
+      \verb 978-3-658-02834-3 (1):Attachments/978-3-658-02834-3 (1).pdf:application/pdf
+      \endverb
+      \warn{\item inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Hohnhold.2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dc6551321f5fbe52120f6556ad039da6}{%
+           family={Hohnhold},
+           familyi={H\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=6192b6edcf461fb0a5e875b857daf273}{%
+           family={Kai},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{fullhash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{fullhashraw}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{bibnamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorbibnamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authornamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorfullhash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorfullhashraw}{dbdcee021e53e5faae946cb8d1ca6098}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Economics: 330}
+      \field{title}{Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs- und Anwendungsmöglichkeiten in der Praxis}
+      \field{year}{2013}
+      \verb{file}
+      \verb 772085021:Attachments/772085021.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hdl.handle.net/10419/88105
+      \endverb
+      \verb{url}
+      \verb https://hdl.handle.net/10419/88105
+      \endverb
     \endentry
     \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
       \name{author}{1}{}{%

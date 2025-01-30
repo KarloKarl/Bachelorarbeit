@@ -88,13 +88,23 @@ In der Gleichung \eqref{BilanzierungsgleichungAhrendtStrom} wird der Strom einer
 intervall definiert, welches im Grenzwert gegen 0 geht. Folglich wird ein Strom von Ahrendts (2014) als Menge einer Zustandsgröße zu einem bestimmten Zeitpunkt 
 definiert. 
 
+In Gleichung \eqref{BilanzierungsgleichungAhrendt} wird zwischen in das System zu- und abfließende Ströme der Zustandsgröße Unterschieden.
+Die zufließenden Ströme können als Ressourcen der Aufwandsseite im von Miller (2016) aufgestellten Konzept der Bewertungsräume betrachtet werden, 
+wobei energetische Ressourcen im Vordergrund stehen. Aufwandsseitige Ressourcen können zu einer Ressource mit einer Bewertungseinheit 
+zusammengefasst werden (\cite[S. 112]{Miller.2016}). Sollten nach erfassung und optionaler aggregation der Ressourcen mehrere Ressourcenkategorien bestehen, 
+können diese mit unterschiedlichen Bewertungseinheiten bilanziert werden (\cite[S. 112]{Miller.2016}). Im Rahmen dieser Forschungsarbeit werden 
+Aufwandsseitig jedoch ausschließlich Energieressourcen betrachtet.
+Sie Stammen somit aus dem Bereich der Endenergie. Dies impliziert dass die Bewertungseinheiten der zufließenden Ströme aus dem Bereich der Endenergie 
+kommen müssen.
+Die abfließenden Ströme in \eqref{BilanzierungsgleichungAhrendt} repräsentieren die Nutzenseite des von Miller (2016) aufgestellten Konzepts.
+Da die zu- und abfließenden Ströme die selbe Zustandsgröße haben, werden die Ströme der Nutzenseite als Energiebedarf der zu erfüllenden 
+Energiedienstleistung betrachtet.
+Um die Nutzenseite vollständig abzubilden ist noch eine Konkretisierung der Energiedienstleistung durch eine angemessene Bewertungseinheit, 
+welche vom Untersuchungsgegenstände impliziert wird notwendig (\cite{Miller.2016}). Diese Bewertungseinheit ist keine Energieeinheit, und 
+kann beispielsweise bei der Untersuchung der Temperierung von Räumen die Quadratmeteranzahl des Bilanzraums bei einer definierten 
+soll Temperierung sein (\cite{Miller.2016}).
 
-% Unterteilung: Aufwandsseitig/Nutzenseitig
-% Bewertungseinheiten
-% Aufwandseitig: Abgrenzung Energieträger
-% Aggregation von Ressourcen
-
-Eine praktische Herausforderung der Energieströme ist die Energiedatensammlung der zu erfassenden Ströme zu der auch die DIN EN ISO 50001:2018-12 vorgaben macht. 
+Eine praktische Herausforderung im Rahmen der Bilanzierung ist die Energiedatensammlung der zu erfassenden Ströme zu der auch die DIN EN ISO 50001:2018-12 vorgaben macht. 
 Die DIN EN ISO 50001:2018-12 (2018, Kapitel 6.6, A.6.6) stellt Anforderungen und Qualitätskriterien an die Datensammlung in Organisationen.
 Diese verpflichtet Organisationen dazu Hauptmerkmale ihrer Tätigkeiten, die sich auf die energiebezogene Leistung auswirken zu identifizieren, und diese in geplanten 
 Zeitabständen zu messen, überwachen und analysieren (\cite[S. 23]{DIN50001.2018}).
@@ -103,7 +113,7 @@ und der Organisation und betriebliche Kriterien bezüglich wesentlicher Energiee
 Die komplexität der Umsetzung ist dabei nicht vorgeschrieben und kann von einfachen Zählwerten bis hin zu umfangreichen Werten aus Überwachungs- und Messystemen mit 
 Softwareandwendung reichen (\cite[S. 36]{DIN50001.2018}).
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsubsection{Energiequellen und -senken}
 Gleichung \eqref{BilanzierungsgleichungAhrendt} unterscheidet zwischen Quellen, Senken und zu- beziehungsweise abfließenden Strömen der Zustandsgröße. 
@@ -114,6 +124,23 @@ oder zurückgewonnen werden können (\cite[Kapitel 3.5.1]{DIN50001.2018}). Energ
 Folglich werden alle Energieströme, in denen Energie in eine Energieform umgewandelt wird, die nicht die genannten Kirterien erfüllen als Energiesenken betrachtet. 
 Analog dazu werden alle Energieströme, bei denen Energie, die nicht den von der Norm aufgestellten Kriterien entspricht, in eine nach ISO 50001 definierte Energieform 
 umgewandelt wird, als Energiequellen betrachtet.
-In der Praxis stellen die in \eqref{fig:Energieflussschema_Miller} dargestellten Umwandlungs- und Transportverluste Energiesenken dar.
+In der Praxis stellen die in Abbildung \eqref{fig:Energieflussschema_Miller} dargestellten Umwandlungs- und Transportverluste Energiesenken dar. Energiequellen können beispielsweise 
+PV-Anlagen sein, da diese die Energie des Sonnenlichts, welche nach Definition der DIN EN ISO 50001:2018-12 nicht Nutzbar ist in nutzbare Energie umwandelt und als 
+Endenergie zur Verfügung steht.
 
+\subsubsection{Bilanzraumstrukturen}
+Bisher wurde die strukturelle Definition von Bilanzräumen unter anbetracht praktischer Herausforderung unter der DIN EN ISO 50001:2018-12 in Organisationen 
+des tertiären Wirtschaftssektors betrachtet. Allerdings können auch zwischen Bilanzräumen Beziehungen bestehen, welche im folgenden erläutert werden.
 
+Ein Bilanzraum kann in mehrere Teilbilanzräume zerlegt werden (\cite[S. 310]{Engelmann.2015}). Dies kann durch die Zerlegung in einzelne Prozesse, 
+Anlagen oder Räumlich getrennte Bereiche realisiert werden (\cite[S. 310]{Engelmann.2015}), wobei die Zerlegung in Prozesse bei Organisationen des tertiären 
+Wirtschaftssektors eine geringere Relevanz hat.
+Analog zur Zerlegbarkeit eines Bilanzraums lässt sich auch der Untersuchungsgegenstand eines Bilanzraums Hierarchisch aufgliedern (\cite[S. 109]{Miller.2016}).
+
+Zur Erfassung der Energiedaten einer Organisation bedarf es eine detaillierte und aussagekräftige Analyse der Unterscheidung nach Verbrauchsarten 
+(\cite[S. 14]{Hohnhold.2013}). Dabei ist die Disagggregation der Daten von der Größe der Organisation und dem Zweck der Analyse möglich (\cite[S. 14f.]{Hohnhold.2013}).
+Die beschriebene Unterscheidung nach Verbrauchsarten kann durch die Zerlegung eines Bilanzraums mit mehreren Verbrauchsarten in Bilanzräume mit einer Verbrauchsart 
+realisiert werden. Zur Disagggregation von Daten hingegen kann durch die Zerlegung eines Bilanzraums mit einer oder mehreren Zustandsgrößen in mehrere 
+Unterbilanzräume mit den selben Zustandsgrößen jedoch unterschiedlichen Bilanzgrenzen umgesetzt werden.
+
+% Praxisbeispiel Zerlegung
