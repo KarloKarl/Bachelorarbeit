@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  30 JAN 2025 13:12
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  1 FEB 2025 20:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -753,8 +753,8 @@ Overfull \hbox (13.71178pt too wide) in paragraph at lines 6--10
 \TU/Arial(0)/m/n/10 findet. Diese Forschung befasst sich mit Bilanzräumen im Kontext der DIN EN ISO 50001:2018-
  []
 
-File: ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic file (type bmp)
-<../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg>
+File: ../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg>
 
 
 [6
@@ -764,58 +764,78 @@ File: ../../Ressourcen/Bilder/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic f
 [7]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
 
 [8]
+Overfull \hbox (2.5957pt too wide) in paragraph at lines 39--43
+\TU/Arial(0)/m/n/10 In einem Thermodynamischen System wird der augenblickliche Zustand durch die Zustands-
+ []
+
+
 
 [9]
-File: ../../Ressourcen/Bilder/Energiefluss_Miller.jpg Graphic file (type bmp)
-<../../Ressourcen/Bilder/Energiefluss_Miller.jpg>
+File: ../../Ressourcen/Abbildungen/Energiefluss_Miller.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Energiefluss_Miller.jpg>
 
 
 [10]
+Overfull \hbox (5.40149pt too wide) in paragraph at lines 93--95
+[]\TU/Arial(0)/m/n/10 Abbildung [] Ordnet den mithilfe der DIN V 18599-1:2018-09 erfassten Untersuchungs-
+ []
 
-[11]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieleistungskennzahlen.tex)
+File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.png Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.png>
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[12]
+[11]
+Overfull \hbox (1.53217pt too wide) in paragraph at lines 119--124
+\TU/Arial(0)/m/n/10 giedienstleistung durch eine angemessene Bewertungseinheit, welche vom Untersuchungs-
+ []
 
-[13]
+
+
+[12]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/03_Bilanzraumstrukturen.tex
+
+[13]) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieleistungskennzahlen.tex)
+
+[14]
 Kapitel 3.
 
 
-[14
+[15
 
 ]
 
-[15]
+[16]
 Kapitel 4.
 
 
-[16
+[17
 
 ]
 Kapitel 5.
 
 
-[17
+[18
 
 ]
 Overfull \hbox (42.87828pt too wide) in paragraph at lines 178--178
 [][]\TU/Arial(0)/m/n/10 Hohnhold & Kai. (2013). Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs-
  []
 
+
+
+[19
+
+]
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[18
-
-]
-
-[19]
+[20]
 Anhang A.
 
 
-[20
+[21
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -827,12 +847,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15753 strings out of 473965
- 342239 string characters out of 5736632
- 1353728 words of memory out of 5000000
- 38501 multiletter control sequences out of 15000+600000
+ 15778 strings out of 473965
+ 343357 string characters out of 5736632
+ 1354865 words of memory out of 5000000
+ 38524 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (26 pages, 464444 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (27 pages, 489872 bytes).
