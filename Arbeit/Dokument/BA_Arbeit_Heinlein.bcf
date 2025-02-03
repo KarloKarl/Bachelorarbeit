@@ -3138,7 +3138,6 @@
     <bcf:citekey order="65" intorder="1">Miller.2016</bcf:citekey>
     <bcf:citekey order="66" intorder="1">Hohnhold.2013</bcf:citekey>
     <bcf:citekey order="67" intorder="1">Hohnhold.2013</bcf:citekey>
-    <bcf:citekey order="68" intorder="1">DIN18599.2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
