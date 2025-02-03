@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  3 FEB 2025 16:37
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  3 FEB 2025 18:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -719,15 +719,13 @@ File: ../../Ressourcen/Bilder/FHE-AI_Logo.png Graphic file (type bmp)
 
 [6]
 Kapitel 1.
-(../Kapitel/Einleitung/01_Hintergrund_Motivation.tex
+(../Kapitel/Einleitung/01_Hintergrund_Motivation.tex)
 
 [1
 
-]) (../Kapitel/Einleitung/02_Problemstellung.tex
+] (../Kapitel/Einleitung/02_Problemstellung.tex
 
-[2]) (../Kapitel/Einleitung/03_Ziele.tex)
-
-[3] (../Kapitel/Einleitung/04_Aufbau.tex
+[2]) (../Kapitel/Einleitung/03_Ziele.tex) (../Kapitel/Einleitung/04_Aufbau.tex
 Overfull \hbox (6.15479pt too wide) in paragraph at lines 6--8
 []\TU/Arial(0)/m/n/10 Der Aufbau der Arbeit umfasst drei Hauptabschnitte: theoretische Grundlagen,Konzeption
  []
@@ -739,113 +737,85 @@ Overfull \hbox (1.50746pt too wide) in paragraph at lines 11--16
 
 
 
-[4]
+[3]
 Overfull \hbox (0.40819pt too wide) in paragraph at lines 41--43
 \TU/Arial(0)/m/n/10 modells werden herausgearbeitete bewährte Ansätze zur Datenbankmodellierung von
  []
 
 )
 
-[5]
+[4]
 Kapitel 2.
 (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex
-Overfull \hbox (13.71178pt too wide) in paragraph at lines 6--10
-\TU/Arial(0)/m/n/10 findet. Diese Forschung befasst sich mit Bilanzräumen im Kontext der DIN EN ISO 50001:2018-
- []
-
 File: ../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg>
 
 
-[6
+[5
 
 ]
 
-[7]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
+[6]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
 
-[8]
-Overfull \hbox (2.5957pt too wide) in paragraph at lines 39--43
-\TU/Arial(0)/m/n/10 In einem Thermodynamischen System wird der augenblickliche Zustand durch die Zustands-
- []
-
-
-
-[9]
+[7]
 File: ../../Ressourcen/Abbildungen/Energiefluss_Miller.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Energiefluss_Miller.jpg>
-
-
-[10]
-Overfull \hbox (5.40149pt too wide) in paragraph at lines 93--95
-[]\TU/Arial(0)/m/n/10 Abbildung [] Ordnet den mithilfe der DIN V 18599-1:2018-09 erfassten Untersuchungs-
- []
-
-File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.png Graphic file (type bmp)
-<../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
+[8]
+
+[9]
+File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.png Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.png>
+
+
+[10]
+
 [11]
-Overfull \hbox (1.53217pt too wide) in paragraph at lines 119--124
-\TU/Arial(0)/m/n/10 giedienstleistung durch eine angemessene Bewertungseinheit, welche vom Untersuchungs-
- []
-
-
-
-[12]
-
-[13]
 File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg>
 File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg>
 ) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieleistungskennzahlen.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-[14]
-
-[15]
+[12]
 Kapitel 3.
 
 
-[16
+[13
 
 ]
 
-[17]
+[14]
 Kapitel 4.
 
 
-[18
+[15
 
 ]
 Kapitel 5.
 
 
-[19
+[16
 
 ]
 Overfull \hbox (42.87828pt too wide) in paragraph at lines 177--177
 [][]\TU/Arial(0)/m/n/10 Hohnhold & Kai. (2013). Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs-
  []
 
-
-
-[20
-
-]
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[21]
+[17
+
+]
 Anhang A.
 
 
-[22
+[18
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -857,12 +827,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15791 strings out of 473965
- 344181 string characters out of 5736632
- 1354914 words of memory out of 5000000
- 38538 multiletter control sequences out of 15000+600000
+ 15790 strings out of 473965
+ 344206 string characters out of 5736632
+ 1355871 words of memory out of 5000000
+ 38537 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (28 pages, 491244 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (24 pages, 482356 bytes).
