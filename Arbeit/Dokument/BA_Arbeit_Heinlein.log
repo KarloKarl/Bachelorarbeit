@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  3 FEB 2025 18:29
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  3 FEB 2025 19:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,51 +771,62 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.png Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.png>
 
+Overfull \hbox (4.6699pt too wide) in paragraph at lines 101--110
+\TU/Arial(0)/m/n/10 standsgröße unterschieden. Die zufließenden Ströme können als Ressourcen der Aufwands-
+ []
+
+
 
 [10]
-
-[11]
 File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg>
+
+
+[11]
 File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg>
 ) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieleistungskennzahlen.tex)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [12]
+
+[13]
 Kapitel 3.
 
 
-[13
+[14
 
 ]
 
-[14]
+[15]
 Kapitel 4.
-
-
-[15
-
-]
-Kapitel 5.
 
 
 [16
 
 ]
-Overfull \hbox (42.87828pt too wide) in paragraph at lines 177--177
+Kapitel 5.
+
+
+[17
+
+]
+Overfull \hbox (42.87828pt too wide) in paragraph at lines 175--175
 [][]\TU/Arial(0)/m/n/10 Hohnhold & Kai. (2013). Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs-
  []
 
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[17
+[18
 
 ]
 Anhang A.
 
 
-[18
+[19
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -827,12 +838,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15790 strings out of 473965
- 344206 string characters out of 5736632
- 1355871 words of memory out of 5000000
- 38537 multiletter control sequences out of 15000+600000
+ 15791 strings out of 473965
+ 344213 string characters out of 5736632
+ 1355872 words of memory out of 5000000
+ 38538 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (24 pages, 482356 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (25 pages, 481356 bytes).
