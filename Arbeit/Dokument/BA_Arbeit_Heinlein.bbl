@@ -19,51 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{AGEB.2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
-           family={AGEB},
-           familyi={A\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
-           family={AGEB},
-           familyi={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Statista}%
-      }
-      \strng{namehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{fullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{fullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{bibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Energieverbrauch für Wärmezwecke in Deutschland nach Sektoren im Jahr 2023 (in Petajoule) [Graph]}
-      \field{year}{2024}
-      \verb{file}
-      \verb AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland:Attachments/AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
-      \endverb
-      \verb{url}
-      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
-      \endverb
-    \endentry
     \entry{Ahrendts.2014}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=89eaf2e7c1515148bd2cc532737bf7e6}{%
@@ -654,51 +609,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{AGEB.2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
-           family={AGEB},
-           familyi={A\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
-           family={AGEB},
-           familyi={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Statista}%
-      }
-      \strng{namehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{fullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{fullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{bibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Energieverbrauch für Wärmezwecke in Deutschland nach Sektoren im Jahr 2023 (in Petajoule) [Graph]}
-      \field{year}{2024}
-      \verb{file}
-      \verb AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland:Attachments/AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
-      \endverb
-      \verb{url}
-      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
-      \endverb
-    \endentry
     \entry{Ahrendts.2014}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=89eaf2e7c1515148bd2cc532737bf7e6}{%
