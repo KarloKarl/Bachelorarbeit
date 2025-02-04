@@ -3134,6 +3134,15 @@
     <bcf:citekey order="61" intorder="1">Miller.2016</bcf:citekey>
     <bcf:citekey order="62" intorder="1">Hohnhold.2013</bcf:citekey>
     <bcf:citekey order="63" intorder="1">Hohnhold.2013</bcf:citekey>
+    <bcf:citekey order="64" intorder="1">DIN50001.2018</bcf:citekey>
+    <bcf:citekey order="65" intorder="1">DIN50001.2018</bcf:citekey>
+    <bcf:citekey order="66" intorder="1">Miller.2016</bcf:citekey>
+    <bcf:citekey order="67" intorder="1">DIN50001.2018</bcf:citekey>
+    <bcf:citekey order="68" intorder="1">DIN50001.2018</bcf:citekey>
+    <bcf:citekey order="69" intorder="1">DIN50001.2018</bcf:citekey>
+    <bcf:citekey order="70" intorder="1">Hohnhold.2013</bcf:citekey>
+    <bcf:citekey order="71" intorder="1">DIN50006.2024</bcf:citekey>
+    <bcf:citekey order="72" intorder="1">DIN50006.2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

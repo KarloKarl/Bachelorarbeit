@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  3 FEB 2025 19:27
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  4 FEB 2025 12:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -782,29 +782,41 @@ File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg Graphic f
 [11]
 File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg>
-) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieleistungskennzahlen.tex)
+) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Abbildung_des_Organisationskontext.tex) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex
 
 [12]
+File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg>
+
 
 [13]
+File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg>
+
+
+[14]
+
+[15]) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Energieleistungskennzahlen.tex)
+
+[16]
 Kapitel 3.
 
 
-[14
+[17
 
 ]
 
-[15]
+[18]
 Kapitel 4.
 
 
-[16
+[19
 
 ]
 Kapitel 5.
 
 
-[17
+[20
 
 ]
 Overfull \hbox (42.87828pt too wide) in paragraph at lines 176--176
@@ -814,13 +826,13 @@ Overfull \hbox (42.87828pt too wide) in paragraph at lines 176--176
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[18
+[21
 
 ]
 Anhang A.
 
 
-[19
+[22
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -832,12 +844,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15781 strings out of 473965
- 343896 string characters out of 5736632
- 1352826 words of memory out of 5000000
- 38528 multiletter control sequences out of 15000+600000
+ 15812 strings out of 473965
+ 345572 string characters out of 5736632
+ 1352983 words of memory out of 5000000
+ 38557 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (25 pages, 478344 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (28 pages, 545280 bytes).
