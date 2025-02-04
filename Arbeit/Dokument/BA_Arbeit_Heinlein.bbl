@@ -280,6 +280,69 @@
       \endverb
       \warn{\item inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring}
     \endentry
+    \entry{Fink.1997}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=72c93c8788a7b1903d4a44928b9faa81}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=456c162567e5810c1848127ef89d7515}{%
+           family={Ga{ß}ner},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc7c81292134e12aeacde368917314de}{%
+           family={Günther-Pomhoff},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0d0a24f383a60892e254453086844de}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff8e6eff3e8ee4202c76d1070ad227b2}{%
+           family={Münzer},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Umweltbundesamt}%
+      }
+      \strng{namehash}{e0563f439994744c1cb86594d63c3794}
+      \strng{fullhash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{fullhashraw}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{bibnamehash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authorbibnamehash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authornamehash}{e0563f439994744c1cb86594d63c3794}
+      \strng{authorfullhash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authorfullhashraw}{ae56e20738e071f67d79ff8ba77d890a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leitfaden für das betriebliche Energiemanagement}
+      \field{year}{1997}
+      \verb{urlraw}
+      \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+      \verb{url}
+      \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+    \endentry
     \entry{Hohnhold.2013}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dc6551321f5fbe52120f6556ad039da6}{%
@@ -606,6 +669,44 @@
       \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
       \endverb
       \keyw{Electronic books;Thermodynamics}
+    \endentry
+    \entry{Szajdzicki.2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5a061e8f09d3306b958a097a4e589f4}{%
+           family={Szajdzicki},
+           familyi={S\bibinitperiod},
+           given={Kris},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{fullhash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{fullhashraw}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{bibnamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorbibnamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authornamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorfullhash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorfullhashraw}{f5a061e8f09d3306b958a097a4e589f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ISO 50001 deals with Energy Management Systems, a branch or form of overall management. Like all management systems, it needs the correct inputs; without these, the system cannot generate the correct OUTPUTS and thus ensure that the right decisions are made. If a financial management system cannot operate without detailed accounting for income {\&} expenditure, how can an Energy Management System operate without the necessary metering {\&} monitoring ? ISO 50001 is based on the well-known {"}Plan --- Do --- Check --- Act{"} principle. Applying it to any organisation needs effective management and measurement; and careful planning to ensure a successful implementation. The presentation briefly looks at two aspects of ISO 50001; on the initial implementation of a successful system and on ensuring that the input into the ISO system is valid data --- focussing predominantly on electricity metering: SMART in this context is an acronym related to the planning process rather than the highly misused adjective applied to almost any computerised system. The author has over 35 years' experience in Energy Management, particularly in metering. He is a member of the European Committee that wrote EN 16001, and of ISO TC301 --- responsible for the ISO 5000x series of standards; also of IEC ACEE.}
+      \field{journaltitle}{2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I{\&}CPS Europe)}
+      \field{title}{Measuring {\&} maintaining energy efficiency: SMART approach to implementing ISO 50001}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/EEEIC.2017.7977657
+      \endverb
+      \verb{file}
+      \verb Measuring{\_}amp{\_}maintaining{\_}energy{\_}efficiency{\_}SMART{\_}approach{\_}to{\_}implementing{\_}ISO{\_}50001:Attachments/Measuring{\_}amp{\_}maintaining{\_}energy{\_}efficiency{\_}SMART{\_}approach{\_}to{\_}implementing{\_}ISO{\_}50001.pdf:application/pdf
+      \endverb
+      \keyw{Energy consumption;Energy management;Energy measurement;Environmental management;ISO Standards;Monitoring}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
@@ -870,6 +971,69 @@
       \endverb
       \warn{\item inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring}
     \endentry
+    \entry{Fink.1997}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=72c93c8788a7b1903d4a44928b9faa81}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=456c162567e5810c1848127ef89d7515}{%
+           family={Ga{ß}ner},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc7c81292134e12aeacde368917314de}{%
+           family={Günther-Pomhoff},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0d0a24f383a60892e254453086844de}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff8e6eff3e8ee4202c76d1070ad227b2}{%
+           family={Münzer},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Umweltbundesamt}%
+      }
+      \strng{namehash}{e0563f439994744c1cb86594d63c3794}
+      \strng{fullhash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{fullhashraw}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{bibnamehash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authorbibnamehash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authornamehash}{e0563f439994744c1cb86594d63c3794}
+      \strng{authorfullhash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authorfullhashraw}{ae56e20738e071f67d79ff8ba77d890a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leitfaden für das betriebliche Energiemanagement}
+      \field{year}{1997}
+      \verb{urlraw}
+      \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+      \verb{url}
+      \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+    \endentry
     \entry{Hohnhold.2013}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=dc6551321f5fbe52120f6556ad039da6}{%
@@ -1196,6 +1360,44 @@
       \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
       \endverb
       \keyw{Electronic books;Thermodynamics}
+    \endentry
+    \entry{Szajdzicki.2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5a061e8f09d3306b958a097a4e589f4}{%
+           family={Szajdzicki},
+           familyi={S\bibinitperiod},
+           given={Kris},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{fullhash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{fullhashraw}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{bibnamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorbibnamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authornamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorfullhash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorfullhashraw}{f5a061e8f09d3306b958a097a4e589f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ISO 50001 deals with Energy Management Systems, a branch or form of overall management. Like all management systems, it needs the correct inputs; without these, the system cannot generate the correct OUTPUTS and thus ensure that the right decisions are made. If a financial management system cannot operate without detailed accounting for income {\&} expenditure, how can an Energy Management System operate without the necessary metering {\&} monitoring ? ISO 50001 is based on the well-known {"}Plan --- Do --- Check --- Act{"} principle. Applying it to any organisation needs effective management and measurement; and careful planning to ensure a successful implementation. The presentation briefly looks at two aspects of ISO 50001; on the initial implementation of a successful system and on ensuring that the input into the ISO system is valid data --- focussing predominantly on electricity metering: SMART in this context is an acronym related to the planning process rather than the highly misused adjective applied to almost any computerised system. The author has over 35 years' experience in Energy Management, particularly in metering. He is a member of the European Committee that wrote EN 16001, and of ISO TC301 --- responsible for the ISO 5000x series of standards; also of IEC ACEE.}
+      \field{journaltitle}{2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I{\&}CPS Europe)}
+      \field{title}{Measuring {\&} maintaining energy efficiency: SMART approach to implementing ISO 50001}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/EEEIC.2017.7977657
+      \endverb
+      \verb{file}
+      \verb Measuring{\_}amp{\_}maintaining{\_}energy{\_}efficiency{\_}SMART{\_}approach{\_}to{\_}implementing{\_}ISO{\_}50001:Attachments/Measuring{\_}amp{\_}maintaining{\_}energy{\_}efficiency{\_}SMART{\_}approach{\_}to{\_}implementing{\_}ISO{\_}50001.pdf:application/pdf
+      \endverb
+      \keyw{Energy consumption;Energy management;Energy measurement;Environmental management;ISO Standards;Monitoring}
     \endentry
   \enddatalist
 \endrefsection

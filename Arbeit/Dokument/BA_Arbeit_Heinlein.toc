@@ -22,12 +22,11 @@
 \contentsline {subsubsection}{Energiequellen und -senken}{11}{}%
 \contentsline {subsubsection}{Bilanzraumstrukturen}{11}{}%
 \contentsline {section}{\numberline {2.2}Anwendung von Bilanzräumen im Rahmen der DIN EN ISO 50001:2018-12}{13}{}%
-\contentsline {subsection}{\numberline {2.2.1}Abbildung des Organisationskontext}{13}{}%
-\contentsline {subsection}{\numberline {2.2.2}Identifikation wesentlicher Energieeinsätze}{13}{}%
+\contentsline {subsection}{\numberline {2.2.1}Identifikation wesentlicher Energieeinsätze}{13}{}%
 \contentsline {subsubsection}{Analyse und Unterscheidung von Energieeinsätzen}{13}{}%
 \contentsline {subsubsection}{Datengetriebene Ermittlung von Energieeinsätzen}{15}{}%
-\contentsline {subsubsection}{Energiefluss}{16}{}%
-\contentsline {subsection}{\numberline {2.2.3}Energieleistungskennzahlen}{16}{}%
+\contentsline {subsubsection}{Datengetriebene Ermittlung von relevanten Variablen}{16}{}%
+\contentsline {subsection}{\numberline {2.2.2}Energieleistungskennzahlen}{16}{}%
 \contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{17}{}%
 \contentsline {section}{\numberline {3.1}Einleitung}{17}{}%
 \contentsline {section}{\numberline {3.2}Ausgangszustand: EMS-EDM Prophet®}{17}{}%
@@ -70,4 +69,4 @@
 \contentsline {chapter}{\numberline {5}Fazit}{20}{}%
 \contentsline {section}{\numberline {5.1}Zusammenfassung der Ergebnisse}{20}{}%
 \contentsline {section}{\numberline {5.2}Ausblick auf zukünftige Arbeiten}{20}{}%
-\contentsline {chapter}{\numberline {A}Anhang}{22}{}%
+\contentsline {chapter}{\numberline {A}Anhang}{23}{}%
