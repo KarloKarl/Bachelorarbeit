@@ -27,16 +27,16 @@ Im Rahmen der Bestimmung des Gesamtenergiebedarfs eines Gebäudes über den Lebe
 Die sogenannte Graue Energie wird üblicherweise als kumulierter, nicht erneuerbarer Primärenergieaufwand beschrieben, der alle vor- und nachgelagerten Prozesse 
 der verwendeten Baustoffe und Materialien sowie der technischen Anlagen umfasst (\cite[S. 133]{Musall.2015}). Da die DIN EN ISO 50001:2018-12 auf die fortlaufende 
 Verbesserung der energiebezogenen Leistung abzielt und die Graue Energie konstant ist, wird diese im Rahmen dieser Arbeit nicht betrachtet.
-Stattdessen liegt der Fokus dieser Forschungsarbeit auf der Bilanzierung energetischer Größen im Rahmen von Organisationen des tertiären Wirtschaftssektors. 
-Sie grenzt sich somit von der Bilanzierung von Rohstoffen und Materialien ab.
+Folglich ist der Kontext der Bilanzierung in dieser Forschungsarbeit der Energieverbrauchs im Rahmen des Gebäudebetriebs von Organisationen 
+des tertiären Wirtschaftssektors.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsubsection{Konzept}
 Im Rahmen des beschriebenen Kontexts rückt die verfahrenstechnische Perspektive der Bilanzierung in den Fokus. 
-So wird die Bilanzierung im Kontext der Verfahrenstechnik nach Rönsch (2015, S. 66) in drei Bilanzgleichungen unterteilt: die Massenbilanz, 
+So wird die Bilanzierung in der Verfahrenstechnik nach Rönsch (2015, S. 66) in drei Bilanzgleichungen unterteilt: die Massenbilanz, 
 die Energiebilanz und die Impulsbilanz.
-Zur Beantwortung dieser Forschungsfrage hat insbesondere die Energiebilanz eine hohe Relevanz.
+Da der Kontext der Bilanzierung sich auf den Energieverbrauch bezieht hat insbesondere die Energiebilanz eine hohe Relevanz.
 Die Energiebilanz beruht auf dem Energieerhaltungssatz (\cite[S. 66]{Rönsch.2015}), der das Prinzip der Erhaltung der Energie ausdrückt 
 (\cite[S. 57]{Baehr.1966}). Der Energieerhaltungssatz bezieht sich auf alle Erscheinungsformen, in denen Energie auftritt, und besagt, dass es 
 unmöglich ist, Energie zu erzeugen oder zu vernichten (\cite[S. 57]{Baehr.1966}).
@@ -70,7 +70,7 @@ E_{\text{gespeichert}} = \sum E_{\text{eingang}} - \sum E_{\text{ausgang}}
 
 Ein weiterer Ansatz aus verfahrenstechnischer Perspektive wird von der von Ahrendts (2014, Kapitel 1.5) aufgestellten Bilanzgleichung im Kontext der Thermodynamik 
 adressiert.
-Die Gleichung basiert auf dem Fakt, dass sich für jede mengenartige Zustandsgröße, die über die Grenze eines Systems transportiert wird, eine Bilanz aufstellen lässt 
+Der Gleichung liegt der Fakt zugrunde, dass sich für jede mengenartige Zustandsgröße, die über die Grenze eines Systems transportiert wird, eine Bilanz aufstellen lässt 
 (\cite[Kapitel 1.5]{Ahrendts.2014}).
 Diese Bilanz umfasst ein- und austretende Ströme sowie im System enthaltene Energiequellen und -senken und ermittelt die Geschwindigkeit der Änderung des Bestands der 
 zu bilanzierenden Zustandsgröße im System (\cite[Kapitel 1.5]{Ahrendts.2014}).
@@ -105,17 +105,22 @@ Die von Ahrendts (2014, Kapitel 1.5) aufgestellte Bilanzgleichung wird in den Fo
 \end{description}
 
 
-In einem thermodynamischen System wird der augenblickliche Zustand durch die Zustandsgrößen beschrieben, wobei diese in intensive und extensive Zustandsgrößen unterschieden werden (\cite[S. 66]{Konstantin.2023}). Die innere Energie 
-U mit der Basiseinheit Joule ist eine extensive Zustandsgröße (\cite[S. 65]{Konstantin.2023}) und rückt in den Fokus, da es sich um eine energetische Zustandsgröße handelt.
-Im Rahmen der Formel \eqref{BilanzierungsgleichungAhrendt} wird der Strom einer Zustandsgröße \(X_{\text{j}}\) in Gleichung \eqref{BilanzierungsgleichungAhrendtStrom} definiert.
-Der Strom einer Zustandsgröße wird als Menge der Zustandsgröße in einem infinitesimal kleinen Zeitintervall definiert, welches im Grenzwert gegen 0 geht.
-Folglich wird ein Strom von Ahrendts (2014) als Menge einer Zustandsgröße zu einem bestimmten Zeitpunkt definiert.
+ 
 
 Die Gleichung \eqref{BilanzierungsgleichungAhrendt} in Verbindung mit \eqref{BilanzierungsgleichungAhrendtStrom} beschreibt die Geschwindigkeit der Änderung des Bestands der Größe
 \(X_{\text{j}}\) als Summe der Differenzen zwischen den über die Systemgrenze zu- und abfließenden Strömen der Zustandsgröße
 \(X_{\text{j}}\) sowie den Quell- und Senkströmen der Zustandsgröße \(X_{\text{j}}\) innerhalb des Systems.  
-Somit formulieren die Gleichungen \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} in Verbindung mit 
+Zur angemessenen Anwendung der Gleichung \eqref{BilanzierungsgleichungAhrendt} stellt sich die Frage nach einer angemessenen Zustandsgröße.
+In einem thermodynamischen System wird der augenblickliche Zustand durch die Zustandsgrößen beschrieben, wobei diese in intensive und extensive Zustandsgrößen 
+unterschieden werden (\cite[S. 66]{Konstantin.2023}). Die innere Energie U mit der Basiseinheit Joule ist eine extensive Zustandsgröße 
+(\cite[S. 65]{Konstantin.2023}) und rückt in den Fokus, da es sich um eine Zustandsgröße der Energie handelt.
+Folglich können zu- und abfließende Energieströme mit Energiequellen und -senken bilanziert werden.
+Im Rahmen der Formel \eqref{BilanzierungsgleichungAhrendt} wird der Strom einer Zustandsgröße \(X_{\text{j}}\) in Gleichung \eqref{BilanzierungsgleichungAhrendtStrom} definiert.
+Der Strom einer Zustandsgröße wird als Menge der Zustandsgröße in einem infinitesimal kleinen Zeitintervall definiert, welches im Grenzwert gegen 0 geht.
+Folglich wird ein Strom von Ahrendts (2014) als Menge einer Zustandsgröße zu einem bestimmten Zeitpunkt definiert.
+
+Die Gleichungen \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} formulieren in Verbindung mit 
 \eqref{BilanzierungsgleichungAhrendtStrom} eine grundlegende und zugleich vereinfachte mathematische Beschreibung einer Bilanzierung im Kontext der Thermodynamik und 
 Verfahrenstechnik. Sie bilden die Basis für die Beschreibung der grundlegenden Struktur einer Bilanz.
 Im Folgenden werden die in \eqref{energiebilanzierungsgleichung_Rönsch} und \eqref{BilanzierungsgleichungAhrendt} mit \eqref{BilanzierungsgleichungAhrendtStrom} 
-beschriebenen Bestandteile einer Bilanz zur Konzeption eines Bilanzraums im Anwendungskontext des Problemraums analysiert und durch das Konzept \glqq Bilanzraum\grqq\ abstrahiert.
+beschriebenen Bestandteile einer Bilanz zur erarbeitung eines Bilanzraumkonzepts im Anwendungskontext des Problemraums analysiert.
