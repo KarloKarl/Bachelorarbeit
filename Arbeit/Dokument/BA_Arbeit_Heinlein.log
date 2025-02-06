@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  5 FEB 2025 17:54
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  6 FEB 2025 14:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -760,8 +760,8 @@ File: ../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg Grap
 [7]
 
 [8]
-File: ../../Ressourcen/Abbildungen/Energiefluss_Miller.jpg Graphic file (type bmp)
-<../../Ressourcen/Abbildungen/Energiefluss_Miller.jpg>
+File: ../../Ressourcen/Abbildungen/Energiewertschöpfingskette_Posch.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Energiewertschöpfingskette_Posch.jpg>
 
 
 [9]
@@ -773,6 +773,9 @@ Overfull \hbox (2.98958pt too wide) in paragraph at lines 112--117
  []
 
 
+LaTeX Warning: Reference `fig:Energieflussschema_Miller' on page 10 undefined on input line 130.
+
+
 
 [10]
 File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg Graphic file (type bmp)
@@ -782,7 +785,12 @@ File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg Graphic f
 [11]
 File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg>
-) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Energieeinsätze.tex
+)
+Overfull \hbox (10.78392pt too wide) in paragraph at lines 98--98
+[]\TU/Arial(0)/b/n/14.4 Anwendungspotential des Bilanzraumkonzepts im Rah-
+ []
+
+(../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Energieeinsätze.tex
 
 [12]
 File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg Graphic file (type bmp)
@@ -794,27 +802,42 @@ File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg 
 <../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg>
 
 
-[14]) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex)
+[14]) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex
 
 [15]
+File: ../../Ressourcen/Abbildungen/ISO_50006_Beispiel_EnPI_EnB.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/ISO_50006_Beispiel_EnPI_EnB.jpg>
+
+
+[16]
+File: ../../Ressourcen/Abbildungen/Arten_Kennzahlen_Hohnhold.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Arten_Kennzahlen_Hohnhold.jpg>
+
+
+[17]
+File: ../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg>
+)
+
+[18]
 Kapitel 3.
 
 
-[16
+[19
 
 ]
 
-[17]
+[20]
 Kapitel 4.
 
 
-[18
+[21
 
 ]
 Kapitel 5.
 
 
-[19
+[22
 
 ]
 Overfull \hbox (13.9175pt too wide) in paragraph at lines 175--175
@@ -829,32 +852,36 @@ Overfull \hbox (42.87828pt too wide) in paragraph at lines 175--175
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[20
+[23
 
 ]
 
-[21]
+[24]
 Anhang A.
 
 
-[22
+[25
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 \openout1 = `BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15823 strings out of 473965
- 345485 string characters out of 5736632
- 1358147 words of memory out of 5000000
- 38571 multiletter control sequences out of 15000+600000
+ 15877 strings out of 473965
+ 347644 string characters out of 5736632
+ 1358345 words of memory out of 5000000
+ 38622 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (28 pages, 555716 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (31 pages, 635856 bytes).

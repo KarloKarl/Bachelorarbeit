@@ -11,62 +11,66 @@
 \contentsline {section}{\numberline {1.3}Ziel der Arbeit}{3}{}%
 \contentsline {section}{\numberline {1.4}Aufbau der Arbeit}{3}{}%
 \contentsline {chapter}{\numberline {2}Stand der Forschung und Theoretische Grundlagen}{5}{}%
-\contentsline {section}{\numberline {2.1}Grundlagen von Bilanzräumen}{5}{}%
-\contentsline {subsection}{\numberline {2.1.1}Bilanzierung als Grundlage von Bilanzräumen}{5}{}%
-\contentsline {subsubsection}{Kontext}{5}{}%
+\contentsline {section}{\numberline {2.1}Bilanzierung und Bilanzräume}{5}{}%
+\contentsline {subsection}{\numberline {2.1.1}Grundlagen der Bilanzierung}{5}{}%
+\contentsline {subsubsection}{Anwendungskontext der Bilanzierung}{5}{}%
 \contentsline {subsubsection}{Konzept}{6}{}%
-\contentsline {subsection}{\numberline {2.1.2}Bilanzräume in Organisationen des tertiären Wirtschaftssektors}{7}{}%
+\contentsline {subsection}{\numberline {2.1.2}Bilanzraumkonzept}{7}{}%
 \contentsline {subsubsection}{System- und Bilanzraumgrenzen}{7}{}%
 \contentsline {subsubsection}{Untersuchungsgegenstand und Nutzengrößen}{8}{}%
 \contentsline {subsubsection}{Energieströme und Bewertungseinheiten}{10}{}%
 \contentsline {subsubsection}{Energiequellen und -senken}{10}{}%
 \contentsline {subsubsection}{Bilanzraumstrukturen}{11}{}%
-\contentsline {section}{\numberline {2.2}Anwendung von Bilanzräumen im Rahmen der DIN EN ISO 50001:2018-12}{12}{}%
+\contentsline {section}{\numberline {2.2}Anwendungspotential des Bilanzraumkonzepts im Rahmen der ISO 50001}{12}{}%
 \contentsline {subsection}{\numberline {2.2.1}Identifikation wesentlicher Energieeinsätze}{12}{}%
 \contentsline {subsubsection}{Analyse und Unterscheidung von Energieeinsätzen}{12}{}%
-\contentsline {subsubsection}{Datengetriebene Ermittlung von Energieeinsätzen}{15}{}%
+\contentsline {subsubsection}{Datengetriebene Ermittlung von Energieeinsätzen}{14}{}%
 \contentsline {subsubsection}{Datengetriebene Ermittlung von relevanten Variablen}{15}{}%
-\contentsline {subsection}{\numberline {2.2.2}Energieleistungskennzahlen}{15}{}%
-\contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{16}{}%
-\contentsline {section}{\numberline {3.1}Einleitung}{16}{}%
-\contentsline {section}{\numberline {3.2}Ausgangszustand: EMS-EDM Prophet®}{16}{}%
-\contentsline {section}{\numberline {3.3}Anforderungen}{16}{}%
-\contentsline {subsection}{\numberline {3.3.1}Modellierung von Bilanzräumen}{16}{}%
-\contentsline {subsection}{\numberline {3.3.2}Abbildung von Metriken zur Bewertung von Bilanzräumen}{16}{}%
-\contentsline {subsection}{\numberline {3.3.3}Technische Anforderungen und Datenkommunikation}{16}{}%
-\contentsline {section}{\numberline {3.4}Umsetzungskonzept für EMS-EDM Prophet®}{16}{}%
-\contentsline {subsection}{\numberline {3.4.1}Systemarchitektur}{16}{}%
-\contentsline {subsection}{\numberline {3.4.2}Datenmodell und Datenbankdesign}{16}{}%
-\contentsline {subsection}{\numberline {3.4.3}Technische Umsetzung und Datenkommunikation}{16}{}%
-\contentsline {subsection}{\numberline {3.4.4}EnPI Abbildung}{16}{}%
-\contentsline {subsection}{\numberline {3.4.5}Test- und Validierungskonzept}{16}{}%
-\contentsline {subsection}{\numberline {3.4.6}Sicherheitskonzept}{16}{}%
-\contentsline {subsection}{\numberline {3.4.7}Bedingungen und Anforderungen an die Laufzeitumgebung}{16}{}%
-\contentsline {section}{\numberline {3.5}Technische Realisierung}{16}{}%
-\contentsline {section}{\numberline {3.6}Umsetzungsablauf}{16}{}%
-\contentsline {section}{\numberline {3.7}Ergebnis}{16}{}%
-\contentsline {subsection}{\numberline {3.7.1}Anforderungsumsetzung}{17}{}%
-\contentsline {subsection}{\numberline {3.7.2}Vergleich zum bestehenden System}{17}{}%
-\contentsline {chapter}{\numberline {4}Evaluation}{18}{}%
-\contentsline {section}{\numberline {4.1}Einleitung}{18}{}%
-\contentsline {subsection}{\numberline {4.1.1}Ziel der Evaluation}{18}{}%
-\contentsline {subsection}{\numberline {4.1.2}Methodik}{18}{}%
-\contentsline {section}{\numberline {4.2}Metriken und Kennzahlen}{18}{}%
-\contentsline {subsection}{\numberline {4.2.1}Definition der Erfolgsmessung}{18}{}%
-\contentsline {subsection}{\numberline {4.2.2}Quantitative Metriken}{18}{}%
-\contentsline {subsection}{\numberline {4.2.3}Qualitative Metriken}{18}{}%
-\contentsline {section}{\numberline {4.3}Experimenteller Aufbau}{18}{}%
-\contentsline {subsection}{\numberline {4.3.1}Beschreibung des Experimentes}{18}{}%
-\contentsline {subsection}{\numberline {4.3.2}Testumgebung und -bedingungen}{18}{}%
-\contentsline {subsection}{\numberline {4.3.3}Datensätze und Szenarien}{18}{}%
-\contentsline {section}{\numberline {4.4}Durchführung und Ergebnisse}{18}{}%
-\contentsline {subsection}{\numberline {4.4.1}Durchführung}{18}{}%
-\contentsline {subsection}{\numberline {4.4.2}Quantitative Ergebnisse}{18}{}%
-\contentsline {subsection}{\numberline {4.4.3}Qualitative Ergebnisse}{18}{}%
-\contentsline {section}{\numberline {4.5}Vergleich mit alternativen Ansätzen}{18}{}%
-\contentsline {section}{\numberline {4.6}Diskussion der Ergebnisse}{18}{}%
-\contentsline {section}{\numberline {4.7}Zusammenfassung der Evaluation}{18}{}%
-\contentsline {chapter}{\numberline {5}Fazit}{19}{}%
-\contentsline {section}{\numberline {5.1}Zusammenfassung der Ergebnisse}{19}{}%
-\contentsline {section}{\numberline {5.2}Ausblick auf zukünftige Arbeiten}{19}{}%
-\contentsline {chapter}{\numberline {A}Anhang}{22}{}%
+\contentsline {subsection}{\numberline {2.2.2}Bewertung der Energiebezogenen Leistung}{15}{}%
+\contentsline {subsubsection}{Definition von Energieleistungskennzahlen}{15}{}%
+\contentsline {subsubsection}{Arten von Kennzahlen aus statistisch-methodischer Perspektive}{17}{}%
+\contentsline {subsubsection}{Grenzen von Energieleistungskennzahlen}{17}{}%
+\contentsline {subsubsection}{Datengetriebene Auswertung von Energieleistungskennzahlen}{18}{}%
+\contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{19}{}%
+\contentsline {section}{\numberline {3.1}Einleitung}{19}{}%
+\contentsline {section}{\numberline {3.2}Ausgangszustand: EMS-EDM Prophet®}{19}{}%
+\contentsline {section}{\numberline {3.3}Anforderungen}{19}{}%
+\contentsline {subsection}{\numberline {3.3.1}Modellierung von Bilanzräumen}{19}{}%
+\contentsline {subsection}{\numberline {3.3.2}Abbildung von Metriken zur Bewertung von Bilanzräumen}{19}{}%
+\contentsline {subsection}{\numberline {3.3.3}Technische Anforderungen und Datenkommunikation}{19}{}%
+\contentsline {section}{\numberline {3.4}Umsetzungskonzept für EMS-EDM Prophet®}{19}{}%
+\contentsline {subsection}{\numberline {3.4.1}Systemarchitektur}{19}{}%
+\contentsline {subsection}{\numberline {3.4.2}Datenmodell und Datenbankdesign}{19}{}%
+\contentsline {subsection}{\numberline {3.4.3}Technische Umsetzung und Datenkommunikation}{19}{}%
+\contentsline {subsection}{\numberline {3.4.4}EnPI Abbildung}{19}{}%
+\contentsline {subsection}{\numberline {3.4.5}Test- und Validierungskonzept}{19}{}%
+\contentsline {subsection}{\numberline {3.4.6}Sicherheitskonzept}{19}{}%
+\contentsline {subsection}{\numberline {3.4.7}Bedingungen und Anforderungen an die Laufzeitumgebung}{19}{}%
+\contentsline {section}{\numberline {3.5}Technische Realisierung}{19}{}%
+\contentsline {section}{\numberline {3.6}Umsetzungsablauf}{19}{}%
+\contentsline {section}{\numberline {3.7}Ergebnis}{19}{}%
+\contentsline {subsection}{\numberline {3.7.1}Anforderungsumsetzung}{20}{}%
+\contentsline {subsection}{\numberline {3.7.2}Vergleich zum bestehenden System}{20}{}%
+\contentsline {chapter}{\numberline {4}Evaluation}{21}{}%
+\contentsline {section}{\numberline {4.1}Einleitung}{21}{}%
+\contentsline {subsection}{\numberline {4.1.1}Ziel der Evaluation}{21}{}%
+\contentsline {subsection}{\numberline {4.1.2}Methodik}{21}{}%
+\contentsline {section}{\numberline {4.2}Metriken und Kennzahlen}{21}{}%
+\contentsline {subsection}{\numberline {4.2.1}Definition der Erfolgsmessung}{21}{}%
+\contentsline {subsection}{\numberline {4.2.2}Quantitative Metriken}{21}{}%
+\contentsline {subsection}{\numberline {4.2.3}Qualitative Metriken}{21}{}%
+\contentsline {section}{\numberline {4.3}Experimenteller Aufbau}{21}{}%
+\contentsline {subsection}{\numberline {4.3.1}Beschreibung des Experimentes}{21}{}%
+\contentsline {subsection}{\numberline {4.3.2}Testumgebung und -bedingungen}{21}{}%
+\contentsline {subsection}{\numberline {4.3.3}Datensätze und Szenarien}{21}{}%
+\contentsline {section}{\numberline {4.4}Durchführung und Ergebnisse}{21}{}%
+\contentsline {subsection}{\numberline {4.4.1}Durchführung}{21}{}%
+\contentsline {subsection}{\numberline {4.4.2}Quantitative Ergebnisse}{21}{}%
+\contentsline {subsection}{\numberline {4.4.3}Qualitative Ergebnisse}{21}{}%
+\contentsline {section}{\numberline {4.5}Vergleich mit alternativen Ansätzen}{21}{}%
+\contentsline {section}{\numberline {4.6}Diskussion der Ergebnisse}{21}{}%
+\contentsline {section}{\numberline {4.7}Zusammenfassung der Evaluation}{21}{}%
+\contentsline {chapter}{\numberline {5}Fazit}{22}{}%
+\contentsline {section}{\numberline {5.1}Zusammenfassung der Ergebnisse}{22}{}%
+\contentsline {section}{\numberline {5.2}Ausblick auf zukünftige Arbeiten}{22}{}%
+\contentsline {chapter}{\numberline {A}Anhang}{25}{}%

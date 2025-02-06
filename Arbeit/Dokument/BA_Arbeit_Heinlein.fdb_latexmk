@@ -1,39 +1,42 @@
 # Fdb version 4
-["biber BA_Arbeit_Heinlein"] 1738774260.44716 "BA_Arbeit_Heinlein.bcf" "BA_Arbeit_Heinlein.bbl" "BA_Arbeit_Heinlein" 1738774444.64727 0
-  "../../Ressourcen/Bibliographie/ba_literatur.bib" 1738687510 46557 3b676ef574eb080fbe8cee40fbde932e ""
-  "BA_Arbeit_Heinlein.bcf" 1738774443 139296 09d2318f599d0c278e4320a3a8c1086d "xelatex"
+["biber BA_Arbeit_Heinlein"] 1738847888.23132 "BA_Arbeit_Heinlein.bcf" "BA_Arbeit_Heinlein.bbl" "BA_Arbeit_Heinlein" 1738847917.93756 0
+  "../../Ressourcen/Bibliographie/ba_literatur.bib" 1738839923 47246 e020b4843756034c6cbb8cb7a660fcf8 ""
+  "BA_Arbeit_Heinlein.bcf" 1738847916 140886 7af9abb3789fd4d2e098a44400193d5e "xelatex"
   (generated)
   "BA_Arbeit_Heinlein.bbl"
   "BA_Arbeit_Heinlein.blg"
   (rewritten before read)
-["xdvipdfmx"] 1738774443.8667 "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein.pdf" "BA_Arbeit_Heinlein" 1738774444.65333 0
-  "BA_Arbeit_Heinlein.xdv" 1738774443 555716 99b16d394b07c7303d138f88177b957c "xelatex"
+["xdvipdfmx"] 1738847917.03595 "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein.pdf" "BA_Arbeit_Heinlein" 1738847917.94398 0
+  "BA_Arbeit_Heinlein.xdv" 1738847916 635856 ed9a3e44613fffb40f7cbe7a6de80899 "xelatex"
   (generated)
   "BA_Arbeit_Heinlein.pdf"
   (rewritten before read)
-["xelatex"] 1738774441.09789 "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein" 1738774444.64767 0
-  "../../Ressourcen/Abbildungen/Energiefluss_Miller.jpg" 1738166716 152378 6c2421c9e69c42d8a4f774fae1d74e01 ""
+["xelatex"] 1738847914.38264 "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein" 1738847917.93799 0
+  "../../Ressourcen/Abbildungen/Arten_Kennzahlen_Hohnhold.jpg" 1738844978 100266 d2d770d471931c07ab6f764235bacac2 ""
+  "../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg" 1738847530 321501 282fca56ed9d445c0ec6bbcab58aa85c ""
   "../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg" 1735850030 372136 6c5d79b445fba1ea65979dd2f7a2dbf0 ""
-  "../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.jpg" 1738770426 157629 5bd418ae7bef135e112215a47e8302ce ""
-  "../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg" 1738604436 30964 be44ad0d438da8636d7527b9f74641d9 ""
-  "../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg" 1738665247 61390 d2e66370d309b13b304dcd8bfe712742 ""
-  "../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg" 1738604452 35363 40bf3f8ca4f9967c6c11f40d8e15cf04 ""
-  "../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg" 1738667957 63480 c3f7be3d9c0b6fa2c3cf6719129efa38 ""
-  "../../Ressourcen/Bibliographie/ba_literatur.bib" 1738687510 46557 3b676ef574eb080fbe8cee40fbde932e ""
+  "../../Ressourcen/Abbildungen/Energiewertschöpfingskette_Posch.jpg" 1738833601 159921 3d896294edc9d6a6496d1feeffa95361 ""
+  "../../Ressourcen/Abbildungen/ISO_50006_Beispiel_EnPI_EnB.jpg" 1738843350 180209 fe8b56afb0eba9d3fb8ead71cd940dfb ""
+  "../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.jpg" 1738834789 150976 03cdafd700c22db40426995ae1d949a5 ""
+  "../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg" 1738835327 36168 d87ba1a821b7a5680e0124e184633437 ""
+  "../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg" 1738836014 79595 37a0f69dc0b77690b0159db430f02dcc ""
+  "../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg" 1738835199 40865 2e66c4265646ba6e87536bd6a2f74fda ""
+  "../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg" 1738836355 80704 f0258a178a45a228567e42c95a0d0509 ""
+  "../../Ressourcen/Bibliographie/ba_literatur.bib" 1738839923 47246 e020b4843756034c6cbb8cb7a660fcf8 ""
   "../../Ressourcen/Bilder/FHE-AI_Logo.png" 1733237989 4037 9dd8e897bba9e7beeaa1a1f19c30077d ""
   "../Kapitel/Einleitung/01_Hintergrund_Motivation.tex" 1737992934 3915 72b6646c3e9d65ced475aaa214064d4e ""
   "../Kapitel/Einleitung/02_Problemstellung.tex" 1738597903 4978 c29b2d1e71bee1127ee7de1b368771cb ""
   "../Kapitel/Einleitung/03_Ziele.tex" 1737722243 1284 9df562ba70b55f74186250cb1e8f4a4c ""
   "../Kapitel/Einleitung/04_Aufbau.tex" 1737637137 4658 c80b4ffbe7869ff95d6557138cffbe89 ""
-  "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex" 1738757519 9458 3c17419b2e5a7081e8ee93e020cca8a5 ""
-  "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex" 1738773200 14934 c4fd8f1c3e3debe511a8583fbac8413e ""
-  "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Energieeinsätze.tex" 1738774440 9850 3fc24fde833ccee5d296354ab1b97040 ""
-  "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex" 1735660732 39 98040b6660ecc7a83ebcd2e00bc51e3f ""
-  "BA_Arbeit_Heinlein.aux" 1738774443 24931 62bb917cdb9c1e351f59fa9b8f487696 "xelatex"
-  "BA_Arbeit_Heinlein.bbl" 1738774262 74539 0c441eb9cf9eaed05e41b5a42faa448e "biber BA_Arbeit_Heinlein"
-  "BA_Arbeit_Heinlein.run.xml" 1738774443 2589 8efe822addff136623c6d9f45d72fa9e "xelatex"
-  "BA_Arbeit_Heinlein.tex" 1738688091 5233 ef376b54273b36f3183fb112e11aa043 ""
-  "BA_Arbeit_Heinlein.toc" 1738774443 5463 b424716162f94ea3ac7a424b030574cd "xelatex"
+  "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex" 1738836877 9468 209d86031a3f7684c7441f2ffe53b8c1 ""
+  "../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex" 1738836831 14913 a295da219671b89b9b950673c2215295 ""
+  "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Energieeinsätze.tex" 1738836591 10104 58ab6e385eafee2ef750ce6f94f6ecbe ""
+  "../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieleistungskennzahlen.tex" 1738847914 8394 ac7eeebf0312c324ce6da51d7539376e ""
+  "BA_Arbeit_Heinlein.aux" 1738847916 29710 618eec7b533e4af54a5efb2a21bc615d "xelatex"
+  "BA_Arbeit_Heinlein.bbl" 1738847890 74539 0c441eb9cf9eaed05e41b5a42faa448e "biber BA_Arbeit_Heinlein"
+  "BA_Arbeit_Heinlein.run.xml" 1738847916 2589 8efe822addff136623c6d9f45d72fa9e "xelatex"
+  "BA_Arbeit_Heinlein.tex" 1738836797 5234 3f234259f3b7e571f61a8d01500a384e ""
+  "BA_Arbeit_Heinlein.toc" 1738847916 5793 d805bb86398f82df7daec33fcdd18483 "xelatex"
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1733171244 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1733169596 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2024/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1733169783 2289 4c0bd5448e6c4088c5170e3997082036 ""
@@ -100,7 +103,7 @@
   "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1733169475 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
   "c:/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1733176363 5879616 87d1b33ec48c22c8e80e0aab39cf0ea3 ""
   "c:/texlive/2024/texmf.cnf" 1733176184 713 e69b156964470283e0530f5060668171 ""
-  "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" 1738688091 5233 ef376b54273b36f3183fb112e11aa043 ""
+  "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" 1738836797 5234 3f234259f3b7e571f61a8d01500a384e ""
   (generated)
   "BA_Arbeit_Heinlein.aux"
   "BA_Arbeit_Heinlein.bcf"
