@@ -3173,6 +3173,7 @@
     <bcf:citekey order="100" intorder="1">DIN50006.2024</bcf:citekey>
     <bcf:citekey order="101" intorder="1">DIN50006.2024</bcf:citekey>
     <bcf:citekey order="102" intorder="1">Fichera.2020</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">DIN50006.2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

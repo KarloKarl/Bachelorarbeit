@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  6 FEB 2025 14:18
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  6 FEB 2025 14:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -820,24 +820,26 @@ File: ../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg Graphic file 
 )
 
 [18]
+
+[19]
 Kapitel 3.
 
 
-[19
+[20
 
 ]
 
-[20]
+[21]
 Kapitel 4.
 
 
-[21
+[22
 
 ]
 Kapitel 5.
 
 
-[22
+[23
 
 ]
 Overfull \hbox (13.9175pt too wide) in paragraph at lines 175--175
@@ -852,15 +854,15 @@ Overfull \hbox (42.87828pt too wide) in paragraph at lines 175--175
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[23
+[24
 
 ]
 
-[24]
+[25]
 Anhang A.
 
 
-[25
+[26
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -876,12 +878,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15877 strings out of 473965
- 347644 string characters out of 5736632
- 1358345 words of memory out of 5000000
- 38622 multiletter control sequences out of 15000+600000
+ 15878 strings out of 473965
+ 347656 string characters out of 5736632
+ 1358350 words of memory out of 5000000
+ 38623 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,6n,93p,2043b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (31 pages, 635856 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (32 pages, 640708 bytes).
