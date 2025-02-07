@@ -21,17 +21,17 @@
 \contentsline {subsubsection}{Energieströme und Bewertungseinheiten}{11}{}%
 \contentsline {subsubsection}{Energiequellen und -senken}{12}{}%
 \contentsline {subsubsection}{Bilanzraumstrukturen}{12}{}%
-\contentsline {section}{\numberline {2.2}Energiemanagement nach ISO 50001}{14}{}%
-\contentsline {subsection}{\numberline {2.2.1}Identifikation wesentlicher Energieeinsätze}{14}{}%
-\contentsline {subsubsection}{Analyse und Unterscheidung von Energieeinsätzen}{14}{}%
-\contentsline {subsubsection}{Datengetriebene Ermittlung von Energieeinsätzen}{16}{}%
-\contentsline {subsubsection}{Datengetriebene Ermittlung von relevanten Variablen}{17}{}%
-\contentsline {subsection}{\numberline {2.2.2}Bewertung der Energiebezogenen Leistung}{17}{}%
-\contentsline {subsubsection}{Definition von Energieleistungskennzahlen}{17}{}%
-\contentsline {subsubsection}{Arten von Kennzahlen aus statistisch-methodischer Perspektive}{19}{}%
-\contentsline {subsubsection}{Grenzen von Energieleistungskennzahlen}{19}{}%
-\contentsline {subsubsection}{Datengetriebene Auswertung von Energieleistungskennzahlen}{20}{}%
-\contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{21}{}%
-\contentsline {chapter}{\numberline {4}Evaluation}{22}{}%
-\contentsline {chapter}{\numberline {5}Fazit}{23}{}%
-\contentsline {chapter}{\numberline {A}Anhang}{26}{}%
+\contentsline {section}{\numberline {2.2}Energiemanagement nach ISO 50001}{13}{}%
+\contentsline {subsection}{\numberline {2.2.1}Identifikation wesentlicher Energieeinsätze}{13}{}%
+\contentsline {subsubsection}{Analyse und Unterscheidung von Energieeinsätzen}{13}{}%
+\contentsline {subsubsection}{Datengetriebene Ermittlung von Energieeinsätzen}{15}{}%
+\contentsline {subsubsection}{Datengetriebene Ermittlung von relevanten Variablen}{16}{}%
+\contentsline {subsection}{\numberline {2.2.2}Bewertung der Energiebezogenen Leistung}{16}{}%
+\contentsline {subsubsection}{Definition von Energieleistungskennzahlen}{16}{}%
+\contentsline {subsubsection}{Arten von Kennzahlen aus statistisch-methodischer Perspektive}{18}{}%
+\contentsline {subsubsection}{Grenzen von Energieleistungskennzahlen}{18}{}%
+\contentsline {subsubsection}{Datengetriebene Auswertung von Energieleistungskennzahlen}{19}{}%
+\contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{20}{}%
+\contentsline {chapter}{\numberline {4}Evaluation}{21}{}%
+\contentsline {chapter}{\numberline {5}Fazit}{22}{}%
+\contentsline {chapter}{\numberline {A}Anhang}{25}{}%
