@@ -1,58 +1,58 @@
 \section{Aufbau der Arbeit}
-Diese Arbeit ist so konzipiert, dass Sie die Grundlagen des Problemraums: Bilanzräume erfasst und Nutzen sowie Herausforderungen im Anwendungsgebiet: 
-EMS nach DIN EN ISO 50001:2018-12 erarbeitet. Auf Grundlage der theoretischen Grundlagen im Anwendungsbereich wird mit bewährten Methoden des Datenmanagements 
-eine Lösung der Forschungsfrage auf Datenbankebene des Energiemanagementsystems EMS-EDM Prophet® konzipiert, implementiert und evaluiert.
-
-Der Aufbau der Arbeit umfasst drei Hauptabschnitte: theoretische Grundlagen,Konzeption und Implementierung eines Lösungsansatzes sowie dessen 
+Diese Arbeit ist so konzipiert, dass Sie die theoretischen Grundlagen des Problemraums erfasst und Nutzen sowie Herausforderungen im Anwendungsgebiet: 
+EMS nach DIN EN ISO 50001:2018-12 erarbeitet. 
+Basierend auf den theoretischen Grundlagen im Anwendungsbereich und den bestehenden Methoden und Ansätzen des Datenmanagements 
+in EMS-EDM Prophet® wird eine Lösung der Forschungsfrage auf Datenbankebene des Energiemanagementsystems konzipiert, 
+implementiert und evaluiert.
+Der Aufbau der Arbeit umfasst drei Hauptabschnitte: die theoretischen Grundlagen und der Stand der Wissenschaft, die Konzeption und Implementation, und die 
 Evaluation.
+
 \begin{enumerate}
     \item \textbf{Theoretische Grundlagen und Stand der Wissenschaft}
     
-    Die praxisnahe Problemstellung erfordert eine anwendungsorientierte Forschung. 
-    Aufgrund des spezifischen Anwendungskontexts EMS-EDM Prophet® existieren nur wenige vergleichbare Ansätze.
-    Daher werden im theoretischen Teil der Arbeit drei Themenbereiche betrachtet: Grundlagen von Bilanzräumen und Bilanzierung, Energiemanagement nach
-    DIN EN ISO 50001:2018-12 mit den einhergehenden praktischen Herausforderungen bei der Umsetzung und geeigneten Ansätzen des Datenmanagements zur Abbildung
-    von Bilanzräumen in relationalen Datenbanken.
+    Die praxisnahe Problemstellung erfordert eine anwendungsorientierte Forschung unter Berücksichtigung der Interdisziplinarität. 
+    Im theoretischen Teil der Arbeit werden zwei Themenbereiche betrachtet: Grundlagen der Energiebilanzierung unter Nutzung von Bilanzräumen und  
+    Energiemanagementsysteme nach DIN EN ISO 50001:2018-12. In beiden Tehemenbereichen findet die erarbeitung der Grundlagen unter beachtung des Anwendungsgebiets: 
+    Organisation im tertiären Wirtschaftssektor statt. 
     
-    Für die Erarbeitung der theoretischen Grundlagen des Energiemanagements werden in diesem Kapitel der Arbeit die DIN EN ISO 50001:2018-12, damit verbundene Normen und
-    Basiswissen aus für den Problemraum relevanter Fachliteratur analysiert. Auf dieser Basis werden theoretische Konzepte und Anforderungen aus dem
-    Problemraum abgeleitet, die für die Lösung der Forschungsfrage relevant sind.
+    Für die Erarbeitung der theoretischen Grundlagen des Energiemanagements werden im ersten Hauptabschnitt der Arbeit die DIN EN ISO 50001:2018-12, 
+    damit verbundene Normen und Basiswissen aus für den Problemraum relevanter Fachliteratur analysiert.
+    Außerdem werden wissenschaftliche Arbeiten aus verwandten Problemräumen analysiert und in den Kontext dieser Arbeit gesetzt.
+    Auf dieser Basis werden theoretische Konzepte und Anforderungen aus dem Problemraum abgeleitet, die für die Lösung der Forschungsfrage relevant sind.
     
-    Ein zentraler Aspekt der theoretischen Forschung dieser Arbeit ist die Interdisziplinarität. Die Verbindung von Energiemanagement und Datenmanagement
-    ist entscheidend, um eine umfassende und praxisnahe Lösung zu entwickeln. Durch die Integration von Erkenntnissen und Methoden aus beiden Bereichen
-    wird sichergestellt, dass die theoretischen Grundlagen sowohl die für Bilanzräume relevanten Anforderungen der DIN EN ISO 50001:2018-12 als auch die technischen
-    Herausforderungen der Datenbankmodellierung abdecken. Diese interdisziplinäre Herangehensweise ermöglicht es, eine fundierte theoretische Basis zu
-    schaffen, die sowohl den praktischen als auch den wissenschaftlichen Anforderungen gerecht wird.
-    
-    Aufgrund der kleinen Menge an vergleichbaren Ansätzen fließen alternative Lösungsansätze im Rahmen der Erarbeitung der theoretischen Grundlagen nur teilweise ein.
-    Der Stand der Wissenschaft wird ausschließlich im Themenbereich Ansätze des Datenmanagements zur Abbildung von Bilanzräumen in relationalen
-    Datenbanken behandelt.  
+    Der erste Hauptabschnitt der Arbeit hat somit eine zentrale Bedeutung zum erreichen der Interdisziplinarität der Forschung.
+    Die umfangreiche erarbeitung von Konzepten des Energiemanagements, Anforderungen von Anforderungen der ISO 50001 und den Einsatzmöglichkeiten 
+    von Bilanzräumen zur praxisnahen erfüllung dieser Anforderungen auf basis der Konzepte stellen eine detaillierte Analyse des Anwendungsbereichs dieser 
+    Forschung dar.
+    Diese Detaillierte Analyse, ohne technische Perspektive der Datenbankmodellierung, ist notwendig um der Interdisziplinarität des Problemraums aus Sicht des 
+    Energiemanagements und der Energiebilanzierung gerecht zu werden. 
+    Die erarbeiteten Grundlagen des Anwendungsbereichs: Energiemanagent wird im nächsten Hauptabschnitt, der Konzeption und Implementation, 
+    aufgegriffen und aus einer technischen Sicht des Datenbankmanagements betrachtet.
 
     \item \textbf{Konzeption und Implementation des Prototyps}
 
     Basierend auf den Forschungsergebnissen des theoretischen Teils der Arbeit wird im zweiten Kapitel der Arbeit eine Lösung für den Problemraum
     konzipiert und implementiert.
-    Dabei wird das Konzept begründet und, wenn fertiggestellt, in EMS-EDM Prophet® implementiert.
-    Als Grundlage der strukturellen Anpassungen dient der Ausgangszustand der Datenbankstruktur von EMS-EDM Prophet®.
-    Dieser wird im Rahmen dieses Kapitels beschrieben und schematisch dargestellt.
-    
-    Das Konzept basiert auf den theoretischen Grundlagen zu Bilanzräumen, Bilanzierung und Energiemanagement nach DIN EN ISO 50001:2018-12.
-    
-    Zur Konzipierung der strukturellen Anpassungen und Erweiterungen des Datenbankmodells werden herausgearbeitete bewährte Ansätze zur Datenbankmodellierung von
-    Bilanzräumen verwendet.
-    
-    Außerdem werden Anforderungen an den Organisationskontext zur praktischen Umsetzung des Prototyps auf Grundlage des entworfenen Konzepts und der
-    im Theorieteil herausgearbeiteten praktischen Herausforderungen formuliert.
-
+    Um der Interdisziplinarität aus Sicht der Datenbankmodellierung gerecht zu werden, wird der IST-Zustand des EMS-EDM Prophet® analysiert und es werden 
+    bereits bestehende Ansätze der Datenbankmodellierung die den Problemraum addressieren aufgezeigt.
+    Unter berücksichtigung der aufgezeigten Ansätze wird der Prototyp zur Problemlösung konzipiert und EMS-EDM Prophet® im implementiert.
+    Im Zuge dessen ist die konzeption und integration von Ansätzen des Datenbankmanagements, die noch nicht im EMS-EDM Prophet® bestehen 
+    notwendig.
+    Das Konzept addressiert die im ersten Hauptabschnitt erarbeiteten Erkenntnisse des Anwendungsbereichs: Energiemanagement und Energiebilanzierung 
+    und stellt eine Datenbankseitige abbildung der Grundsätze unter den erarbeiteten Anforderungen der ISO 50001 im kontext von Organisationen des 
+    tertiären Wirtschaftssektors zur verfügung.
     
     \item \textbf{Evalutation des Prototyps}
     
-    Im letzten Hauptkapitel der Arbeit wird der entworfene Prototyp evaluiert.
-    Dazu wird die Bilanzraumstruktur des Fraunhofer IOSB-AST in Ilmenau erarbeitet und im entworfenen Prototyp abgebildet.
+    Im dritten Hauptabschnitt der Arbeit wird der entworfene Prototyp evaluiert.
+    Im Zuge dessen wird die Bilanzraumstruktur des Fraunhofer IOSB-AST in Ilmenau erarbeitet und im entworfenen Prototyp abgebildet.
+    Anhand dieses praktischen Beispiels wird getestet wie korrekt die im ersten Hauptabschnitt erläuterten Methoden des Energiemanagements und der Energiebilanzierung 
+    umgesetzt wurden, und wie der Prototyp in der Praxis bei der Erfüllung von ISO 50001 Anforderungen Organisationen unterstützen kann. 
+    Dieser Abschnitt der Evaluation findet unter Nutzung quantitativer Qualitätskriterien statt.
 
-    Auf Grundlage des angewandten Prototyps sollen nun mehrere Aspekte evaluiert werden.
-    Die Evaluation prüft, wie gut der Prototyp die Organisation bei der Erfüllung der DIN EN ISO 50001:2018-12 unterstützt und 
-    inwiefern frei definierbare Bilanzräume umsetzbar sind.
+    Des weiteren wird grundsätzlich betrachtet, wie im Rahmen der Interdisziplinarität die im ersten Hauptabschnitt erarbeiteten Erkenntnisse aus Sicht 
+    des Energiemanagements technisch durch den konzipierten und implementierten Prototyp abgebildet wurde.
+    Dabei wird auch analysiert ob und wie die im ersten Hauptabschnitt erörterten Anforderungen der ISO 50001 auf Datenbankebene umgesetzt wurden sind.
+    Dieser Abschnitt der Evaluation findet unter Nutzung qualitativer Qualitätskriterien statt.
 
-    Die Evaluation basiert auf Qualitätskriterien, die im Methodik-Abschnitt aus den theoretischen Grundlagen abgeleitet wurden.
 \end{enumerate}

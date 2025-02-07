@@ -162,12 +162,15 @@
       \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labeldatesource}{nodate}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{DIN EN ISO 50001:2018-12, Energiemanagementsysteme -- Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018); Deutsche Fassung EN ISO 50001:2018}
       \field{volume}{ICS 03.100.70; 27.015}
+      \field{year}{2018}
       \verb{file}
       \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
       \endverb
@@ -189,6 +192,7 @@
       \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -341,6 +345,55 @@
       \endverb
       \verb{url}
       \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+    \endentry
+    \entry{Hall.2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=533aaf242d1b4b7645e386443717ec53}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21a0ce60804fb39817d149dcad66cf76}{%
+           family={Dorusch},
+           familyi={D\bibinitperiod},
+           given={Falk},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ebed70b70cb15ad5039bf6c5df2ad30}{%
+           family={Geissler},
+           familyi={G\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f5616463824e406de1f84dc1203e9c4}
+      \strng{fullhash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{fullhashraw}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{bibnamehash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authorbibnamehash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authornamehash}{8f5616463824e406de1f84dc1203e9c4}
+      \strng{authorfullhash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authorfullhashraw}{22a37adeee76bc3d7761ec9031c9b924}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An einem kleinen, gut gedämmten Mehrfamilienhaus mit Elektromobilität und einer gro{ß}en Photovoltaikanlage wird untersucht, welche Verbraucher sich für die Steigerung des Eigenverbrauchs eignen. Das detaillierte Monitoring weist aus, dass hierzu die Wärmepumpe der grö{ß}te geeignete Einzelverbraucher ist. Mit der Limitierung der Laufzeit der Wärmepumpe auf die Tagesstunden kann gezeigt werden, dass die Gleichzeitigkeit von Elektrizitätsbezug und Photovoltaikertrag erhöht und damit nicht nur die Netzbelastung reduziert, sondern auch die Einspeisespitze zur Mittagszeit geglättet werden. Der thermische Komfort wird dabei nicht beeinflusst. Für die Gesamtbilanzierung des Gebäudes wird anhand der Messdaten die Eigendeckungs-- und Eigenverbrauchsrate detailliert betrachtet. Verschiedene Bilanzzeiträume und Bilanzierungszeitschritte werden gegenübergestellt. Je kürzer der Bilanzzeitraum und die Zeitschritte gewählt werden, desto geringer sind die Eigendeckungs-- und Eigenverbrauchsraten. Dies ist ein wichtiger Aspekt bei der Diskussion über die Anforderungen an die Gleichzeitigkeit in Gebäudestandards und normativen Berechnungsvorschriften der Gesamtenergiebilanzierung von Gebäuden. Optimization of self--consumption, self--cover rate and net interaction of an apartment building with electromobility. Based on a small, well insulated multi--family dwelling with included e--car and large PV installation the load with the highest potential for increasing self--consumption is evaluated. The monitoring shows that the heat pump has the highest potential for increasing self--consumption. The run--time schedule of the heat pump is limited to daytime hours as a proof of concept. This increases the self--consumption and decreases the net interaction and also shaves the peak electricity export at noon. The thermal comfort does not decrease, hereby. The self--consumption rate and self--cover rate both depend on the balancing time period and the time--step chosen. This is an important aspect in regard to defining self--consumption requirements for building labels or energy codes.}
+      \field{issn}{0171-5445}
+      \field{journaltitle}{Bauphysik}
+      \field{number}{3}
+      \field{title}{Optimierung des Eigenverbrauchs, der Eigendeckungsrate und der Netzbelastung von einem Mehrfamiliengebäude mit Elektromobilität}
+      \field{volume}{36}
+      \field{year}{2014}
+      \field{pages}{117\bibrangedash 129}
+      \range{pages}{13}
+      \verb{file}
+      \verb Bauphysik - 2014 - Hall - Optimierung des Eigenverbrauchs der Eigendeckungsrate und der Netzbelastung von einem:Attachments/Bauphysik - 2014 - Hall - Optimierung des Eigenverbrauchs der Eigendeckungsrate und der Netzbelastung von einem.pdf:application/pdf
       \endverb
     \endentry
     \entry{Hohnhold.2013}{article}{}{}
@@ -624,6 +677,58 @@
       \verb{url}
       \verb urn:nbn:de:hbz:468-20160205-115728-8
       \endverb
+    \endentry
+    \entry{Rathgeber.2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=683939afbf3f7ae91a66f27c948f7b1e}{%
+           family={Rathgeber},
+           familyi={R\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99ac57a6f5fc4db58388925503e6fe80}{%
+           family={Helm},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a929d16fb9d907957e5452fa9e6d926}{%
+           family={Hiebler},
+           familyi={H\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ae17875d86519cecd6caa5045525e88}
+      \strng{fullhash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{fullhashraw}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{bibnamehash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authorbibnamehash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authornamehash}{4ae17875d86519cecd6caa5045525e88}
+      \strng{authorfullhash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authorfullhashraw}{d4778eb1b49349172e2abbdb06ac71dc}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Latentwärmespeicher stellen nutzbare thermische Energie mit hoher Speicherdichte zur Verfügung. Für Anwendungen bis ca. 100 °C bieten sich als Speichermaterialien Salzhydrate an. Es wurde ein Latentwärmespeicher mit eingetauchtem Kapillarrohrwärmeübertrager entwickelt, um Salzhydrate langzeitstabil verwenden zu können. Dieses Konzept wurde zur Unterstützung der trockenen Rückkühlung von Sorptionskälteanlagen in solaren Klimatisierungssystemen sowie zur Gebäudekühlung über Flächenkühlsysteme eingesetzt. Derzeit werden neue Salzhydratmischungen für weitere energierelevante Anwendungen untersucht.}
+      \field{journaltitle}{Chemie Ingenieur Technik}
+      \field{number}{1-2}
+      \field{title}{Energiespeicher für die Energiewende: Salzhydratbasierte Niedertemperatur-Latentwärmespeicher}
+      \field{volume}{90}
+      \field{year}{2018}
+      \field{pages}{193\bibrangedash 200}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1002/cite.201700049
+      \endverb
+      \verb{file}
+      \verb Chemie Ingenieur Technik - 2017 - Rathgeber - Energy Storage for the Energy Transition Salt Hydrate Based Low-Temperature:Attachments/Chemie Ingenieur Technik - 2017 - Rathgeber - Energy Storage for the Energy Transition Salt Hydrate Based Low-Temperature.pdf:application/pdf
+      \endverb
+      \keyw{Energieeffizienz;Energiespeicher;Energy efficiency;Energy storage;Latent heat storage;Latentwärmespeicher;Phase change materials;Phasenwechselmaterialien;Salt hydrates;Salzhydrate}
     \endentry
     \entry{Rönsch.2015}{book}{}{}
       \name{author}{1}{}{%
@@ -853,12 +958,15 @@
       \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labeldatesource}{nodate}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{DIN EN ISO 50001:2018-12, Energiemanagementsysteme -- Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018); Deutsche Fassung EN ISO 50001:2018}
       \field{volume}{ICS 03.100.70; 27.015}
+      \field{year}{2018}
       \verb{file}
       \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
       \endverb
@@ -880,6 +988,7 @@
       \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -1032,6 +1141,55 @@
       \endverb
       \verb{url}
       \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+    \endentry
+    \entry{Hall.2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=533aaf242d1b4b7645e386443717ec53}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21a0ce60804fb39817d149dcad66cf76}{%
+           family={Dorusch},
+           familyi={D\bibinitperiod},
+           given={Falk},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ebed70b70cb15ad5039bf6c5df2ad30}{%
+           family={Geissler},
+           familyi={G\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f5616463824e406de1f84dc1203e9c4}
+      \strng{fullhash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{fullhashraw}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{bibnamehash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authorbibnamehash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authornamehash}{8f5616463824e406de1f84dc1203e9c4}
+      \strng{authorfullhash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authorfullhashraw}{22a37adeee76bc3d7761ec9031c9b924}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An einem kleinen, gut gedämmten Mehrfamilienhaus mit Elektromobilität und einer gro{ß}en Photovoltaikanlage wird untersucht, welche Verbraucher sich für die Steigerung des Eigenverbrauchs eignen. Das detaillierte Monitoring weist aus, dass hierzu die Wärmepumpe der grö{ß}te geeignete Einzelverbraucher ist. Mit der Limitierung der Laufzeit der Wärmepumpe auf die Tagesstunden kann gezeigt werden, dass die Gleichzeitigkeit von Elektrizitätsbezug und Photovoltaikertrag erhöht und damit nicht nur die Netzbelastung reduziert, sondern auch die Einspeisespitze zur Mittagszeit geglättet werden. Der thermische Komfort wird dabei nicht beeinflusst. Für die Gesamtbilanzierung des Gebäudes wird anhand der Messdaten die Eigendeckungs-- und Eigenverbrauchsrate detailliert betrachtet. Verschiedene Bilanzzeiträume und Bilanzierungszeitschritte werden gegenübergestellt. Je kürzer der Bilanzzeitraum und die Zeitschritte gewählt werden, desto geringer sind die Eigendeckungs-- und Eigenverbrauchsraten. Dies ist ein wichtiger Aspekt bei der Diskussion über die Anforderungen an die Gleichzeitigkeit in Gebäudestandards und normativen Berechnungsvorschriften der Gesamtenergiebilanzierung von Gebäuden. Optimization of self--consumption, self--cover rate and net interaction of an apartment building with electromobility. Based on a small, well insulated multi--family dwelling with included e--car and large PV installation the load with the highest potential for increasing self--consumption is evaluated. The monitoring shows that the heat pump has the highest potential for increasing self--consumption. The run--time schedule of the heat pump is limited to daytime hours as a proof of concept. This increases the self--consumption and decreases the net interaction and also shaves the peak electricity export at noon. The thermal comfort does not decrease, hereby. The self--consumption rate and self--cover rate both depend on the balancing time period and the time--step chosen. This is an important aspect in regard to defining self--consumption requirements for building labels or energy codes.}
+      \field{issn}{0171-5445}
+      \field{journaltitle}{Bauphysik}
+      \field{number}{3}
+      \field{title}{Optimierung des Eigenverbrauchs, der Eigendeckungsrate und der Netzbelastung von einem Mehrfamiliengebäude mit Elektromobilität}
+      \field{volume}{36}
+      \field{year}{2014}
+      \field{pages}{117\bibrangedash 129}
+      \range{pages}{13}
+      \verb{file}
+      \verb Bauphysik - 2014 - Hall - Optimierung des Eigenverbrauchs der Eigendeckungsrate und der Netzbelastung von einem:Attachments/Bauphysik - 2014 - Hall - Optimierung des Eigenverbrauchs der Eigendeckungsrate und der Netzbelastung von einem.pdf:application/pdf
       \endverb
     \endentry
     \entry{Hohnhold.2013}{article}{}{}
@@ -1315,6 +1473,58 @@
       \verb{url}
       \verb urn:nbn:de:hbz:468-20160205-115728-8
       \endverb
+    \endentry
+    \entry{Rathgeber.2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=683939afbf3f7ae91a66f27c948f7b1e}{%
+           family={Rathgeber},
+           familyi={R\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99ac57a6f5fc4db58388925503e6fe80}{%
+           family={Helm},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a929d16fb9d907957e5452fa9e6d926}{%
+           family={Hiebler},
+           familyi={H\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ae17875d86519cecd6caa5045525e88}
+      \strng{fullhash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{fullhashraw}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{bibnamehash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authorbibnamehash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authornamehash}{4ae17875d86519cecd6caa5045525e88}
+      \strng{authorfullhash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authorfullhashraw}{d4778eb1b49349172e2abbdb06ac71dc}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Latentwärmespeicher stellen nutzbare thermische Energie mit hoher Speicherdichte zur Verfügung. Für Anwendungen bis ca. 100 °C bieten sich als Speichermaterialien Salzhydrate an. Es wurde ein Latentwärmespeicher mit eingetauchtem Kapillarrohrwärmeübertrager entwickelt, um Salzhydrate langzeitstabil verwenden zu können. Dieses Konzept wurde zur Unterstützung der trockenen Rückkühlung von Sorptionskälteanlagen in solaren Klimatisierungssystemen sowie zur Gebäudekühlung über Flächenkühlsysteme eingesetzt. Derzeit werden neue Salzhydratmischungen für weitere energierelevante Anwendungen untersucht.}
+      \field{journaltitle}{Chemie Ingenieur Technik}
+      \field{number}{1-2}
+      \field{title}{Energiespeicher für die Energiewende: Salzhydratbasierte Niedertemperatur-Latentwärmespeicher}
+      \field{volume}{90}
+      \field{year}{2018}
+      \field{pages}{193\bibrangedash 200}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1002/cite.201700049
+      \endverb
+      \verb{file}
+      \verb Chemie Ingenieur Technik - 2017 - Rathgeber - Energy Storage for the Energy Transition Salt Hydrate Based Low-Temperature:Attachments/Chemie Ingenieur Technik - 2017 - Rathgeber - Energy Storage for the Energy Transition Salt Hydrate Based Low-Temperature.pdf:application/pdf
+      \endverb
+      \keyw{Energieeffizienz;Energiespeicher;Energy efficiency;Energy storage;Latent heat storage;Latentwärmespeicher;Phase change materials;Phasenwechselmaterialien;Salt hydrates;Salzhydrate}
     \endentry
     \entry{Rönsch.2015}{book}{}{}
       \name{author}{1}{}{%
