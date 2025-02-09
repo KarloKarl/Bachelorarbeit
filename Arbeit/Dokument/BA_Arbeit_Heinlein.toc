@@ -1,7 +1,7 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {chapter}{Kurzfassung}{ii}{}%
-\contentsline {chapter}{Abstract}{iii}{}%
-\contentsline {chapter}{Vorwort}{iv}{}%
+\contentsline {chapter}{Kurzfassung}{i}{}%
+\contentsline {chapter}{Abstract}{ii}{}%
+\contentsline {chapter}{Vorwort}{iii}{}%
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{}%
 \contentsline {section}{\numberline {1.1}Hintergrund und Motivation}{1}{}%
 \contentsline {section}{\numberline {1.2}Problemstellung}{2}{}%
@@ -22,16 +22,16 @@
 \contentsline {subsubsection}{Energiequellen und -senken}{12}{}%
 \contentsline {subsubsection}{Bilanzraumstrukturen}{12}{}%
 \contentsline {section}{\numberline {2.2}Energiemanagement nach ISO 50001}{13}{}%
-\contentsline {subsection}{\numberline {2.2.1}Identifikation wesentlicher Energieeinsätze}{13}{}%
-\contentsline {subsubsection}{Analyse und Unterscheidung von Energieeinsätzen}{13}{}%
-\contentsline {subsubsection}{Datengetriebene Ermittlung von Energieeinsätzen}{15}{}%
-\contentsline {subsubsection}{Datengetriebene Ermittlung von relevanten Variablen}{16}{}%
-\contentsline {subsection}{\numberline {2.2.2}Bewertung der Energiebezogenen Leistung}{16}{}%
-\contentsline {subsubsection}{Definition von Energieleistungskennzahlen}{16}{}%
-\contentsline {subsubsection}{Arten von Kennzahlen aus statistisch-methodischer Perspektive}{18}{}%
-\contentsline {subsubsection}{Grenzen von Energieleistungskennzahlen}{18}{}%
-\contentsline {subsubsection}{Datengetriebene Auswertung von Energieleistungskennzahlen}{19}{}%
-\contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{20}{}%
-\contentsline {chapter}{\numberline {4}Evaluation}{21}{}%
-\contentsline {chapter}{\numberline {5}Fazit}{22}{}%
-\contentsline {chapter}{\numberline {A}Anhang}{25}{}%
+\contentsline {subsection}{\numberline {2.2.1}Bewertung der Energiebezogenen Leistung}{13}{}%
+\contentsline {subsubsection}{Definition von Energieleistungskennzahlen}{13}{}%
+\contentsline {subsubsection}{Arten von Kennzahlen aus statistisch-methodischer Perspektive}{15}{}%
+\contentsline {subsubsection}{Grenzen von Energieleistungskennzahlen}{15}{}%
+\contentsline {subsection}{\numberline {2.2.2}Identifikation wesentlicher Energieeinsätze}{17}{}%
+\contentsline {subsubsection}{Analyse und Unterscheidung von Energieeinsätzen}{17}{}%
+\contentsline {subsection}{\numberline {2.2.3}Methodik zur Erfüllung von ISO 50001 Anforderungen}{19}{}%
+\contentsline {subsubsection}{Integration von relevanten Variablen}{19}{}%
+\contentsline {subsubsection}{Datengetriebener Ansatz}{19}{}%
+\contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{21}{}%
+\contentsline {chapter}{\numberline {4}Evaluation}{22}{}%
+\contentsline {chapter}{\numberline {5}Fazit}{23}{}%
+\contentsline {chapter}{\numberline {A}Anhang}{26}{}%

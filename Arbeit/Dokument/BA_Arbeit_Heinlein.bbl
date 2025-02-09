@@ -433,36 +433,6 @@
       \verb https://hdl.handle.net/10419/88105
       \endverb
     \endentry
-    \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d73fb1481f09d1b25d3e06ea5bda2e18}{%
-           family={{IInternational Organization for Standardization}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Geneva, Switzerland}%
-      }
-      \list{publisher}{1}{%
-        {ISO Central Secretariat}%
-      }
-      \strng{namehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{fullhash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{fullhashraw}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{bibnamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorbibnamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authornamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorfullhash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorfullhashraw}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Win the Energy Challenge with ISO 50001}
-      \field{year}{2011}
-    \endentry
     \entry{InternationalOrganizationforStandardization.2023}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
@@ -1229,36 +1199,6 @@
       \verb https://hdl.handle.net/10419/88105
       \endverb
     \endentry
-    \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d73fb1481f09d1b25d3e06ea5bda2e18}{%
-           family={{IInternational Organization for Standardization}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Geneva, Switzerland}%
-      }
-      \list{publisher}{1}{%
-        {ISO Central Secretariat}%
-      }
-      \strng{namehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{fullhash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{fullhashraw}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{bibnamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorbibnamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authornamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorfullhash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorfullhashraw}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Win the Energy Challenge with ISO 50001}
-      \field{year}{2011}
-    \endentry
     \entry{InternationalOrganizationforStandardization.2023}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
@@ -1610,6 +1550,7 @@
       \keyw{Energy consumption;Energy management;Energy measurement;Environmental management;ISO Standards;Monitoring}
     \endentry
   \enddatalist
+  \missing{InternationalOrganizationforStandardization.2011}
 \endrefsection
 \endinput
 

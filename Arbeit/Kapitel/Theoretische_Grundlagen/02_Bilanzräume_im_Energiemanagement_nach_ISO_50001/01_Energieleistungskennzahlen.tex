@@ -5,7 +5,7 @@ Im Rahmen der Planungsphase des PDCA-Zyklus verpflichtet die DIN EN ISO 50001:20
 Eine Energieleistungskennzahl, auch EnPi (en: energy performance indicator) gennant, ist ein Maß oder eine Einheit der energiebezogenen Leistung, wie Sie von der Organisation festgelegt ist 
 (\cite[Kapitel 3.4.4]{DIN50001.2018}), und ist somit ein Maßstab für den Vergleich der energiebezogenen Leistung (\cite[Kapitel A.6.4]{DIN50001.2018}). 
 Eine Energieleistungskennzahl wird durch einen EnPI-Wert zu einem bestimmten Zeitpunkt oder über einen bestimmten Zeitraum quantifiziert (\cite[Kapitel 3.4.5]{DIN50001.2018}).
-EnPI Werte finden Verwendung in der gesamten Organisation und in verschiedenen Teilen der Organisation (\cite[S. 13]{DIN50006.2024}). 
+EnPI-Werte finden Verwendung in der gesamten Organisation und in verschiedenen Teilen der Organisation (\cite[S. 13]{DIN50006.2024}). 
 EnPIs ermöglichen einen Vergleich zwischen unterschiedlichen Untersuchungsgegenständen, können zeitliche Veränderungen der energiebezogenen Leistung darstellen und dienen als 
 Zielvorgaben und zur Erfolgskontrolle (\cite[S. 2]{Hohnhold.2013}).
 Sie bilden nach Hohnhold (2013, S. 2) den Mittelpunkt jeder Bewertung von Energieeffizienz und verdichten Informationen über den Energieverbrauch und dessen Struktur in einer 
@@ -43,20 +43,29 @@ Anhand dieser Werte kann die Erfüllung oder nicht-Erfüllung des operativen Ene
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=1\textwidth]{../../Ressourcen/Abbildungen/Arten_Kennzahlen_Hohnhold.jpg}
-    \caption{Arten von Kennzahlen. (Darstellung von Hohnhold (2013, S. 4))}
+    \includegraphics[width=1\textwidth]{../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg}
+    \caption{Arten von Kennzahlen. (Eigene Darstellung basierend auf Hohnhold (2013, S. 4))}
     \label{fig:Arten_Kennzahlen}
 \end{figure}
 
 Grundsätzlich lassen sich Kennzahlen aus statistisch-methodischer Sicht in zweit Klassen unterteilen: absolute Zahlen und Verhältniszahlen (vgl. Abbildung \eqref{fig:Arten_Kennzahlen}).
 Absolute Zahlen werden durch Einzelwerte, Summen, Differenzen oder Mittelwerten abgebildet und eignen sich aufgrund der absoluten Betrachtung auf Aufwandsseite nicht zur Bewertung der Energieeffizienz (\cite[S. 2]{Hohnhold.2013}).
-So fällt auch der in Abbildung \eqref{fig:Beziehung_EnPI_EnB_ISO_50006} dargestellte Energieverbrauch in einem Bezugszeitraum in die Klassifizierung einer absoluten Kennzahl (\cite[S. 2]{Hohnhold.2013}).
+So fällt auch der im oberen Teil der Abbildung \eqref{fig:Beziehung_EnPI_EnB_ISO_50006} dargestellte über den Bezugszeitraum aggregierte Energieverbrauch 
+in die Klassifizierung einer absoluten Kennzahl (\cite[S. 2]{Hohnhold.2013}).
 Obwohl absolute Zahlen nicht zur Bewertung der Energieeffizienz geeignet sind, können sie wie in Abbildung \eqref{fig:Beziehung_EnPI_EnB_ISO_50006} visualisert 
 auskunft über die Verbesserung der energiebezogenen Leistung geben.
+
 Verhältniszahlen bilden einen Quotienten aus zusammenhängenden Größen und sind dadurch besser zur Analyse der Energieeffizienz geeignet (\cite[S. 3]{Hohnhold.2013}).
 Die Auswahl der Bezugsgrößen zur Bildung der Verhältniszahlen hängt von der untersuchten Organisation und der untersuchten Branche ab (\cite[S. 3]{Hohnhold.2013}). 
-Im erarbeiteten Bilanzraumkonzept für Organisationen im tertiären Wirtschaftssektor (vgl. Abbildung \eqref{fig:Übersicht_Bilanzräume}) können die auf der aufwandsseitig erfassten Ressourcen ins 
-Verhältnis zu der jeweiligen Nutzengrößen gesetzt werden.
+Eine Subkategorie der Verhältniszahlen sind Gliederungszahlen, welche einen Quotienten aus einer Teilmenge und dazugehörigen Grundgesamtheit bilden (\cite[S. 3]{Hohnhold.2013}).
+Der Energieverbrauch einer Gebäudezone im Verhältnis zum Energieverbrauch des Gebäudes ist ein Beispiel für eine solche Gliederungszahl.
+Neben den Gleiderungszahlen gibt es noch Beziehungszahlen, welche zwei unterschiedliche Maße in Relation zueinander setzen um eine Kausalität zu beschreiben (\cite[S. 3]{Hohnhold.2013}).
+Im Bilanzraumkonzept von Miller (2016) für Organisationen im tertiären Wirtschaftssektor (vgl. Abbildung \eqref{fig:Übersicht_Bilanzräume}) kann der Quotient aus 
+dem aufwandsseitigen, durch Ressourcen gedeckten Nutzenergiebedarf und der nutzenseitigen Energiedienstleistung, die mit der Bewertungseinheit quantifiziert wird, 
+als Beziehungszahl zur Bewertung der Energieeffizienz dieser Dienstleistung herangezogen werden.
+Indexzahlen sind Verhältniszahlen welche gleichartige Größen in relation zueinander und dienen dazu Veränderungen, zum Beispiel über die Zeit, abzubilden (\cite[S. 3f.]{Hohnhold.2013}).
+Der im unteren Teil der Abbildung \eqref{fig:Beziehung_EnPI_EnB_ISO_50006} Zeit-Energieverbrauch Graph bildet eine Indexzahl ab, da er die Größe: Energievebrauch in relation zur 
+Zeit setzt und somit die zeitliche Veränderung der Größe abbildet.
 
 \subsubsection{Grenzen von Energieleistungskennzahlen}
 Um die Vergleichbarkeit von Energiekennzahlen zu gewährleisten müssen die Bilanzräume von Anlagen, Prozessen und Bereichen bekannt sein (\cite[S. 310]{Engelmann.2015}).
@@ -83,10 +92,10 @@ Daraus ergeben sich die drei primären Grenzniveaus: einzeln, systembezogen und 
 \end{figure}
 In Organisationen die keine materiellen Güter Produzieren, also alle Organisationen des tertiären Wirtschaftssektors, eignen sich Gebäude am besten zur 
 Abgrenzung der EnPIs (\cite[S. 9]{Fichera.2020}). 
-Im rahmen der Bestimmtung der EnPI-Grenzen sollen Organisationen nach E DIN ISO 50006:2024-07 (2024, S. 17) die für die einzelnen Grenzen relevanten Variablen 
-bestimmen.
-Außerdem ist es für die statistische Analyse der EnPI-Werte notwendig dass der Energieverbrauch und die Daten der zugehörigen relevanten Variablen 
-die gleichen Zeitintervalle umfassen (\cite[S. 20]{DIN50006.2024}).
-Folglich ist auch eine Zeitliche Abgrenzung der EnPIs notwendig.
-
-\subsubsection{Datengetriebene Auswertung von Energieleistungskennzahlen}
+Auf dem ersten Grenzniveau (Einzeln, vgl. Abbildung \eqref{fig:EnPI_Grenzniveaus}) kann eine Energieleistungskennzahl definiert werden, indem der Energieeinsatz 
+zur Bereitstellung einer spezifischen Energiedienstleistung durch eine einzelne Anlage erfasst wird. Da die Energiedienstleistung als energieverbrauchender 
+Prozess gilt, dient sie als Grundlage zur Eingrenzung der EnPI.
+Systembezogen kann folglich eine Energieleistungskennzahl definiert werden, indem der Energieeinsatz zur Bereitstellung einer zusammenhängenden Energiedienstleistung 
+unter Berücksichtigung mehrere miteinander verbundene Prozesse oder Anlagen, die gemeinsam zur Erbringung dieser Energiedienstleistung beitragen erfasst werden. 
+Organisatorisch können EnPI-Grenzen anhand der organisatorischen Struktur, also zum Beispiel der Einteilung eines Gebäudes in Gebäudezonen und Arbeitsgruppen und -teams 
+festgelegt werden.
