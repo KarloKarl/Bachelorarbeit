@@ -19,51 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{AGEB.2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
-           family={AGEB},
-           familyi={A\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
-           family={AGEB},
-           familyi={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Statista}%
-      }
-      \strng{namehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{fullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{fullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{bibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Energieverbrauch für Wärmezwecke in Deutschland nach Sektoren im Jahr 2023 (in Petajoule) [Graph]}
-      \field{year}{2024}
-      \verb{file}
-      \verb AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland:Attachments/AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
-      \endverb
-      \verb{url}
-      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
-      \endverb
-    \endentry
     \entry{Ahrendts.2014}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=89eaf2e7c1515148bd2cc532737bf7e6}{%
@@ -207,12 +162,15 @@
       \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labeldatesource}{nodate}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{DIN EN ISO 50001:2018-12, Energiemanagementsysteme -- Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018); Deutsche Fassung EN ISO 50001:2018}
       \field{volume}{ICS 03.100.70; 27.015}
+      \field{year}{2018}
       \verb{file}
       \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
       \endverb
@@ -234,6 +192,7 @@
       \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -280,35 +239,199 @@
       \endverb
       \warn{\item misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
     \endentry
-    \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
+    \entry{Engelmann.2015}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d73fb1481f09d1b25d3e06ea5bda2e18}{%
-           family={{IInternational Organization for Standardization}},
-           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fc75fe57f7afa29afdd55779a479856c}{%
+           family={Engelmann},
+           familyi={E\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
       }
       \list{location}{1}{%
-        {Geneva, Switzerland}%
+        {Wiesbaden}%
       }
       \list{publisher}{1}{%
-        {ISO Central Secretariat}%
+        {Springer Fachmedien Wiesbaden}%
       }
-      \strng{namehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{fullhash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{fullhashraw}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{bibnamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorbibnamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authornamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorfullhash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorfullhashraw}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \strng{namehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{fullhash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{fullhashraw}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{bibnamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorbibnamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authornamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorfullhash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorfullhashraw}{fc75fe57f7afa29afdd55779a479856c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Win the Energy Challenge with ISO 50001}
-      \field{year}{2011}
+      \field{abstract}{Ein Energiedatenmanagement beschreibt den Umgang mit Energiedaten~-- von der Datenerfassung bis hin zur Analyse und Auswertung. So schlicht die Beschreibung ist, so gro{ß} sind doch die Missverständnisse und so verschieden die Interpretationen.}
+      \field{booktitle}{Energiemanagement: Für Fachkräfte, Beauftragte und Manager}
+      \field{isbn}{978-3-658-02834-3}
+      \field{title}{Energiedatenmanagement}
+      \field{year}{2015}
+      \field{pages}{285\bibrangedash 320}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1007/978-3-658-02834-3{\textunderscore }5
+      \endverb
+      \verb{file}
+      \verb 978-3-658-02834-3 (1):Attachments/978-3-658-02834-3 (1).pdf:application/pdf
+      \endverb
+      \warn{\item inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Fink.1997}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=72c93c8788a7b1903d4a44928b9faa81}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=456c162567e5810c1848127ef89d7515}{%
+           family={Ga{ß}ner},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc7c81292134e12aeacde368917314de}{%
+           family={Günther-Pomhoff},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0d0a24f383a60892e254453086844de}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff8e6eff3e8ee4202c76d1070ad227b2}{%
+           family={Münzer},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Umweltbundesamt}%
+      }
+      \strng{namehash}{e0563f439994744c1cb86594d63c3794}
+      \strng{fullhash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{fullhashraw}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{bibnamehash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authorbibnamehash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authornamehash}{e0563f439994744c1cb86594d63c3794}
+      \strng{authorfullhash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authorfullhashraw}{ae56e20738e071f67d79ff8ba77d890a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leitfaden für das betriebliche Energiemanagement}
+      \field{year}{1997}
+      \verb{urlraw}
+      \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+      \verb{url}
+      \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+    \endentry
+    \entry{Hall.2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=533aaf242d1b4b7645e386443717ec53}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21a0ce60804fb39817d149dcad66cf76}{%
+           family={Dorusch},
+           familyi={D\bibinitperiod},
+           given={Falk},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ebed70b70cb15ad5039bf6c5df2ad30}{%
+           family={Geissler},
+           familyi={G\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f5616463824e406de1f84dc1203e9c4}
+      \strng{fullhash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{fullhashraw}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{bibnamehash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authorbibnamehash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authornamehash}{8f5616463824e406de1f84dc1203e9c4}
+      \strng{authorfullhash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authorfullhashraw}{22a37adeee76bc3d7761ec9031c9b924}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An einem kleinen, gut gedämmten Mehrfamilienhaus mit Elektromobilität und einer gro{ß}en Photovoltaikanlage wird untersucht, welche Verbraucher sich für die Steigerung des Eigenverbrauchs eignen. Das detaillierte Monitoring weist aus, dass hierzu die Wärmepumpe der grö{ß}te geeignete Einzelverbraucher ist. Mit der Limitierung der Laufzeit der Wärmepumpe auf die Tagesstunden kann gezeigt werden, dass die Gleichzeitigkeit von Elektrizitätsbezug und Photovoltaikertrag erhöht und damit nicht nur die Netzbelastung reduziert, sondern auch die Einspeisespitze zur Mittagszeit geglättet werden. Der thermische Komfort wird dabei nicht beeinflusst. Für die Gesamtbilanzierung des Gebäudes wird anhand der Messdaten die Eigendeckungs-- und Eigenverbrauchsrate detailliert betrachtet. Verschiedene Bilanzzeiträume und Bilanzierungszeitschritte werden gegenübergestellt. Je kürzer der Bilanzzeitraum und die Zeitschritte gewählt werden, desto geringer sind die Eigendeckungs-- und Eigenverbrauchsraten. Dies ist ein wichtiger Aspekt bei der Diskussion über die Anforderungen an die Gleichzeitigkeit in Gebäudestandards und normativen Berechnungsvorschriften der Gesamtenergiebilanzierung von Gebäuden. Optimization of self--consumption, self--cover rate and net interaction of an apartment building with electromobility. Based on a small, well insulated multi--family dwelling with included e--car and large PV installation the load with the highest potential for increasing self--consumption is evaluated. The monitoring shows that the heat pump has the highest potential for increasing self--consumption. The run--time schedule of the heat pump is limited to daytime hours as a proof of concept. This increases the self--consumption and decreases the net interaction and also shaves the peak electricity export at noon. The thermal comfort does not decrease, hereby. The self--consumption rate and self--cover rate both depend on the balancing time period and the time--step chosen. This is an important aspect in regard to defining self--consumption requirements for building labels or energy codes.}
+      \field{issn}{0171-5445}
+      \field{journaltitle}{Bauphysik}
+      \field{number}{3}
+      \field{title}{Optimierung des Eigenverbrauchs, der Eigendeckungsrate und der Netzbelastung von einem Mehrfamiliengebäude mit Elektromobilität}
+      \field{volume}{36}
+      \field{year}{2014}
+      \field{pages}{117\bibrangedash 129}
+      \range{pages}{13}
+      \verb{file}
+      \verb Bauphysik - 2014 - Hall - Optimierung des Eigenverbrauchs der Eigendeckungsrate und der Netzbelastung von einem:Attachments/Bauphysik - 2014 - Hall - Optimierung des Eigenverbrauchs der Eigendeckungsrate und der Netzbelastung von einem.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Hohnhold.2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dc6551321f5fbe52120f6556ad039da6}{%
+           family={Hohnhold},
+           familyi={H\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=6192b6edcf461fb0a5e875b857daf273}{%
+           family={Kai},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{fullhash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{fullhashraw}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{bibnamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorbibnamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authornamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorfullhash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorfullhashraw}{dbdcee021e53e5faae946cb8d1ca6098}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Economics: 330}
+      \field{title}{Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs- und Anwendungsmöglichkeiten in der Praxis}
+      \field{year}{2013}
+      \verb{file}
+      \verb 772085021:Attachments/772085021.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hdl.handle.net/10419/88105
+      \endverb
+      \verb{url}
+      \verb https://hdl.handle.net/10419/88105
+      \endverb
     \endentry
     \entry{InternationalOrganizationforStandardization.2023}{article}{}{}
       \name{author}{1}{}{%
@@ -342,6 +465,51 @@
       \verb{url}
       \verb https://www.iso.org/the-iso-survey.html
       \endverb
+    \endentry
+    \entry{Konstantin.2023}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=1496f98298f402368fc23900d65681d4}{%
+           family={Konstantin},
+           familyi={K\bibinitperiod},
+           given={Panos},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=cf6c8fbbed06d3b2728df1955ebb31c6}{%
+           family={Konstantin},
+           familyi={K\bibinitperiod},
+           given={Margarete},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin / Heidelberg}%
+      }
+      \strng{namehash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{fullhash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{fullhashraw}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{bibnamehash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{authorbibnamehash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{authornamehash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{authorfullhash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{authorfullhashraw}{562e4dca1fa05050d2697d0d75140b5d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5. Aufl. 2023}
+      \field{isbn}{9783662673348}
+      \field{title}{Praxisbuch Energiewirtschaft: Energieumwandlung, -Transport und -beschaffung, Übertragungsnetzausbau und Kernenergieausstieg}
+      \field{year}{2023}
+      \verb{file}
+      \verb Praxisbuch{\_}Energiewirtschaft{\_}Energieumwandlung{\_}-Tr...{\_}-{\_}(2.{\_}Physikalisch-Technisches{\_}Basiswissen):Attachments/Praxisbuch{\_}Energiewirtschaft{\_}Energieumwandlung{\_}-Tr...{\_}-{\_}(2.{\_}Physikalisch-Technisches{\_}Basiswissen).pdf:application/pdf;Praxisbuch{\_}Energiewirtschaft{\_}Energieumwandlung{\_}-Tr...{\_}-{\_}(3.{\_}Kraftwerke{\_}Technologien{\_}und{\_}Kosten):Attachments/Praxisbuch{\_}Energiewirtschaft{\_}Energieumwandlung{\_}-Tr...{\_}-{\_}(3.{\_}Kraftwerke{\_}Technologien{\_}und{\_}Kosten).pdf:application/pdf
+      \endverb
+      \keyw{Energy;Energy Policy Economics;Energy Systems;Management;Sustainability Management}
     \endentry
     \entry{Marimon.2017}{article}{}{}
       \name{author}{2}{}{%
@@ -480,6 +648,58 @@
       \verb urn:nbn:de:hbz:468-20160205-115728-8
       \endverb
     \endentry
+    \entry{Rathgeber.2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=683939afbf3f7ae91a66f27c948f7b1e}{%
+           family={Rathgeber},
+           familyi={R\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99ac57a6f5fc4db58388925503e6fe80}{%
+           family={Helm},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a929d16fb9d907957e5452fa9e6d926}{%
+           family={Hiebler},
+           familyi={H\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ae17875d86519cecd6caa5045525e88}
+      \strng{fullhash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{fullhashraw}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{bibnamehash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authorbibnamehash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authornamehash}{4ae17875d86519cecd6caa5045525e88}
+      \strng{authorfullhash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authorfullhashraw}{d4778eb1b49349172e2abbdb06ac71dc}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Latentwärmespeicher stellen nutzbare thermische Energie mit hoher Speicherdichte zur Verfügung. Für Anwendungen bis ca. 100 °C bieten sich als Speichermaterialien Salzhydrate an. Es wurde ein Latentwärmespeicher mit eingetauchtem Kapillarrohrwärmeübertrager entwickelt, um Salzhydrate langzeitstabil verwenden zu können. Dieses Konzept wurde zur Unterstützung der trockenen Rückkühlung von Sorptionskälteanlagen in solaren Klimatisierungssystemen sowie zur Gebäudekühlung über Flächenkühlsysteme eingesetzt. Derzeit werden neue Salzhydratmischungen für weitere energierelevante Anwendungen untersucht.}
+      \field{journaltitle}{Chemie Ingenieur Technik}
+      \field{number}{1-2}
+      \field{title}{Energiespeicher für die Energiewende: Salzhydratbasierte Niedertemperatur-Latentwärmespeicher}
+      \field{volume}{90}
+      \field{year}{2018}
+      \field{pages}{193\bibrangedash 200}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1002/cite.201700049
+      \endverb
+      \verb{file}
+      \verb Chemie Ingenieur Technik - 2017 - Rathgeber - Energy Storage for the Energy Transition Salt Hydrate Based Low-Temperature:Attachments/Chemie Ingenieur Technik - 2017 - Rathgeber - Energy Storage for the Energy Transition Salt Hydrate Based Low-Temperature.pdf:application/pdf
+      \endverb
+      \keyw{Energieeffizienz;Energiespeicher;Energy efficiency;Energy storage;Latent heat storage;Latentwärmespeicher;Phase change materials;Phasenwechselmaterialien;Salt hydrates;Salzhydrate}
+    \endentry
     \entry{Rönsch.2015}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4dfa4b814ca546e741485fb00badc30b}{%
@@ -524,54 +744,47 @@
       \verb https://link.springer.com/book/10.1007/978-3-658-07824-9
       \endverb
       \keyw{Electronic books;Thermodynamics}
+    \endentry
+    \entry{Szajdzicki.2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5a061e8f09d3306b958a097a4e589f4}{%
+           family={Szajdzicki},
+           familyi={S\bibinitperiod},
+           given={Kris},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{fullhash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{fullhashraw}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{bibnamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorbibnamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authornamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorfullhash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorfullhashraw}{f5a061e8f09d3306b958a097a4e589f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ISO 50001 deals with Energy Management Systems, a branch or form of overall management. Like all management systems, it needs the correct inputs; without these, the system cannot generate the correct OUTPUTS and thus ensure that the right decisions are made. If a financial management system cannot operate without detailed accounting for income {\&} expenditure, how can an Energy Management System operate without the necessary metering {\&} monitoring ? ISO 50001 is based on the well-known {"}Plan --- Do --- Check --- Act{"} principle. Applying it to any organisation needs effective management and measurement; and careful planning to ensure a successful implementation. The presentation briefly looks at two aspects of ISO 50001; on the initial implementation of a successful system and on ensuring that the input into the ISO system is valid data --- focussing predominantly on electricity metering: SMART in this context is an acronym related to the planning process rather than the highly misused adjective applied to almost any computerised system. The author has over 35 years' experience in Energy Management, particularly in metering. He is a member of the European Committee that wrote EN 16001, and of ISO TC301 --- responsible for the ISO 5000x series of standards; also of IEC ACEE.}
+      \field{journaltitle}{2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I{\&}CPS Europe)}
+      \field{title}{Measuring {\&} maintaining energy efficiency: SMART approach to implementing ISO 50001}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/EEEIC.2017.7977657
+      \endverb
+      \verb{file}
+      \verb Measuring{\_}amp{\_}maintaining{\_}energy{\_}efficiency{\_}SMART{\_}approach{\_}to{\_}implementing{\_}ISO{\_}50001:Attachments/Measuring{\_}amp{\_}maintaining{\_}energy{\_}efficiency{\_}SMART{\_}approach{\_}to{\_}implementing{\_}ISO{\_}50001.pdf:application/pdf
+      \endverb
+      \keyw{Energy consumption;Energy management;Energy measurement;Environmental management;ISO Standards;Monitoring}
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{AGEB.2024}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
-           family={AGEB},
-           familyi={A\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=9af9321c6cf80f497e5ef0fbad8d8262}{%
-           family={AGEB},
-           familyi={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Statista}%
-      }
-      \strng{namehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{fullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{fullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{bibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{authorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorbibnamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editornamehash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorfullhash}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \strng{editorfullhashraw}{9af9321c6cf80f497e5ef0fbad8d8262}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Energieverbrauch für Wärmezwecke in Deutschland nach Sektoren im Jahr 2023 (in Petajoule) [Graph]}
-      \field{year}{2024}
-      \verb{file}
-      \verb AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland:Attachments/AGEB 2024 - Energieverbrauch f{\"u}r W{\"a}rmezwecke in Deutschland.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
-      \endverb
-      \verb{url}
-      \verb https://de.statista.com/statistik/daten/studie/614202/umfrage/waermeverbrauch-in-deutschland-nach-sektoren/
-      \endverb
-    \endentry
     \entry{Ahrendts.2014}{book}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=89eaf2e7c1515148bd2cc532737bf7e6}{%
@@ -715,12 +928,15 @@
       \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labeldatesource}{nodate}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{DIN EN ISO 50001:2018-12, Energiemanagementsysteme -- Anforderungen mit Anleitung zur Anwendung (ISO 50001:2018); Deutsche Fassung EN ISO 50001:2018}
       \field{volume}{ICS 03.100.70; 27.015}
+      \field{year}{2018}
       \verb{file}
       \verb DIN EN ISO50001(2018):Attachments/DIN EN ISO50001(2018).PDF:application/pdf
       \endverb
@@ -742,6 +958,7 @@
       \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -788,35 +1005,199 @@
       \endverb
       \warn{\item misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring}
     \endentry
-    \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
+    \entry{Engelmann.2015}{inbook}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d73fb1481f09d1b25d3e06ea5bda2e18}{%
-           family={{IInternational Organization for Standardization}},
-           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fc75fe57f7afa29afdd55779a479856c}{%
+           family={Engelmann},
+           familyi={E\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
       }
       \list{location}{1}{%
-        {Geneva, Switzerland}%
+        {Wiesbaden}%
       }
       \list{publisher}{1}{%
-        {ISO Central Secretariat}%
+        {Springer Fachmedien Wiesbaden}%
       }
-      \strng{namehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{fullhash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{fullhashraw}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{bibnamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorbibnamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authornamehash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorfullhash}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \strng{authorfullhashraw}{d73fb1481f09d1b25d3e06ea5bda2e18}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \strng{namehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{fullhash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{fullhashraw}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{bibnamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorbibnamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authornamehash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorfullhash}{fc75fe57f7afa29afdd55779a479856c}
+      \strng{authorfullhashraw}{fc75fe57f7afa29afdd55779a479856c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Win the Energy Challenge with ISO 50001}
-      \field{year}{2011}
+      \field{abstract}{Ein Energiedatenmanagement beschreibt den Umgang mit Energiedaten~-- von der Datenerfassung bis hin zur Analyse und Auswertung. So schlicht die Beschreibung ist, so gro{ß} sind doch die Missverständnisse und so verschieden die Interpretationen.}
+      \field{booktitle}{Energiemanagement: Für Fachkräfte, Beauftragte und Manager}
+      \field{isbn}{978-3-658-02834-3}
+      \field{title}{Energiedatenmanagement}
+      \field{year}{2015}
+      \field{pages}{285\bibrangedash 320}
+      \range{pages}{36}
+      \verb{doi}
+      \verb 10.1007/978-3-658-02834-3{\textunderscore }5
+      \endverb
+      \verb{file}
+      \verb 978-3-658-02834-3 (1):Attachments/978-3-658-02834-3 (1).pdf:application/pdf
+      \endverb
+      \warn{\item inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Fink.1997}{book}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=72c93c8788a7b1903d4a44928b9faa81}{%
+           family={Fink},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=456c162567e5810c1848127ef89d7515}{%
+           family={Ga{ß}ner},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc7c81292134e12aeacde368917314de}{%
+           family={Günther-Pomhoff},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b0d0a24f383a60892e254453086844de}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff8e6eff3e8ee4202c76d1070ad227b2}{%
+           family={Münzer},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Umweltbundesamt}%
+      }
+      \strng{namehash}{e0563f439994744c1cb86594d63c3794}
+      \strng{fullhash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{fullhashraw}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{bibnamehash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authorbibnamehash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authornamehash}{e0563f439994744c1cb86594d63c3794}
+      \strng{authorfullhash}{ae56e20738e071f67d79ff8ba77d890a}
+      \strng{authorfullhashraw}{ae56e20738e071f67d79ff8ba77d890a}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Leitfaden für das betriebliche Energiemanagement}
+      \field{year}{1997}
+      \verb{urlraw}
+      \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+      \verb{url}
+      \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
+      \endverb
+    \endentry
+    \entry{Hall.2014}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=533aaf242d1b4b7645e386443717ec53}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21a0ce60804fb39817d149dcad66cf76}{%
+           family={Dorusch},
+           familyi={D\bibinitperiod},
+           given={Falk},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ebed70b70cb15ad5039bf6c5df2ad30}{%
+           family={Geissler},
+           familyi={G\bibinitperiod},
+           given={Achim},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8f5616463824e406de1f84dc1203e9c4}
+      \strng{fullhash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{fullhashraw}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{bibnamehash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authorbibnamehash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authornamehash}{8f5616463824e406de1f84dc1203e9c4}
+      \strng{authorfullhash}{22a37adeee76bc3d7761ec9031c9b924}
+      \strng{authorfullhashraw}{22a37adeee76bc3d7761ec9031c9b924}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An einem kleinen, gut gedämmten Mehrfamilienhaus mit Elektromobilität und einer gro{ß}en Photovoltaikanlage wird untersucht, welche Verbraucher sich für die Steigerung des Eigenverbrauchs eignen. Das detaillierte Monitoring weist aus, dass hierzu die Wärmepumpe der grö{ß}te geeignete Einzelverbraucher ist. Mit der Limitierung der Laufzeit der Wärmepumpe auf die Tagesstunden kann gezeigt werden, dass die Gleichzeitigkeit von Elektrizitätsbezug und Photovoltaikertrag erhöht und damit nicht nur die Netzbelastung reduziert, sondern auch die Einspeisespitze zur Mittagszeit geglättet werden. Der thermische Komfort wird dabei nicht beeinflusst. Für die Gesamtbilanzierung des Gebäudes wird anhand der Messdaten die Eigendeckungs-- und Eigenverbrauchsrate detailliert betrachtet. Verschiedene Bilanzzeiträume und Bilanzierungszeitschritte werden gegenübergestellt. Je kürzer der Bilanzzeitraum und die Zeitschritte gewählt werden, desto geringer sind die Eigendeckungs-- und Eigenverbrauchsraten. Dies ist ein wichtiger Aspekt bei der Diskussion über die Anforderungen an die Gleichzeitigkeit in Gebäudestandards und normativen Berechnungsvorschriften der Gesamtenergiebilanzierung von Gebäuden. Optimization of self--consumption, self--cover rate and net interaction of an apartment building with electromobility. Based on a small, well insulated multi--family dwelling with included e--car and large PV installation the load with the highest potential for increasing self--consumption is evaluated. The monitoring shows that the heat pump has the highest potential for increasing self--consumption. The run--time schedule of the heat pump is limited to daytime hours as a proof of concept. This increases the self--consumption and decreases the net interaction and also shaves the peak electricity export at noon. The thermal comfort does not decrease, hereby. The self--consumption rate and self--cover rate both depend on the balancing time period and the time--step chosen. This is an important aspect in regard to defining self--consumption requirements for building labels or energy codes.}
+      \field{issn}{0171-5445}
+      \field{journaltitle}{Bauphysik}
+      \field{number}{3}
+      \field{title}{Optimierung des Eigenverbrauchs, der Eigendeckungsrate und der Netzbelastung von einem Mehrfamiliengebäude mit Elektromobilität}
+      \field{volume}{36}
+      \field{year}{2014}
+      \field{pages}{117\bibrangedash 129}
+      \range{pages}{13}
+      \verb{file}
+      \verb Bauphysik - 2014 - Hall - Optimierung des Eigenverbrauchs der Eigendeckungsrate und der Netzbelastung von einem:Attachments/Bauphysik - 2014 - Hall - Optimierung des Eigenverbrauchs der Eigendeckungsrate und der Netzbelastung von einem.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{Hohnhold.2013}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dc6551321f5fbe52120f6556ad039da6}{%
+           family={Hohnhold},
+           familyi={H\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=6192b6edcf461fb0a5e875b857daf273}{%
+           family={Kai},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{fullhash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{fullhashraw}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{bibnamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorbibnamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authornamehash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorfullhash}{dbdcee021e53e5faae946cb8d1ca6098}
+      \strng{authorfullhashraw}{dbdcee021e53e5faae946cb8d1ca6098}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Economics: 330}
+      \field{title}{Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs- und Anwendungsmöglichkeiten in der Praxis}
+      \field{year}{2013}
+      \verb{file}
+      \verb 772085021:Attachments/772085021.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hdl.handle.net/10419/88105
+      \endverb
+      \verb{url}
+      \verb https://hdl.handle.net/10419/88105
+      \endverb
     \endentry
     \entry{InternationalOrganizationforStandardization.2023}{article}{}{}
       \name{author}{1}{}{%
@@ -850,6 +1231,51 @@
       \verb{url}
       \verb https://www.iso.org/the-iso-survey.html
       \endverb
+    \endentry
+    \entry{Konstantin.2023}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=1496f98298f402368fc23900d65681d4}{%
+           family={Konstantin},
+           familyi={K\bibinitperiod},
+           given={Panos},
+           giveni={P\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=cf6c8fbbed06d3b2728df1955ebb31c6}{%
+           family={Konstantin},
+           familyi={K\bibinitperiod},
+           given={Margarete},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin / Heidelberg}%
+      }
+      \strng{namehash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{fullhash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{fullhashraw}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{bibnamehash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{authorbibnamehash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{authornamehash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{authorfullhash}{562e4dca1fa05050d2697d0d75140b5d}
+      \strng{authorfullhashraw}{562e4dca1fa05050d2697d0d75140b5d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5. Aufl. 2023}
+      \field{isbn}{9783662673348}
+      \field{title}{Praxisbuch Energiewirtschaft: Energieumwandlung, -Transport und -beschaffung, Übertragungsnetzausbau und Kernenergieausstieg}
+      \field{year}{2023}
+      \verb{file}
+      \verb Praxisbuch{\_}Energiewirtschaft{\_}Energieumwandlung{\_}-Tr...{\_}-{\_}(2.{\_}Physikalisch-Technisches{\_}Basiswissen):Attachments/Praxisbuch{\_}Energiewirtschaft{\_}Energieumwandlung{\_}-Tr...{\_}-{\_}(2.{\_}Physikalisch-Technisches{\_}Basiswissen).pdf:application/pdf;Praxisbuch{\_}Energiewirtschaft{\_}Energieumwandlung{\_}-Tr...{\_}-{\_}(3.{\_}Kraftwerke{\_}Technologien{\_}und{\_}Kosten):Attachments/Praxisbuch{\_}Energiewirtschaft{\_}Energieumwandlung{\_}-Tr...{\_}-{\_}(3.{\_}Kraftwerke{\_}Technologien{\_}und{\_}Kosten).pdf:application/pdf
+      \endverb
+      \keyw{Energy;Energy Policy Economics;Energy Systems;Management;Sustainability Management}
     \endentry
     \entry{Marimon.2017}{article}{}{}
       \name{author}{2}{}{%
@@ -988,6 +1414,58 @@
       \verb urn:nbn:de:hbz:468-20160205-115728-8
       \endverb
     \endentry
+    \entry{Rathgeber.2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=683939afbf3f7ae91a66f27c948f7b1e}{%
+           family={Rathgeber},
+           familyi={R\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99ac57a6f5fc4db58388925503e6fe80}{%
+           family={Helm},
+           familyi={H\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a929d16fb9d907957e5452fa9e6d926}{%
+           family={Hiebler},
+           familyi={H\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ae17875d86519cecd6caa5045525e88}
+      \strng{fullhash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{fullhashraw}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{bibnamehash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authorbibnamehash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authornamehash}{4ae17875d86519cecd6caa5045525e88}
+      \strng{authorfullhash}{d4778eb1b49349172e2abbdb06ac71dc}
+      \strng{authorfullhashraw}{d4778eb1b49349172e2abbdb06ac71dc}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Latentwärmespeicher stellen nutzbare thermische Energie mit hoher Speicherdichte zur Verfügung. Für Anwendungen bis ca. 100 °C bieten sich als Speichermaterialien Salzhydrate an. Es wurde ein Latentwärmespeicher mit eingetauchtem Kapillarrohrwärmeübertrager entwickelt, um Salzhydrate langzeitstabil verwenden zu können. Dieses Konzept wurde zur Unterstützung der trockenen Rückkühlung von Sorptionskälteanlagen in solaren Klimatisierungssystemen sowie zur Gebäudekühlung über Flächenkühlsysteme eingesetzt. Derzeit werden neue Salzhydratmischungen für weitere energierelevante Anwendungen untersucht.}
+      \field{journaltitle}{Chemie Ingenieur Technik}
+      \field{number}{1-2}
+      \field{title}{Energiespeicher für die Energiewende: Salzhydratbasierte Niedertemperatur-Latentwärmespeicher}
+      \field{volume}{90}
+      \field{year}{2018}
+      \field{pages}{193\bibrangedash 200}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1002/cite.201700049
+      \endverb
+      \verb{file}
+      \verb Chemie Ingenieur Technik - 2017 - Rathgeber - Energy Storage for the Energy Transition Salt Hydrate Based Low-Temperature:Attachments/Chemie Ingenieur Technik - 2017 - Rathgeber - Energy Storage for the Energy Transition Salt Hydrate Based Low-Temperature.pdf:application/pdf
+      \endverb
+      \keyw{Energieeffizienz;Energiespeicher;Energy efficiency;Energy storage;Latent heat storage;Latentwärmespeicher;Phase change materials;Phasenwechselmaterialien;Salt hydrates;Salzhydrate}
+    \endentry
     \entry{Rönsch.2015}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4dfa4b814ca546e741485fb00badc30b}{%
@@ -1033,7 +1511,46 @@
       \endverb
       \keyw{Electronic books;Thermodynamics}
     \endentry
+    \entry{Szajdzicki.2017}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f5a061e8f09d3306b958a097a4e589f4}{%
+           family={Szajdzicki},
+           familyi={S\bibinitperiod},
+           given={Kris},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{fullhash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{fullhashraw}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{bibnamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorbibnamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authornamehash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorfullhash}{f5a061e8f09d3306b958a097a4e589f4}
+      \strng{authorfullhashraw}{f5a061e8f09d3306b958a097a4e589f4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ISO 50001 deals with Energy Management Systems, a branch or form of overall management. Like all management systems, it needs the correct inputs; without these, the system cannot generate the correct OUTPUTS and thus ensure that the right decisions are made. If a financial management system cannot operate without detailed accounting for income {\&} expenditure, how can an Energy Management System operate without the necessary metering {\&} monitoring ? ISO 50001 is based on the well-known {"}Plan --- Do --- Check --- Act{"} principle. Applying it to any organisation needs effective management and measurement; and careful planning to ensure a successful implementation. The presentation briefly looks at two aspects of ISO 50001; on the initial implementation of a successful system and on ensuring that the input into the ISO system is valid data --- focussing predominantly on electricity metering: SMART in this context is an acronym related to the planning process rather than the highly misused adjective applied to almost any computerised system. The author has over 35 years' experience in Energy Management, particularly in metering. He is a member of the European Committee that wrote EN 16001, and of ISO TC301 --- responsible for the ISO 5000x series of standards; also of IEC ACEE.}
+      \field{journaltitle}{2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I{\&}CPS Europe)}
+      \field{title}{Measuring {\&} maintaining energy efficiency: SMART approach to implementing ISO 50001}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/EEEIC.2017.7977657
+      \endverb
+      \verb{file}
+      \verb Measuring{\_}amp{\_}maintaining{\_}energy{\_}efficiency{\_}SMART{\_}approach{\_}to{\_}implementing{\_}ISO{\_}50001:Attachments/Measuring{\_}amp{\_}maintaining{\_}energy{\_}efficiency{\_}SMART{\_}approach{\_}to{\_}implementing{\_}ISO{\_}50001.pdf:application/pdf
+      \endverb
+      \keyw{Energy consumption;Energy management;Energy measurement;Environmental management;ISO Standards;Monitoring}
+    \endentry
   \enddatalist
+  \missing{InternationalOrganizationforStandardization.2011}
 \endrefsection
 \endinput
 

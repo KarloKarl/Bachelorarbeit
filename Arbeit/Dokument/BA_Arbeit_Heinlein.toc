@@ -32,6 +32,9 @@
 \contentsline {subsubsection}{Integration von relevanten Variablen}{19}{}%
 \contentsline {subsubsection}{Datengetriebener Ansatz}{20}{}%
 \contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{21}{}%
-\contentsline {chapter}{\numberline {4}Evaluation}{22}{}%
-\contentsline {chapter}{\numberline {5}Fazit}{23}{}%
-\contentsline {chapter}{\numberline {A}Anhang}{26}{}%
+\contentsline {section}{\numberline {3.1}Anforderungen an das Bilanzraumkonzept}{21}{}%
+\contentsline {subsection}{\numberline {3.1.1}Energiebilanzierung}{21}{}%
+\contentsline {subsection}{\numberline {3.1.2}ISO 50001}{22}{}%
+\contentsline {chapter}{\numberline {4}Evaluation}{23}{}%
+\contentsline {chapter}{\numberline {5}Fazit}{24}{}%
+\contentsline {chapter}{\numberline {A}Anhang}{27}{}%

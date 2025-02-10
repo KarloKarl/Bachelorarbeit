@@ -347,6 +347,41 @@
       \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
       \endverb
     \endentry
+    \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d09e7fcc2435a0349538e27d16bc4365}{%
+           family={Standardization},
+           familyi={S\bibinitperiod},
+           given={International\bibnamedelima Organization},
+           giveni={I\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0,
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Geneva, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {ISO Central Secretariat}%
+      }
+      \strng{namehash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{fullhash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{fullhashraw}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{bibnamehash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{authorbibnamehash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{authornamehash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{authorfullhash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{authorfullhashraw}{d09e7fcc2435a0349538e27d16bc4365}
+      \field{sortinit}{f}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Win the Energy Challenge with ISO 50001}
+      \field{year}{2011}
+    \endentry
     \entry{Hall.2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=533aaf242d1b4b7645e386443717ec53}{%
@@ -1113,6 +1148,41 @@
       \verb https://www.yumpu.com/de/document/read/10679612/leitfaden-fur-das-betriebliche-energiemanagement
       \endverb
     \endentry
+    \entry{InternationalOrganizationforStandardization.2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d09e7fcc2435a0349538e27d16bc4365}{%
+           family={Standardization},
+           familyi={S\bibinitperiod},
+           given={International\bibnamedelima Organization},
+           giveni={I\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0,
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Geneva, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {ISO Central Secretariat}%
+      }
+      \strng{namehash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{fullhash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{fullhashraw}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{bibnamehash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{authorbibnamehash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{authornamehash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{authorfullhash}{d09e7fcc2435a0349538e27d16bc4365}
+      \strng{authorfullhashraw}{d09e7fcc2435a0349538e27d16bc4365}
+      \field{sortinit}{f}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Win the Energy Challenge with ISO 50001}
+      \field{year}{2011}
+    \endentry
     \entry{Hall.2014}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=533aaf242d1b4b7645e386443717ec53}{%
@@ -1550,7 +1620,6 @@
       \keyw{Energy consumption;Energy management;Energy measurement;Environmental management;ISO Standards;Monitoring}
     \endentry
   \enddatalist
-  \missing{InternationalOrganizationforStandardization.2011}
 \endrefsection
 \endinput
 

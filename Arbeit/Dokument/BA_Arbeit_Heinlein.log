@@ -1,9 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.19)  10 FEB 2025 13:09
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  10 FEB 2025 18:30
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Projekte/Fabian Heinlein/07 Bachelorarbeit/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein"
-(c:/Projekte/Fabian Heinlein/07 Bachelorarbeit/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex
+**f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex
+(f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
 (c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -31,7 +32,7 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 ) (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count267
 \Gm@cntv=\count268
@@ -78,7 +79,7 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (c:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/12/09 v4.5 Extensive control of page headers and footers
+Package: fancyhdr 2024/11/20 v4.4 Extensive control of page headers and footers
 \f@nch@headwidth=\skip51
 \f@nch@O@elh=\skip52
 \f@nch@O@erh=\skip53
@@ -397,9 +398,9 @@ Package: babel 2024/11/30 v24.14 The multilingual framework for pdfLaTeX, LuaLaT
 \bbl@readstream=\read3
 \bbl@dirlevel=\count428
  (c:/texlive/2024/texmf-dist/tex/generic/babel-german/ngerman.ldf
-Language: ngerman 2024/12/10 v2.15 German support for babel (post-1996 orthography)
+Language: ngerman 2024/01/19 v2.14 German support for babel (post-1996 orthography)
  (c:/texlive/2024/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2024/12/10 v2.15 German support for babel (post-1996 orthography)
+Language: ngermanb 2024/01/19 v2.14 German support for babel (post-1996 orthography)
 Package babel Info: Making " an active character on input line 122.
 ))) (c:/texlive/2024/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
 Package babel Info: Importing font and identification data for ngerman
@@ -685,13 +686,6 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Engelmann.2015':
 (biblatex)                - inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring.
 
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                InternationalOrganizationforStandardization.2011
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
 )
 Package biblatex Info: Reference section=0 on input line 26.
 Package biblatex Info: Reference segment=0 on input line 26.
@@ -723,22 +717,13 @@ File: ../../Ressourcen/Bilder/FHE-AI_Logo.png Graphic file (type bmp)
 
 ]
 Kapitel 1.
-(../Kapitel/Einleitung/01_Hintergrund_Motivation.tex
-
-LaTeX Warning: Citation 'InternationalOrganizationforStandardization.2011' on page 1 undefined on input line 24.
-
-
-Overfull \hbox (66.66469pt too wide) in paragraph at lines 21--26
-\TU/Arial(0)/m/n/10 des globalen Energieverbrauchs beeinflussen kann ([],
- []
-
-
+(../Kapitel/01_Einleitung/01_Hintergrund_Motivation.tex
 
 [1
 
-]) (../Kapitel/Einleitung/02_Problemstellung.tex
+]) (../Kapitel/01_Einleitung/02_Problemstellung.tex
 
-[2]) (../Kapitel/Einleitung/03_Ziele.tex) (../Kapitel/Einleitung/04_Aufbau.tex
+[2]) (../Kapitel/01_Einleitung/03_Ziele.tex) (../Kapitel/01_Einleitung/04_Aufbau.tex
 
 [3]
 
@@ -746,7 +731,7 @@ Overfull \hbox (66.66469pt too wide) in paragraph at lines 21--26
 
 [5]
 Kapitel 2.
-(../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex
+(../Kapitel/02_Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex
 File: ../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg>
 
@@ -755,7 +740,7 @@ File: ../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg Grap
 
 ]
 
-[7]) (../Kapitel/Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
+[7]) (../Kapitel/02_Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
 
 [8]
 
@@ -782,7 +767,7 @@ File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg Graphic f
 [12]
 File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg>
-) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Energieleistungskennzahlen.tex
+) (../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Energieleistungskennzahlen.tex
 
 [13]
 File: ../../Ressourcen/Abbildungen/ISO_50006_Beispiel_EnPI_EnB.jpg Graphic file (type bmp)
@@ -796,7 +781,7 @@ File: ../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg Graphic file (type b
 [15]
 File: ../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg>
-) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex
+) (../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex
 
 [16]
 
@@ -805,7 +790,7 @@ File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beisp
 <../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg>
 File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg>
-) (../Kapitel/Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Allgemeine_Vorgaben_der_ISO_50001.tex
+) (../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Allgemeine_Vorgaben_der_ISO_50001.tex
 
 [18]
 
@@ -813,49 +798,61 @@ File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg 
 
 [20]
 Kapitel 3.
+(../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex
+Overfull \hbox (1.15265pt too wide) in paragraph at lines 28--34
+\TU/Arial(0)/m/n/10 beschrieben wurde impliziert Anforderungen an Beziehungen zwischen Bilanzräumen. Folg-
+ []
+
+
+Overfull \hbox (7.47264pt too wide) in paragraph at lines 28--34
+\TU/Arial(0)/m/n/10 abbilden können. Dabei \TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 das Bilanzraumkonzept sowohl den gesamten Untersuchungs-
+ []
+
 
 
 [21
 
-]
+])
+
+[22]
 Kapitel 4.
-
-
-[22
-
-]
-Kapitel 5.
 
 
 [23
 
 ]
-Overfull \hbox (13.9175pt too wide) in paragraph at lines 179--179
+Kapitel 5.
+
+
+[24
+
+]
+Overfull \hbox (13.9175pt too wide) in paragraph at lines 180--180
 [][][] [] [][] [] [][][][][][][][] [] [][][][] [] [][][][][][][][] [] [][][][][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][][][][][][] [][] [][][][][][][][][][][][][][][][][]$ 
  []
 
 
-Overfull \hbox (42.87828pt too wide) in paragraph at lines 179--179
+Overfull \hbox (42.87828pt too wide) in paragraph at lines 180--180
 [][]\TU/Arial(0)/m/n/10 Hohnhold & Kai. (2013). Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs-
  []
 
 
-Overfull \hbox (0.58678pt too wide) in paragraph at lines 179--179
+Overfull \hbox (0.58678pt too wide) in paragraph at lines 180--180
 \TU/Arial(0)/m/n/10 hydratbasierte Niedertemperatur-Latentwärmespeicher. \TU/Arial(0)/m/it/10 Chemie Ingenieur Technik\TU/Arial(0)/m/n/10 ,
  []
 
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[24
+[25
 
 ]
 
-[25]
+[26]
 Anhang A.
 
 
-[26
+[27
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -867,12 +864,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15969 strings out of 473964
- 350680 string characters out of 5736610
- 1358022 words of memory out of 5000000
- 38712 multiletter control sequences out of 15000+600000
+ 15921 strings out of 473965
+ 349645 string characters out of 5736632
+ 1358615 words of memory out of 5000000
+ 38659 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 79i,6n,93p,2296b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,6n,93p,2263b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.pdf (31 pages).
+Output written on BA_Arbeit_Heinlein.xdv (32 pages, 703536 bytes).
