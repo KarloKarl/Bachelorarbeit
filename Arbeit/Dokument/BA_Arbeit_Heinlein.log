@@ -1,10 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  9 FEB 2025 19:33
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.19)  10 FEB 2025 13:09
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex
-(f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex
+**"c:/Projekte/Fabian Heinlein/07 Bachelorarbeit/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein"
+(c:/Projekte/Fabian Heinlein/07 Bachelorarbeit/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
 (c:/texlive/2024/texmf-dist/tex/latex/base/report.cls
@@ -32,7 +31,7 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 ) (c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count267
 \Gm@cntv=\count268
@@ -79,7 +78,7 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (c:/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/11/20 v4.4 Extensive control of page headers and footers
+Package: fancyhdr 2024/12/09 v4.5 Extensive control of page headers and footers
 \f@nch@headwidth=\skip51
 \f@nch@O@elh=\skip52
 \f@nch@O@erh=\skip53
@@ -398,9 +397,9 @@ Package: babel 2024/11/30 v24.14 The multilingual framework for pdfLaTeX, LuaLaT
 \bbl@readstream=\read3
 \bbl@dirlevel=\count428
  (c:/texlive/2024/texmf-dist/tex/generic/babel-german/ngerman.ldf
-Language: ngerman 2024/01/19 v2.14 German support for babel (post-1996 orthography)
+Language: ngerman 2024/12/10 v2.15 German support for babel (post-1996 orthography)
  (c:/texlive/2024/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2024/01/19 v2.14 German support for babel (post-1996 orthography)
+Language: ngermanb 2024/12/10 v2.15 German support for babel (post-1996 orthography)
 Package babel Info: Making " an active character on input line 122.
 ))) (c:/texlive/2024/texmf-dist/tex/generic/babel/locale/de/babel-ngerman.tex
 Package babel Info: Importing font and identification data for ngerman
@@ -868,12 +867,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15908 strings out of 473965
- 348791 string characters out of 5736632
- 1357567 words of memory out of 5000000
- 38650 multiletter control sequences out of 15000+600000
+ 15969 strings out of 473964
+ 350680 string characters out of 5736610
+ 1358022 words of memory out of 5000000
+ 38712 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 79i,6n,93p,2263b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,6n,93p,2296b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (31 pages, 650644 bytes).
+Output written on BA_Arbeit_Heinlein.pdf (31 pages).
