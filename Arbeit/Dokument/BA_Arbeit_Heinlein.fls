@@ -241,6 +241,9 @@ INPUT ../../Ressourcen/Abbildungen/Erwägungen_relevanter_Variablen.jpg
 INPUT ../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex
 INPUT ../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex
 INPUT ../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex
+INPUT ../Kapitel/03_Konzept/02_Beschreibung_des_aktuellen_Zustands.tex
+INPUT ../Kapitel/03_Konzept/02_Beschreibung_des_aktuellen_Zustands.tex
+INPUT ../Kapitel/03_Konzept/02_Beschreibung_des_aktuellen_Zustands.tex
 INPUT BA_Arbeit_Heinlein.aux
 INPUT BA_Arbeit_Heinlein.run.xml
 OUTPUT BA_Arbeit_Heinlein.run.xml
