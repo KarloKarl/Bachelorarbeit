@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  10 FEB 2025 18:30
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  11 FEB 2025 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -476,6 +476,33 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip85
+\LTright=\skip86
+\LTpre=\skip87
+\LTpost=\skip88
+\LTchunksize=\count442
+\LTcapwidth=\dimen165
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count443
+\LT@rows=\count444
+\c@LT@tables=\count445
+\c@LT@chunks=\count446
+\LT@p@ftn=\toks27
+) (c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box62
+\extrarowheight=\dimen167
+\NC@list=\toks28
+\extratabsurround=\skip89
+\backup@length=\skip90
+\ar@cellbox=\box63
 )
 
 Package fontspec Info: 
@@ -509,22 +536,22 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
  (./BA_Arbeit_Heinlein.aux)
 \openout1 = `BA_Arbeit_Heinlein.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -567,56 +594,56 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 26.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 26.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 26.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 26.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 26.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 26.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 26.
-LaTeX Font Info:    Redeclaring math accent \check on input line 26.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 26.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 26.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 26.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 26.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 26.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 27.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 27.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 27.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 27.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 27.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 27.
+LaTeX Font Info:    Redeclaring math accent \check on input line 27.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 27.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 27.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 27.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 27.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 26.
+(Font)              `operators' in the math version `normal' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 26.
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 27.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 26.
+(Font)              `operators' in the math version `bold' on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 26.
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 26.
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/b/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 26.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 27.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/b/n on input line 26.
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/b/it on input line 26.
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/b/it on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 26.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 27.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 27.
 Package biblatex Info: Trying to load language 'ngerman' -> 'ngerman-apa'...
 Package biblatex Info: ... file 'ngerman-apa.lbx' found.
 (c:/texlive/2024/texmf-dist/tex/latex/biblatex-apa/ngerman-apa.lbx
@@ -687,8 +714,8 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                - inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring.
 
 )
-Package biblatex Info: Reference section=0 on input line 26.
-Package biblatex Info: Reference segment=0 on input line 26.
+Package biblatex Info: Reference section=0 on input line 27.
+Package biblatex Info: Reference segment=0 on input line 27.
 File: ../../Ressourcen/Bilder/FHE-AI_Logo.png Graphic file (type bmp)
 <../../Ressourcen/Bilder/FHE-AI_Logo.png>
 
@@ -772,11 +799,12 @@ File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg G
 [13]
 File: ../../Ressourcen/Abbildungen/ISO_50006_Beispiel_EnPI_EnB.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/ISO_50006_Beispiel_EnPI_EnB.jpg>
-File: ../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg Graphic file (type bmp)
-<../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg>
 
 
 [14]
+File: ../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg>
+
 
 [15]
 File: ../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg Graphic file (type bmp)
@@ -788,71 +816,835 @@ File: ../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg Graphic file 
 [17]
 File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg>
+
+
+[18]
 File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg>
 ) (../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Allgemeine_Vorgaben_der_ISO_50001.tex
 
-[18]
+[19]
+File: ../../Ressourcen/Abbildungen/Erwägungen_relevanter_Variablen.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Erwägungen_relevanter_Variablen.jpg>
 
-[19])
 
-[20]
+[20])
+
+[21]
 Kapitel 3.
 (../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex
-Overfull \hbox (1.15265pt too wide) in paragraph at lines 28--34
-\TU/Arial(0)/m/n/10 beschrieben wurde impliziert Anforderungen an Beziehungen zwischen Bilanzräumen. Folg-
+Overfull \hbox (6.20003pt too wide) in paragraph at lines 10--10
+[]|\TU/Arial(0)/b/n/10 Index| 
  []
 
 
-Overfull \hbox (7.47264pt too wide) in paragraph at lines 28--34
-\TU/Arial(0)/m/n/10 abbilden können. Dabei \TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 das Bilanzraumkonzept sowohl den gesamten Untersuchungs-
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+[]|\TU/Arial(0)/m/n/10 Abbildung
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+\TU/Arial(0)/m/n/10 von Ener-
+ []
 
-[21
 
-])
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+\TU/Arial(0)/m/n/10 gieströmen,
+ []
 
-[22]
+
+Underfull \hbox (badness 3872) in paragraph at lines 15--16
+\TU/Arial(0)/m/n/10 -quellen und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+\TU/Arial(0)/m/n/10 abfließende Energieströ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+\TU/Arial(0)/m/n/10 me, Energiequellen und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]|\TU/Arial(0)/m/n/10 Abbildung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+\TU/Arial(0)/m/n/10 des Unter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+\TU/Arial(0)/m/n/10 suchungsge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 21--22
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 eine Beschreibung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]|\TU/Arial(0)/m/n/10 Der Untersuchungsgegenstand be-
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 25--26
+[]|\TU/Arial(0)/m/n/10 Zeitliche Ab-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 die Möglichkeit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+\TU/Arial(0)/m/n/10 bieten, die Bilanzierung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[]|\TU/Arial(0)/m/n/10 Integration
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 32--33
+\TU/Arial(0)/m/n/10 von Energie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 33--36
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 die Abbildung und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+\TU/Arial(0)/m/n/10 Integration von energie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+\TU/Arial(0)/m/n/10 speichernden Kompo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+\TU/Arial(0)/m/n/10 nenten ermöglichen. Im
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 33--36
+\TU/Arial(0)/m/n/10 zuge der Integration von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+\TU/Arial(0)/m/n/10 ponenten \TU/Arial(0)/b/n/10 müssen \TU/Arial(0)/m/n/10 dem
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 33--36
+\TU/Arial(0)/m/n/10 Energiespeicher zu- und
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 36--39
+[]|\TU/Arial(0)/m/n/10 Energiespeicher wirken sich nach der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+\TU/Arial(0)/m/n/10 mit Bewer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+\TU/Arial(0)/m/n/10 tungseinhei-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 Energieströme,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+\TU/Arial(0)/m/n/10 Einheit kWh und deren
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+\TU/Arial(0)/m/n/10 Vielfache unabhängig
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+\TU/Arial(0)/m/n/10 von Energieformen und
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 44--45
+[]|\TU/Arial(0)/m/n/10 Die bevorzugte Bewertungseinheit für
+ []
+
+
+Overfull \hbox (1.38446pt too wide) in paragraph at lines 47--48
+[]|\TU/Arial(0)/m/n/10 Hierarchische
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\TU/Arial(0)/m/n/10 Disaggrega-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\TU/Arial(0)/m/n/10 tion eines
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 die hierarchische
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 48--49
+\TU/Arial(0)/m/n/10 Disaggregation nach Un-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+\TU/Arial(0)/m/n/10 tersuchungsgegenstand
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+\TU/Arial(0)/m/n/10 bilanzräume abbilden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]|\TU/Arial(0)/m/n/10 Nach Engelmann (2015) und Miller
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 49--50
+\TU/Arial(0)/m/n/10 (2016) haben Bilanzräume die Eigen-
+ []
+
+
+Overfull \hbox (7.51727pt too wide) in paragraph at lines 52--53
+[]|\TU/Arial(0)/m/n/10 Disaggregation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+\TU/Arial(0)/m/n/10 nach Ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+\TU/Arial(0)/b/n/10 soll \TU/Arial(0)/m/n/10 die Disaggregation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+\TU/Arial(0)/m/n/10 von Bilanzräumen nach
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+\TU/Arial(0)/m/n/10 Verbrauchsarten oder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+\TU/Arial(0)/m/n/10 Nutzengrößen abbilden
+ []
+
+
+Overfull \hbox (7.51239pt too wide) in paragraph at lines 57--57
+[]|\TU/Arial(0)/m/n/10 Quantifizierung
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 57--57
+\TU/Arial(0)/m/n/10 von Energie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+\TU/Arial(0)/m/n/10 dienstleistun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+\TU/Arial(0)/m/n/10 von Miller (2016) ent-
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 58--60
+\TU/Arial(0)/m/n/10 wertungsräume aus dem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+\TU/Arial(0)/m/n/10 Bilanzraum austretende
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+\TU/Arial(0)/m/n/10 Energiedienstleistungen
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 58--60
+\TU/Arial(0)/m/n/10 mit einer Bewertungsein-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+\TU/Arial(0)/m/n/10 heit konkretisieren und
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 60--64
+\TU/Arial(0)/m/n/10 Formen auftritt und insbesondere im
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+[]|\TU/Arial(0)/m/n/10 Aggregation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+\TU/Arial(0)/m/n/10 zufließender
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+\TU/Arial(0)/m/n/10 Energieströ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\TU/Arial(0)/b/n/10 soll \TU/Arial(0)/m/n/10 in Anlehnung an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\TU/Arial(0)/m/n/10 das von Miller (2016)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\TU/Arial(0)/m/n/10 entworfene Konzept der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\TU/Arial(0)/m/n/10 Bewertungsräume eine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\TU/Arial(0)/m/n/10 fließender Energieströme
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\TU/Arial(0)/m/n/10 zur Erfüllung derselben
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+\TU/Arial(0)/m/n/10 Energiedienstleistung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+[]|\TU/Arial(0)/m/n/10 Definition
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+\TU/Arial(0)/m/n/10 von Ener-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+\TU/Arial(0)/m/n/10 gieleistungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 76--77
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 die Definition von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\TU/Arial(0)/m/n/10 Energieleistungskenn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\TU/Arial(0)/m/n/10 zahlen (EnPI) in einem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+[]|\TU/Arial(0)/m/n/10 Aggregation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\TU/Arial(0)/m/n/10 von EnPI-
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 81--82
+[]|\TU/Arial(0)/m/n/10 Ein im Bilanzraum defi-
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 81--82
+\TU/Arial(0)/m/n/10 zugehörigen EnPI-Werten
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 81--82
+\TU/Arial(0)/m/n/10 in einem Bewertungszeit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+\TU/Arial(0)/m/n/10 im Bewertungszeitraum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+[]|\TU/Arial(0)/m/n/10 Energetische
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\TU/Arial(0)/m/n/10 Ausgangsba-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 87--88
+\TU/Arial(0)/m/n/10 für alle definierten EnPI
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+\TU/Arial(0)/m/n/10 eine energetische Aus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+\TU/Arial(0)/m/n/10 gangsbasis bereitstellen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+\TU/Arial(0)/m/n/10 und im Bezugszeitraum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\TU/Arial(0)/m/n/10 operativen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+\TU/Arial(0)/m/n/10 Energiezie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 die Möglichkeit
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 93--94
+\TU/Arial(0)/m/n/10 ten EnPI ein operatives
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+\TU/Arial(0)/m/n/10 Energieziel anzugeben
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 93--94
+\TU/Arial(0)/m/n/10 und dessen Erfüllung zu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+[]|\TU/Arial(0)/m/n/10 Zeit-Werte-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+\TU/Arial(0)/m/n/10 Verlauf von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+\TU/Arial(0)/m/n/10 EnPI und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 den Zeit-Werte-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+\TU/Arial(0)/m/n/10 die dazugehörige EnBs
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 99--100
+\TU/Arial(0)/m/n/10 Erkenntnisse über das zeitabhängige
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]|\TU/Arial(0)/m/n/10 Abbildbare
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+\TU/Arial(0)/m/n/10 Kennzahlen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\TU/Arial(0)/m/n/10 EnPIs der Art: absolu-
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 103--103
+\TU/Arial(0)/m/n/10 te Zahlen sowie Index-,
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 103--103
+\TU/Arial(0)/m/n/10 Beziehungs- und Gliede-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\TU/Arial(0)/m/n/10 rungszahlen berechnen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+[]|\TU/Arial(0)/m/n/10 Abgrenzung
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 107--108
+\TU/Arial(0)/m/n/10 nach Grenz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]|\TU/Arial(0)/m/n/10 Ein Bilanzraum im Bi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\TU/Arial(0)/m/n/10 lanzraumkonzept \TU/Arial(0)/b/n/10 muss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\TU/Arial(0)/m/n/10 nach allen definierten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\TU/Arial(0)/m/n/10 EnPI-Grenzniveaus (vgl.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+\TU/Arial(0)/m/n/10 Abbildung []) abge-
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 109--110
+\TU/Arial(0)/m/n/10 eines Bilanzraums beeinflusst die Be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]|\TU/Arial(0)/m/n/10 Bestimmung
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 112--113
+\TU/Arial(0)/m/n/10 des Energie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]|\TU/Arial(0)/m/n/10 Für jeden Bilanzraum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/Arial(0)/m/n/10 im Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 113--114
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 der Energieeinsatz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+\TU/Arial(0)/m/n/10 in einem Bilanzzeitraum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]|\TU/Arial(0)/m/n/10 Bestimmung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/Arial(0)/m/n/10 des spe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/Arial(0)/m/n/10 zifischen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/Arial(0)/m/n/10 Energieein-
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 118--120
+[]|\TU/Arial(0)/m/n/10 Für jeden Bilanzraum im
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+\TU/Arial(0)/m/n/10 Bilanzraumkonzept der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+\TU/Arial(0)/m/n/10 Energiedienstleistungen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+\TU/Arial(0)/m/n/10 Bilanzzeitraum berechnet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]|\TU/Arial(0)/m/n/10 Auswertung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\TU/Arial(0)/m/n/10 von Ener-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\TU/Arial(0)/m/n/10 gieeinsätzen
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 124--125
+\TU/Arial(0)/m/n/10 in Disaggre-
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 124--125
+\TU/Arial(0)/m/n/10 gierten (Teil-
+ []
+
+
+Overfull \hbox (8.05438pt too wide) in paragraph at lines 124--125
+\TU/Arial(0)/m/n/10 )Bilanzrräumen| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 Funktionen zur
+ []
+
+
+Underfull \hbox (badness 6380) in paragraph at lines 125--126
+\TU/Arial(0)/m/n/10 Analyse des Energieein-
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 125--126
+\TU/Arial(0)/m/n/10 satzes eines Bilanzraums
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 125--126
+\TU/Arial(0)/m/n/10 im Verhältnis zu seinen
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 125--126
+\TU/Arial(0)/m/n/10 disaggregierten Teilbilanz-
+ []
+
+
+Underfull \hbox (badness 2828) in paragraph at lines 126--128
+[]|\TU/Arial(0)/m/n/10 Die Analyse des Energieeinsatzes in
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 126--128
+\TU/Arial(0)/m/n/10 samtbilanzraum ermöglicht die Erfas-
+ []
+
+
+Overfull \hbox (30.0818pt too wide) in alignment at lines 8--132
+ [] [] [] [] 
+ []
+
+[22
+
+] [23] [24])
+
+[25]
 Kapitel 4.
 
 
-[23
+[26
 
 ]
 Kapitel 5.
 
 
-[24
+[27
 
 ]
-Overfull \hbox (13.9175pt too wide) in paragraph at lines 180--180
+Overfull \hbox (13.9175pt too wide) in paragraph at lines 181--181
 [][][] [] [][] [] [][][][][][][][] [] [][][][] [] [][][][][][][][] [] [][][][][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][][][][][][] [][] [][][][][][][][][][][][][][][][][]$ 
  []
 
 
-Overfull \hbox (42.87828pt too wide) in paragraph at lines 180--180
+Overfull \hbox (42.87828pt too wide) in paragraph at lines 181--181
 [][]\TU/Arial(0)/m/n/10 Hohnhold & Kai. (2013). Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs-
  []
 
 
-Overfull \hbox (0.58678pt too wide) in paragraph at lines 180--180
+Overfull \hbox (0.58678pt too wide) in paragraph at lines 181--181
 \TU/Arial(0)/m/n/10 hydratbasierte Niedertemperatur-Latentwärmespeicher. \TU/Arial(0)/m/it/10 Chemie Ingenieur Technik\TU/Arial(0)/m/n/10 ,
  []
 
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[25
+[28
 
 ]
 
-[26]
+[29]
 Anhang A.
 
 
-[27
+[30
 
 ] (./BA_Arbeit_Heinlein.aux)
  ***********
@@ -864,12 +1656,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15921 strings out of 473965
- 349645 string characters out of 5736632
- 1358615 words of memory out of 5000000
- 38659 multiletter control sequences out of 15000+600000
+ 16114 strings out of 473965
+ 352899 string characters out of 5736632
+ 1391372 words of memory out of 5000000
+ 38845 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 79i,6n,93p,2263b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,7n,93p,2263b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (32 pages, 703536 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (35 pages, 744736 bytes).

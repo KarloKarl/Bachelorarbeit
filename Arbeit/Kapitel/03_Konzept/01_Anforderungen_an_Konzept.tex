@@ -1,53 +1,132 @@
-Dieser Abschnitt befasst sich mit den im Kapitel 2 erarbeiteten Erkenntnissen und formuliert deren Grundlage Anforderungen an das zu entwerfende Bilanzraumkonzept.
+Dieser Abschnitt befasst sich mit den im Kapitel 2 erarbeiteten Erkenntnissen und formuliert deren Grundlage Anforderungen an das Bilanzraumkonzept.
 Zur formulierung der Anforderungen werden Herausforderungen welche sich aus den Grundlagen der Energiebilanzierung und aus den betrachteten Konzepten zur Abbildung 
 von Energiebilanzen ergeben betrachtet.
 Des weiteren werden Anforderungen auf Grundlage der Angaben der DIN EN ISO 50001:2018-12 zu Energiemanagementsystemen in den Aspekten: 
 Energieleistungskennzahlen und wesentliche Energieeinsätze erarbeitet.
+Die erarbeiteten Anforderungen sind in Tabelle \eqref{tab:funktionale_anforderungen} dargestellt.
 
-\subsection{Energiebilanzierung}
-Die mathematische Beschreibung der Bilanzierung einer Zustandsgröße in einem Thermodynamischen System (vgl. Gleichung \eqref{BilanzierungsgleichungAhrendt}) gibt auskunft 
-über die Bestandteile die eine Bilanz und somit auch ein Bilanzraum umfassen muss. 
-Folglich \textbf{muss} das Bilanzraumkonzept zu- und abfließende Energiestöme, Energiequellen und Energiesenken umfassen.
-Da in Gleichung \eqref{BilanzierungsgleichungAhrendt} beliebig viele zu- und abfließende Energieströme, Energiequellen und -senken bilanziert werden können 
-\textbf{muss} das Bilanzraumkonzept beliebig viele zu- und abfließende Energieströme, Energiequellen und -senken im Rahmen der Bilanzierung umfassen können.
-Aufgrund der Abhängigkeit der Größe der bilanzierten Zustandsgröße (vgl. Gleichung \eqref{BilanzierungsgleichungAhrendt} und \eqref{BilanzierungsgleichungAhrendtStrom}) 
-vom Zeitintervall indem Energieströme, -quellen und -senken die Zustandsgröße beeinflussen \textbf{muss} das Bilanzraumkonzept die Möglichkeit bieten die Bilanzierung 
-zeitlich abzugrenzen.
+\begin{longtable}{| m{0.05\textwidth} | m{0.15\textwidth} | m{0.3\textwidth} | m{0.45\textwidth} |}
+    \hline
+    \textbf{Index} & \textbf{Aspekt} & \textbf{Anforderung} & \textbf{Begründung} \\
+    \hline
+    \multicolumn{4}{|c|}{\textbf{Anforderungen basierend auf den Grundlagen der Energiebilanzierung}} \\
+    \hline
+    1 
+    & Abbildung von Energieströmen, -quellen und -senken 
+    & Das Bilanzraumkonzept \textbf{muss} beliebig viele zu- und abfließende Energieströme, Energiequellen und Energiesenken abbilden. 
+    & Die mathematische Beschreibung der Bilanzierung nach Ahrendts (vgl. Gleichung \eqref{BilanzierungsgleichungAhrendt}) beschreibt die Veränderung der bilanzierten Zustandsgröße in abhängigkeit dieser Komponenten. \\
+    \hline
+    2
+    & Abbildung des Untersuchungsgegenstands 
+    & Das Bilanzraumkonzept \textbf{muss} eine Beschreibung des Untersuchungsgegenstands abbilden. 
+    & Der Untersuchungsgegenstand beschreibt den in der Organisation definierten Bereich der Bilanziert wird. \\
+    \hline
+    3
+    & Zeitliche Abgrenzung 
+    & Das Bilanzraumkonzept \textbf{muss} die Möglichkeit bieten, die Bilanzierung zeitlich abzugrenzen. 
+    & Die Zustandsgröße der Bilanz ist nach der Mathematischen Beschreibung von Ahrendts (vgl. Gleichung \eqref{BilanzierungsgleichungAhrendt}) abhängig vom Zeitintervall, 
+    in dem Energieströme, -quellen und -senken 
+    wirken. \\
+    \hline
+    4
+    & Integration von Energiespeichern 
+    & Das Bilanzraumkonzept \textbf{muss} die Abbildung und Integration von energiespeichernden Komponenten ermöglichen. 
+    Im zuge der Integration von energiespeichernden Komponenten \textbf{müssen} dem Energiespeicher zu- und abfließende Energieströme 
+    abbilden. 
+    & Energiespeicher wirken sich nach der Mathematischen Beschreibung einer Energiebilanz nach Rönsch (vgl. Gleichung \eqref{energiebilanzierungsgleichung_Rönsch}) 
+    auf das Verhalten der bilanzierten Zustandsgröße aus.
+    Energiespeicher nehmen Energie auf und geben sie zeitversetzt ab. \\
+    \hline
+    5
+    & Kompatibilität mit Bewertungseinheiten 
+    & Das Bilanzraumkonzept \textbf{muss} Energieströme, -quellen und -senken der Einheit kWh und deren Vielfache unabhängig von Energieformen und Energieträger in einem Bilanzraum 
+    abbilden können. 
+    & Die bevorzugte Bewertungseinheit für Energieformen ist kWh und deren Vielfaches (\cite[S. 65]{Konstantin.2023}).\\
+    \hline
+    6
+    & Hierarchische Disaggregation eines Bilanzraums 
+    & Das Bilanzraumkonzept \textbf{muss} die hierarchische Disaggregation nach Untersuchungsgegenstand von Bilanzräumen in Teilbilanzräume abbilden können. 
+    & Nach Engelmann (2015) und Miller (2016) haben Bilanzräume die Eigenschaft der Zerlegbarkeit.\\
+    \hline
+    7
+    & Disaggregation nach Verbrauchsarten 
+    & Das Bilanzraumkonzept \textbf{soll} die Disaggregation von Bilanzräumen nach Verbrauchsarten oder Nutzengrößen abbilden können. 
+    & Die Unterscheidung von Verbrauchsarten ermöglicht die Erfassung von Energiedaten einer Organisation (\cite[S. 14]{Hohnhold.2013}). \\
+    \hline
+    8
+    & Quantifizierung von Energiedienstleistungen & 
+    Das Bilanzraumkonzept \textbf{soll} in Anlehnung an das von Miller (2016) entworfene Konzept der Bewertungsräume aus dem Bilanzraum austretende Energieströme 
+    in Form von Energiedienstleistungen mit einer Bewertungseinheit konkretisieren und quantifizieren. 
+    & Das in der Energiewertschöpfungskette (vgl. Abbildung \eqref{fig:Energieflussschema_Posch}) visualisierte Problem:
+    dass Energie in unterschiedlichen Formen auftritt und insbesondere im Rahmen der Bilanzierung von Gebäudeenergie zufließende Energieströme in Form von messbarer 
+    Endenergie auftreten während die abfließenden Energieströme in Form nicht messbarer Energiedienstleistungen auftreten können wird durch die von 
+    Miller (2016) beschriebene Quantifizierung von Energie in Form von Energiedienstleistungen adressiert. \\
+    \hline
+    9
+    & Aggregation zufließender Energieströme 
+    & Das Bilanzraumkonzept \textbf{soll} in Anlehnung an das von Miller (2016) entworfene Konzept der Bewertungsräume eine Aggregation mehrerer zufließender 
+    Energieströme zur Erfüllung derselben Energiedienstleistung abbilden können. 
+    & Mehrere einfließende Energieströme und Energiequellen können zur Deckung des Nutzenergiebedarfs der gleichen Energiedienstleistung beitragen,
+    weshalb ihre Aggregation notwendig ist um Rückschlüsse auf den Energieverbrauch einer Energiedienstleistung zu ziehen. \\
+    \hline
+    \multicolumn{4}{|c|}{\textbf{Anforderungen basierend auf den ISO 50001 Anforderungen}} \\
+    \hline
+    10
+    & Definition von Energieleistungskennzahlen 
+    & Das Bilanzraumkonzept \textbf{muss} die Definition von Energieleistungskennzahlen (EnPI) in einem Bilanzraum ermöglichen. 
+    & Energieleistungskennzahlen sind zentral für die Bewertung der energiebezogenen Leistung im Energiemanagement nach ISO 50001. \\
+    \hline
+    11
+    & Aggregation von EnPI-Werten 
+    & Ein im Bilanzraum definierter EnPI \textbf{muss} die dazugehörigen EnPI-Werten in einem Bewertungszeitraum zu einem EnPI-Wert im Bewertungszeitraum aggregieren können. 
+    & Die Aggregation erlaubt eine Bewertung der energiebezogenen Leistung über einen Bewertungszeitraum hinweg und ermöglicht den Vergleich mit dem EnB zur ermittlung der Energiebezogenen Leistung 
+    (vgl. Abbildung \eqref{fig:Beziehung_EnPI_EnB_ISO_50006}). \\
+    \hline
+    12
+    & Energetische Ausgangsbasis 
+    & Das Bilanzraumkonzept \textbf{muss} in einem Bilanzraum für alle definierten EnPI eine energetische Ausgangsbasis bereitstellen und im Bezugszeitraum aggregieren können.  
+    & Die Differenz zwischen der Ausgangsbasis und dem EnPI-Wert bestimmt die Verbesserung der Energieeffizienz (vgl. Abbildung \eqref{fig:Beziehung_EnPI_EnB_ISO_50006}).
+    Da die Berechnung einer EnB mit einem anhand eines Energiemodells berechnet wird ist die Berechnung der EnBs kein Aspekt dieser Anforderung \\
+    \hline
+    13
+    & Definition von operativen Energiezielen 
+    & Das Bilanzraumkonzept \textbf{muss} die Möglichkeit bieten, für einen definierten EnPI ein operatives Energieziel anzugeben und dessen Erfüllung zu evaluieren. 
+    & Die Bewertung der Zielerreichung ist essenziell für die kontinuierliche Verbesserung der energiebezogenen Leistung (vgl. Abbildung \eqref{fig:Beziehung_EnPI_EnB_ISO_50006}). \\
+    \hline
+    14
+    & Zeit-Werte-Verlauf von EnPI und EnB 
+    & Das Bilanzraumkonzept \textbf{muss} den Zeit-Werte-Verlauf für alle im Bilanzraum definierten EnPIs und die dazugehörige EnBs ausgeben können. 
+    & Eine zeitabhängige Analyse ermöglicht Erkenntnisse über das zeitabhängige Verhalten und den Einfluss relevanter Variablen (\cite[S. 14]{DIN50006.2024}). \\
+    \hline
+    15
+    & Abbildbare Kennzahlenarten 
+    & Das Bilanzraumkonzept \textbf{muss} in einem Bilanzraum EnPIs der Art: absolute Zahlen sowie Index-, Beziehungs- und Gliederungszahlen berechnen können. &
+    Unterschiedliche Arten von Kennzahlen bieten unterschiedliche Perspektiven auf die Bewertung eines Bilanzraums. \\
+    \hline
+    16
+    & Abgrenzung nach Grenzniveaus 
+    & Ein Bilanzraum im Bilanzraumkonzept \textbf{muss} nach allen definierten EnPI-Grenzniveaus (vgl. Abbildung \eqref{fig:EnPI_Grenzniveaus}) abgegrenzt werden können. 
+    & Die räumliche und zeitliche Abgrenzung eines Bilanzraums beeinflusst die Berechnung und Vergleichbarkeit von EnPI-Werten. \\
+    \hline
+    17
+    & Bestimmung des Energieeinsatzes
+    & Für jeden Bilanzraum im Bilanzraumkonzept \textbf{muss} der Energieeinsatz in einem Bilanzzeitraum berechnet werden können. 
+    & Auf Grundlage des Vergleichs von Energieeinsätzen können wesentliche Energieeinsätze auf Grundlage der von der Organisation festgelegten Kriterien identifiziert werden. \\
+    \hline
+    18
+    & Bestimmung des spezifischen Energieeinsatzes
+    & Für jeden Bilanzraum im Bilanzraumkonzept  der den Energievebrauch einer Energiedienstleistungen bilanziert \textbf{muss} der spezifische Energieeinsatz 
+    (vgl. Gleichung \eqref{SepzifischerEnergieinsatzMiller}) in einem Bilanzzeitraum berechnet werden können. 
+    & Der spezifische Energieeinsatz kann als Maß der Energieeffizienz bei der Erfüllung einer Energiedienstleistung genutzt werden und somit Bilanzräume mit Potential zur 
+    Energieeinsparung aufzeigen. \\
+    \hline
+    19
+    & Auswertung von Energieeinsätzen in Disaggregierten (Teil-)Bilanzrräumen
+    & Das Bilanzraumkonzept \textbf{muss} Funktionen zur Analyse des Energieeinsatzes eines Bilanzraums im Verhältnis zu seinen disaggregierten Teilbilanzräumen bereitstellen.
+    & Die Analyse des Energieeinsatzes in Teilbilanzräumen im Verhältnis zum Gesamtbilanzraum ermöglicht die Erfassung des Anteils des Energieverbrauchs des 
+    Teilbilanzraums am Gesamtenergieverbrauch \\
+    \hline
 
-
-Der auf Basis von Rönsch (2015) mathematisch beschriebene Ansatz einer Energiebilanz (vgl. Gleichung \eqref{energiebilanzierungsgleichung_Rönsch}) erweitert die Anforderungen 
-da er sich mit dem Verhalten von Systemen mit energiespeicherfähigkeit befasst.
-Somit \textbf{muss} das Bilanzraumkonzept die Abbildung und Integration von energiespeichernden Komponenten ermöglichen.
-Da ein Energiespeicher nach Rathgeber (2018, S.1) Energie aufnehmen und zu einem späteren Zeitpunkt wieder abgeben kann, \textbf{muss} das Bilanzraumkonzept für jeden 
-im Bilanzraum enthaltenen Energiespeicher die dem Energiespeicher zu- und abfließenden Energieströme abbilden.   
-
-Aufgrund der bevorzugten Verwendung der Bewertungseinheit: kWh und deren Vielfachen für alle Energieformen \textbf{muss} das Bilanzraumkonzept dazu fähig sein 
-durch zu- und abfließende Energieströme, Energiequellen und -senken entsehende Energiemengen mit der Einheit kWh und derem Vielfachen im Rahmen der Bilanzierung zu 
-verarbeiten.
-
-Die Zerlegbarkeit von Bilanzräumen wie Sie von Engerlmann (2015) und Miller (2016) beschrieben wurde impliziert Anforderungen an Beziehungen zwischen Bilanzräumen.
-Folglich \textbf{muss} das Bilanzraumkonzept die Hierarchische Disaggregation von eines Bilanzraums abbilden können.
-Dabei \textbf{muss} das Bilanzraumkonzept sowohl den gesamten Untersuchungsgegenstand des Bilanzraums abbilden und nachvollziehen können und 
-über die Hierarchische Disaggregation die Hierarchie des Untersuchungsgegenstands und die dazugehörigen Energiebilanzen abbilden können. 
-Der von Hohnhold und Kai (2013, S. 14) begründete Bedarf der Unterscheidung nach Verbrauchsarten impliziert dass das Bilanzraumkonzept auch 
-nach Verbrauchsarten, beziehungsweise Nutzengrößen disaggregiert werden können \textbf{soll}.
-
-Das von Miller (2016) entworfene Konzept der Bilanzräume bietet mit seinem Ansatz der teilung in Aufwands- und Nutzenseite einen Ansatz zur Konzeption eines Bilanzraums 
-zur betrachtung der Energieeffizienz.
-Der Ansatz bietet unter anderem einen Mehrwert da er die durch die Energiewertschöpfungskette (vgl. Abbildung \eqref{fig:Energieflussschema_Posch}) entstehende Problem:
-dass Energie in unterschiedlichen Formen auftritt und insbesondere im Rahmen der Bilanzierung von Gebäudeenergie zufließende Energieströme in Form von Endenergie auftreten 
-während die abfließenden Energieströme in Form Energiedienstleistungen auftreten.
-In Anlehnung an Miller (2016) \textbf{soll} das Bilanzraumkonzept die Möglichkeit bieten Energiedienstleistungen, die aus dem Bilanzraum abfließende Energieströme sind, 
-mit Bewertungseinheiten zu konkretisieren und mit Werten der Bewertungseinheit zu quantifizieren. 
-Außerdem \textbf{soll} das Bilanzraumkonzept in Anlehnung an Miller (2016) eine Aggregation mehrerer zufließender Energieströme zur erfüllung der selben Energiedienstleistungen 
-abbilden können.
-
-\subsection{ISO 50001}
-
-Die Bewertung der energiebezogenen Leistung durch Energieleistungskennzahlen und damit verbundenen Größen ist eine der betrachteten Aspekte der DIN EN ISO 50001:2018-12.
-Da das Bilanzraumkonzept darauf abzielt bei der Erfüllung unter anderem dieses Aspekts der Norm beizutragen ergeben sich Anforderungen für das Konzept auf Grundlage der 
-Vorgaben der Norm.
-Um alle Arten von Energieleistungskennzahlen (vgl. Abbildung \eqref{fig:Arten_Kennzahlen}) berechnen zu können \textbf{muss} das Bilanzraumkonzept es ermöglichen für 
-einen Bilanzraum Absolute Zahlen und Verhältniszahlen des Typs Index-, Beziehungs-, und Gliederungszahlen abzubilden und zu berechnen.
-
-% TODO: Grenzniveaus  EnPIs
+    \caption{Funktionale Anforderungen an das Bilanzraumkonzept auf Basis der Erkenntnisse aus Kapitel 2: Stand der Forschung und Theoretische Grundlagen (Eigene Darstellung)} \\
+    \label{tab:funktionale_anforderungen}
+\end{longtable}

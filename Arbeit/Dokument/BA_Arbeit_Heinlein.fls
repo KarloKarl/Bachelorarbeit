@@ -132,6 +132,10 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
 INPUT ./BA_Arbeit_Heinlein.aux
 INPUT ./BA_Arbeit_Heinlein.aux
 INPUT BA_Arbeit_Heinlein.aux
@@ -231,6 +235,9 @@ INPUT ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg
 INPUT ../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Allgemeine_Vorgaben_der_ISO_50001.tex
 INPUT ../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Allgemeine_Vorgaben_der_ISO_50001.tex
 INPUT ../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Allgemeine_Vorgaben_der_ISO_50001.tex
+INPUT ../../Ressourcen/Abbildungen/Erwägungen_relevanter_Variablen.jpg
+INPUT ../../Ressourcen/Abbildungen/Erwägungen_relevanter_Variablen.jpg
+INPUT ../../Ressourcen/Abbildungen/Erwägungen_relevanter_Variablen.jpg
 INPUT ../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex
 INPUT ../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex
 INPUT ../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex

@@ -3191,6 +3191,9 @@
     <bcf:citekey order="118" intorder="1">DIN50006.2024</bcf:citekey>
     <bcf:citekey order="119" intorder="1">DIN50001.2018</bcf:citekey>
     <bcf:citekey order="120" intorder="1">Szajdzicki.2017</bcf:citekey>
+    <bcf:citekey order="121" intorder="1">Konstantin.2023</bcf:citekey>
+    <bcf:citekey order="122" intorder="1">Hohnhold.2013</bcf:citekey>
+    <bcf:citekey order="123" intorder="1">DIN50006.2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

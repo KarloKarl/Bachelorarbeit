@@ -25,16 +25,14 @@
 \contentsline {subsection}{\numberline {2.2.1}Bewertung der Energiebezogenen Leistung}{13}{}%
 \contentsline {subsubsection}{Definition von Energieleistungskennzahlen}{13}{}%
 \contentsline {subsubsection}{Arten von Kennzahlen aus statistisch-methodischer Perspektive}{15}{}%
-\contentsline {subsubsection}{Grenzen von Energieleistungskennzahlen}{15}{}%
+\contentsline {subsubsection}{Grenzen von Energieleistungskennzahlen}{16}{}%
 \contentsline {subsection}{\numberline {2.2.2}Identifikation wesentlicher Energieeinsätze}{17}{}%
 \contentsline {subsubsection}{Analyse und Unterscheidung von Energieeinsätzen}{17}{}%
 \contentsline {subsection}{\numberline {2.2.3}Methodik zur Erfüllung von ISO 50001 Anforderungen}{19}{}%
 \contentsline {subsubsection}{Integration von relevanten Variablen}{19}{}%
 \contentsline {subsubsection}{Datengetriebener Ansatz}{20}{}%
-\contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{21}{}%
-\contentsline {section}{\numberline {3.1}Anforderungen an das Bilanzraumkonzept}{21}{}%
-\contentsline {subsection}{\numberline {3.1.1}Energiebilanzierung}{21}{}%
-\contentsline {subsection}{\numberline {3.1.2}ISO 50001}{22}{}%
-\contentsline {chapter}{\numberline {4}Evaluation}{23}{}%
-\contentsline {chapter}{\numberline {5}Fazit}{24}{}%
-\contentsline {chapter}{\numberline {A}Anhang}{27}{}%
+\contentsline {chapter}{\numberline {3}Konzeption und implementation in EMS-EDM Prophet®}{22}{}%
+\contentsline {section}{\numberline {3.1}Anforderungen an das Bilanzraumkonzept}{22}{}%
+\contentsline {chapter}{\numberline {4}Evaluation}{26}{}%
+\contentsline {chapter}{\numberline {5}Fazit}{27}{}%
+\contentsline {chapter}{\numberline {A}Anhang}{30}{}%
