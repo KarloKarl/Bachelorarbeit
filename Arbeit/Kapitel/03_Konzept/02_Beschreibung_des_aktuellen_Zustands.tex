@@ -1,0 +1,39 @@
+Im Folgenden wird der aktuelle Zustand des für den Problemraum relevanten Segments des Datenbankschemas des Energiemanagementsystems EDM-EMS-Prophet® in der Version 14.1 erläutert.  
+Das System basiert auf der \textit{Oracle Database 19c Standard Edition 2} (Release 19.0.0.0.0 – Production). 
+Die Struktur des Datenbankschemas ist in Abbildung \eqref{fig:Datenbankschema_Prophet_ZRM} dargestellt.
+
+\subsubsection{Zeitreihenmanagement}
+Im Zentrum des betrachteten Segment des Datenbankschemas steht die Tabelle: ZRM\_ZR. 
+Sie dient als zentrale Tabelle zur Verwaltung der im Energiemanagementsystem gespeicherten Zeitreihen un weist jeder Zeitreihe eine eindeutige ID zu.
+Neben der ID enthält die Tabelle die Bezeichnung einer Zeitreihe, den Typ einer Zeitreihe  welcher zwischen M-Messwert, P-Prognose 
+und F-Fahrplan variieren kann und einigen weiteren Spalten.
+
+Die Tabelle steht in N:1 Beziehung zur Tabelle ZRM\_AZ welche Informationen bezüglich Abtastzeiten von Zeitreihen speichert. 
+In ZRM\_AZ wird unter anderem die ID, Zeitzone, die Bezeichnung, der Gültigkeitszeitraum, das Zeitintervall aufgelöst bis zur Sekunde und das 
+Offset aufgelöst bis zu Minute einer Abtastzeit gespeichert.
+
+Des weiteren steht die Tabelle ZRM\_ZR in N:1 Relation zur Tabelle: ZRM\_ME welche Informationen bezüglich Maßeinheiten von Zeitreihen speichert.
+In der Tabelle sind neben der ID der Maßeinheit auch deren konkrete Einheit, die Bezeichnung der Größe und weitere Informationen Spalten. 
+Eine wichtige Rolle haben die Spalten: ME\_ISBASISEINHEIT welche angibt ob die Maßeinheit eine Basiseinheit darstellt, und wenn dies nicht gilt 
+ME\_UFAKTOR welche den Umrechnungsfaktor zur entsprechenden Basiseinheit hält.
+
+Über die N:M Relation zwischen ZRM\_ZR und ZRM\_ZRINFO über ZRM\_ZR\_ZRINFO wird eine Zuweisung von in ZRM\_ZRINFO angelegten Infofeldern 
+mit einem in ZRM\_ZR\_ZRINFO vergebenen Wert zu einer Zeitreihe realisiert. 
+Die hier abgebildeten Infofelder können als Key-Value Paare für Zeitreihen betrachtet werden, wobei ZRM\_ZRINFO.ZRINFO\_BEZ den Key und 
+ZRM\_ZR\_ZRINFO.ZR\_INFO\_TEXT den Wert realisiert.
+
+Über die N:1 Beziehung zwischen ZRM\_ZR und DAT\_MANDANT werden alle Zeitreihen mit einem Mandanten Verknüpft. 
+Mandanten können ganze Organisationen oder Teile von Organisationenen repräsentieren und dienen der Zuweisung von Zuständigen für die Zeitreihen. 
+So wie die anderen Tabellen enthält diese Tabelle Spalten zur Überwachung von Änderungen und dem Anlegen.
+
+\subsubsection{Zeitreihenwerte}
+
+Die Zeitreihenwerte einer in EDM-EMS-Prophet® gespeicherten Zeitreihe werden in der ZRM\_ZW1 gespeichert, welche in einer N:1 Beziehung zur Tabelle ZRM\_ZR steht.
+In der Tabelle werden nur äquidistante Werte, also Werte welche im gleichen Zeitintervall abgetastet werden, abgelegt.
+Die drei zentralen Spalten der Tabelle sind ZRM\_ZRID welche die relation zur Zeitreihe realisiert, ZW1\_UT welche den Endzeitstempel eines Werts in UTC hält 
+und ZW1\_Wert welche den Zeitreihenwert in der Basiseinheit hält.
+Hat man Beispielsweise eine Zeitreihe welche die Messwerte des Energievebrauchs einer Anlage in kWh speichert entspricht der Wert in ZW1\_Wert zum Endzeitstempel 
+ZW1\_UT der Energiemenge die in dieser Anlage seit vom vorherhigen Endzeitstempel verbraucht wurde. 
+Die Werte in ZRM\_ZW1 stellen somit im Falle von Zeitreihen die die Messergebnisse von Energieströme speichern, Aggregate des Energiestroms über den in ZRM\_AZ 
+festgelegten Abtastzeitraum dar.
+ZW1\_Version und ZW1\_UPDATE dienen der Versionierung der Werte, da die Zeitreihenwerte angepasst werden können.
