@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  11 FEB 2025 19:05
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.2)  15 FEB 2025 13:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -845,653 +845,565 @@ Overfull \hbox (2.21883pt too wide) in paragraph at lines 14--14
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 \TU/Arial(0)/m/n/10 Energieströ-
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 19--20
+Underfull \hbox (badness 1152) in paragraph at lines 17--18
 \TU/Arial(0)/m/n/10 men, -quellen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 2846) in paragraph at lines 18--19
+\TU/Arial(0)/m/n/10 Energiequellen und Energiesen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-\TU/Arial(0)/m/n/10 abfließende Energieströ-
+Underfull \hbox (badness 4391) in paragraph at lines 19--20
+[]|\TU/Arial(0)/m/n/10 Die mathematische Beschreibung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-\TU/Arial(0)/m/n/10 me, Energiequellen und
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 []|\TU/Arial(0)/m/n/10 Abbildung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 \TU/Arial(0)/m/n/10 des Untersu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 \TU/Arial(0)/m/n/10 chungsgegen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 1033) in paragraph at lines 23--24
+[]|\TU/Arial(0)/m/n/10 Im Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 für
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 eine Beschreibung
+Underfull \hbox (badness 6608) in paragraph at lines 23--24
+\TU/Arial(0)/m/n/10 jeden Bilanzraum ein Untersu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-\TU/Arial(0)/m/n/10 des Untersuchungsgegen-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-[]|\TU/Arial(0)/m/n/10 Der Untersuchungsgegenstand be-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 []|\TU/Arial(0)/m/n/10 Zeitliche
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 1983) in paragraph at lines 28--29
+\TU/Arial(0)/m/n/10 Möglichkeit bieten, die Bilanzie-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-\TU/Arial(0)/m/n/10 die Bilanzierung zeitlich
+Underfull \hbox (badness 1688) in paragraph at lines 29--31
+[]|\TU/Arial(0)/m/n/10 Die Zustandsgröße der Bilanz ist
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 31--34
-\TU/Arial(0)/m/n/10 der Mathematischen Beschreibung von
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 []|\TU/Arial(0)/m/n/10 Integration
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 \TU/Arial(0)/m/n/10 von Energie-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 2460) in paragraph at lines 34--37
+\TU/Arial(0)/m/n/10 ergiespeichernden Komponenten
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
-\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 die Abbildung und
+Underfull \hbox (badness 2261) in paragraph at lines 34--37
+\TU/Arial(0)/m/n/10 ermöglichen. Im zuge der Inte-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
-\TU/Arial(0)/m/n/10 Integration von energie-
+Underfull \hbox (badness 1533) in paragraph at lines 37--40
+[]|\TU/Arial(0)/m/n/10 Energiespeicher wirken sich nach
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 37--40
-\TU/Arial(0)/m/n/10 ermöglichen. Im zuge der
+Underfull \hbox (badness 2744) in paragraph at lines 37--40
+\TU/Arial(0)/m/n/10 einer Energiebilanz nach Rönsch
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--40
-\TU/Arial(0)/m/n/10 Integration von energie-
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[]|\TU/Arial(0)/m/n/10 Bewertungs-
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 37--40
-\TU/Arial(0)/b/n/10 müssen \TU/Arial(0)/m/n/10 dem Energiespei-
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\TU/Arial(0)/m/n/10 einheiten
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 37--40
-\TU/Arial(0)/m/n/10 cher zu- und abfließende
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\TU/Arial(0)/m/n/10 eines Bilanz-
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 40--43
-\TU/Arial(0)/m/n/10 giebilanz nach Rönsch (vgl. Gleichung
+Underfull \hbox (badness 1158) in paragraph at lines 43--45
+\TU/Arial(0)/m/n/10 senken in der Einheit kWh und
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 40--43
-[]\TU/Arial(0)/m/n/10 ) auf das Verhalten der bilanzier-
+Underfull \hbox (badness 1609) in paragraph at lines 45--46
+[]|\TU/Arial(0)/m/n/10 Die bevorzugte Bewertungseinheit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-[]|\TU/Arial(0)/m/n/10 Kompatibilität
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10 mit Bewer-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-\TU/Arial(0)/m/n/10 tungseinhei-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 Energieströme, -
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-\TU/Arial(0)/m/n/10 quellen und -senken der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-\TU/Arial(0)/m/n/10 Einheit kWh und deren
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--48
-\TU/Arial(0)/m/n/10 Vielfache unabhängig von
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-[]|\TU/Arial(0)/m/n/10 Hierarchische
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\TU/Arial(0)/m/n/10 Disaggrega-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\TU/Arial(0)/m/n/10 tion eines
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 die hierarchische
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
-\TU/Arial(0)/m/n/10 suchungsgegenstand von
- []
-
-
-Underfull \hbox (badness 2884) in paragraph at lines 52--53
-\TU/Arial(0)/m/n/10 Bilanzräumen in Teilbilanz-
- []
-
-
-Overfull \hbox (3.53pt too wide) in paragraph at lines 56--57
-[]|\TU/Arial(0)/m/n/10 Disaggregation
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
-\TU/Arial(0)/m/n/10 nach Ver-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-\TU/Arial(0)/b/n/10 soll \TU/Arial(0)/m/n/10 die Disaggregation
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-\TU/Arial(0)/m/n/10 von Bilanzräumen nach
- []
-
-
-Underfull \hbox (badness 4156) in paragraph at lines 57--58
-\TU/Arial(0)/m/n/10 Verbrauchsarten oder Nut-
- []
-
-
-Overfull \hbox (3.52512pt too wide) in paragraph at lines 61--61
+Overfull \hbox (3.52512pt too wide) in paragraph at lines 48--48
 []|\TU/Arial(0)/m/n/10 Quantifizierung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 \TU/Arial(0)/m/n/10 von Energie-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 \TU/Arial(0)/m/n/10 dienstleistun-
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 62--64
-\TU/Arial(0)/m/n/10 zept der Bewertungsräume
+Underfull \hbox (badness 1708) in paragraph at lines 49--51
+\TU/Arial(0)/m/n/10 entworfene Konzept der Bewer-
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 62--64
-\TU/Arial(0)/m/n/10 konkretisieren und quantifi-
+Underfull \hbox (badness 5970) in paragraph at lines 49--51
+\TU/Arial(0)/m/n/10 tungsräume aus einem Bilanz-
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 64--68
-\TU/Arial(0)/m/n/10 (vgl. Abbildung []) visualisierte Pro-
+Underfull \hbox (badness 1881) in paragraph at lines 49--51
+\TU/Arial(0)/m/n/10 konkretisieren und quantifizieren
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 1320) in paragraph at lines 51--55
+\TU/Arial(0)/m/n/10 insbesondere im Rahmen der Bi-
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 51--55
+\TU/Arial(0)/m/n/10 fließende Energieströme in Form
+ []
+
+
+Overfull \hbox (3.53pt too wide) in paragraph at lines 57--58
+[]|\TU/Arial(0)/m/n/10 Disaggregation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+\TU/Arial(0)/m/n/10 chungsgegen-
+ []
+
+
+Overfull \hbox (3.53pt too wide) in paragraph at lines 62--63
+[]|\TU/Arial(0)/m/n/10 Disaggregation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\TU/Arial(0)/m/n/10 nach Ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]|\TU/Arial(0)/m/n/10 Die Unterscheidung von Ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\TU/Arial(0)/m/n/10 brauchsarten ermöglicht die Er-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\TU/Arial(0)/m/n/10 fassung von Energiedaten einer
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 64--65
+\TU/Arial(0)/m/n/10 Organisation ([]Hohnhold und Kai,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 []|\TU/Arial(0)/m/n/10 Aggregation
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 \TU/Arial(0)/m/n/10 zufließender
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 \TU/Arial(0)/m/n/10 Energieströ-
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 71--73
-\TU/Arial(0)/m/n/10 zept der Bewertungsräume
+Underfull \hbox (badness 1708) in paragraph at lines 68--70
+\TU/Arial(0)/m/n/10 entworfene Konzept der Bewer-
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 71--73
-\TU/Arial(0)/m/n/10 eine Aggregation mehrerer
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+\TU/Arial(0)/m/n/10 tungsräume eine Aggregation
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 71--73
-\TU/Arial(0)/m/n/10 zufließender Energieströme
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+\TU/Arial(0)/m/n/10 mehrerer zufließender Energie-
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 71--73
-\TU/Arial(0)/m/n/10 ergiedienstleistung abbilden
+Underfull \hbox (badness 7291) in paragraph at lines 68--70
+\TU/Arial(0)/m/n/10 ströme zu einem zufließenden
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+\TU/Arial(0)/m/n/10 Energiestrom in Bilanzräumen
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 70--72
+[]|\TU/Arial(0)/m/n/10 Mehrere einfließende Energieströ-
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 70--72
+\TU/Arial(0)/m/n/10 Deckung des Nutzenergiebedarfs
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 70--72
+\TU/Arial(0)/m/n/10 der gleichen Energiedienstleistung
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 74--75
 []|\TU/Arial(0)/m/n/10 Definition von
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 \TU/Arial(0)/m/n/10 Energieleis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 \TU/Arial(0)/m/n/10 tungskenn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 5756) in paragraph at lines 75--76
+\TU/Arial(0)/m/n/10 Definition von Energieleistungs-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 die Definition von
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+[]|\TU/Arial(0)/m/n/10 Energieleistungskennzahlen sind
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--81
-\TU/Arial(0)/m/n/10 Energieleistungskennzahlen
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\TU/Arial(0)/m/n/10 zentral für die Bewertung der
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 81--82
-\TU/Arial(0)/m/n/10 Leistung im Energiemanagement nach
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\TU/Arial(0)/m/n/10 energiebezogenen Leistung im
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-[]|\TU/Arial(0)/m/n/10 Aggregation
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+\TU/Arial(0)/m/n/10 Energiemanagement nach ISO
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-\TU/Arial(0)/m/n/10 von EnPI-
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+[]|\TU/Arial(0)/m/n/10 Zeitliche Ag-
  []
 
 
-Underfull \hbox (badness 1540) in paragraph at lines 85--86
-\TU/Arial(0)/m/n/10 gen EnPI-Werten in einem
+Underfull \hbox (badness 1147) in paragraph at lines 79--80
+\TU/Arial(0)/m/n/10 gregation von
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 80--81
+\TU/Arial(0)/m/n/10 raum zu einem EnPI-Wert im
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 80--81
+\TU/Arial(0)/m/n/10 Bewertungszeitraum aggregieren
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 81--83
+\TU/Arial(0)/m/n/10 tung der energiebezogenen Leis-
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 81--83
+\TU/Arial(0)/m/n/10 tung über einen Berichtszeitraum
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 81--83
+\TU/Arial(0)/m/n/10 hinweg und ermöglicht den Ver-
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 81--83
+\TU/Arial(0)/m/n/10 gleich mit dem EnB zur ermitt-
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 81--83
+\TU/Arial(0)/m/n/10 lung der Energiebezogenen Leis-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 85--86
-\TU/Arial(0)/m/n/10 Bewertungszeitraum zu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
-\TU/Arial(0)/m/n/10 tungszeitraum aggregieren
- []
-
-
-Underfull \hbox (badness 1789) in paragraph at lines 86--88
-\TU/Arial(0)/m/n/10 ermittlung der Energiebezogenen Leis-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
 []|\TU/Arial(0)/m/n/10 Energetische
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 \TU/Arial(0)/m/n/10 Ausgangsba-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 1983) in paragraph at lines 86--87
+\TU/Arial(0)/m/n/10 gangsbasis bereitstellen und im
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
-\TU/Arial(0)/m/n/10 energetische Ausgangs-
+Underfull \hbox (badness 2980) in paragraph at lines 87--89
+[]|\TU/Arial(0)/m/n/10 Die Differenz zwischen der Aus-
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 91--92
-\TU/Arial(0)/m/n/10 basis bereitstellen und im
+Underfull \hbox (badness 1496) in paragraph at lines 87--89
+\TU/Arial(0)/m/n/10 stimmt die Verbesserung der En-
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 96--97
+Underfull \hbox (badness 1158) in paragraph at lines 91--92
 []|\TU/Arial(0)/m/n/10 Definition von
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 \TU/Arial(0)/m/n/10 operativen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 1533) in paragraph at lines 93--94
+[]|\TU/Arial(0)/m/n/10 Die Bewertung der Zielerreichung
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 97--98
-\TU/Arial(0)/m/n/10 für einen definierten EnPI
+Underfull \hbox (badness 2486) in paragraph at lines 93--94
+\TU/Arial(0)/m/n/10 Verbesserung der energiebezoge-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-\TU/Arial(0)/m/n/10 ein operatives Energieziel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
-\TU/Arial(0)/m/n/10 anzugeben und dessen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 []|\TU/Arial(0)/m/n/10 Zeit-Werte-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 \TU/Arial(0)/m/n/10 Verlauf von
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 2293) in paragraph at lines 97--98
+\TU/Arial(0)/m/n/10 lanzraum definierten EnPIs und
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-\TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 den Zeit-Werte-
- []
-
-
-Underfull \hbox (badness 1789) in paragraph at lines 103--104
-[]|\TU/Arial(0)/m/n/10 Eine zeitabhängige Analyse ermöglicht
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 []|\TU/Arial(0)/m/n/10 Abbildbare
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 \TU/Arial(0)/m/n/10 Kennzahlen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-\TU/Arial(0)/m/n/10 EnPIs der Art: absolu-
+Underfull \hbox (badness 1622) in paragraph at lines 102--102
+\TU/Arial(0)/m/n/10 in einem Bilanzraum EnPIs der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-\TU/Arial(0)/m/n/10 te Zahlen sowie Index-,
+Underfull \hbox (badness 1533) in paragraph at lines 103--104
+[]|\TU/Arial(0)/m/n/10 Unterschiedliche Arten von Kenn-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-\TU/Arial(0)/m/n/10 Beziehungs- und Gliede-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-\TU/Arial(0)/m/n/10 rungszahlen berechnen
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 []|\TU/Arial(0)/m/n/10 Abgrenzung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-[]|\TU/Arial(0)/m/n/10 Ein Bilanzraum im Bi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-\TU/Arial(0)/m/n/10 lanzraumkonzept \TU/Arial(0)/b/n/10 muss
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-\TU/Arial(0)/m/n/10 nach allen definierten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-\TU/Arial(0)/m/n/10 EnPI-Grenzniveaus (vgl.
- []
-
-
-Underfull \hbox (badness 2608) in paragraph at lines 113--114
-\TU/Arial(0)/m/n/10 eines Bilanzraums beeinflusst die Be-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 []|\TU/Arial(0)/m/n/10 Bestimmung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 \TU/Arial(0)/m/n/10 des Energie-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 1715) in paragraph at lines 112--113
+\TU/Arial(0)/m/n/10 einsatz in einem Bilanzzeitraum
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 113--115
+\TU/Arial(0)/m/n/10 von der Organisation festgelegten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 []|\TU/Arial(0)/m/n/10 Bestimmung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 \TU/Arial(0)/m/n/10 des spe-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 \TU/Arial(0)/m/n/10 zifischen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 \TU/Arial(0)/m/n/10 Energieein-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-[]|\TU/Arial(0)/m/n/10 Für jeden Bilanzraum im
+Underfull \hbox (badness 2521) in paragraph at lines 118--120
+\TU/Arial(0)/m/n/10 gen bilanziert \TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 der spezi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-\TU/Arial(0)/m/n/10 Bilanzraumkonzept der
+Underfull \hbox (badness 1701) in paragraph at lines 118--120
+\TU/Arial(0)/m/n/10 fische Energieeinsatz (vgl. Glei-
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 122--124
-\TU/Arial(0)/m/n/10 den Energievebrauch einer
+Underfull \hbox (badness 2689) in paragraph at lines 120--122
+\TU/Arial(0)/m/n/10 als Maß der Energieeffizienz bei
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-\TU/Arial(0)/m/n/10 Energiedienstleistungen
+Underfull \hbox (badness 1533) in paragraph at lines 120--122
+\TU/Arial(0)/m/n/10 der Erfüllung einer Energiedienst-
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 122--124
-\TU/Arial(0)/m/n/10 bilanziert \TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 der spezi-
- []
-
-
-Underfull \hbox (badness 5771) in paragraph at lines 122--124
-\TU/Arial(0)/m/n/10 fische Energieeinsatz (vgl.
- []
-
-
-Underfull \hbox (badness 4832) in paragraph at lines 122--124
-\TU/Arial(0)/m/n/10 Gleichung []) in einem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-\TU/Arial(0)/m/n/10 Bilanzzeitraum berechnet
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 []|\TU/Arial(0)/m/n/10 Auswertung
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 \TU/Arial(0)/m/n/10 von Ener-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 \TU/Arial(0)/m/n/10 gieeinsätzen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 \TU/Arial(0)/m/n/10 in Disaggre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 \TU/Arial(0)/m/n/10 gierten (Teil-
  []
 
 
-Overfull \hbox (4.06711pt too wide) in paragraph at lines 128--129
+Overfull \hbox (4.06711pt too wide) in paragraph at lines 124--125
 \TU/Arial(0)/m/n/10 )Bilanzrräumen| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss
  []
 
 
-Underfull \hbox (badness 6708) in paragraph at lines 129--130
-\TU/Arial(0)/m/n/10 lyse des Energieeinsatzes
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/Arial(0)/m/n/10 Funktionen zur Analyse des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-\TU/Arial(0)/m/n/10 eines Bilanzraums im
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+\TU/Arial(0)/m/n/10 Energieeinsatzes eines Bilanz-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-\TU/Arial(0)/m/n/10 regierten Teilbilanzräumen
+Underfull \hbox (badness 3375) in paragraph at lines 125--126
+\TU/Arial(0)/m/n/10 raums im Verhältnis zu seinen
  []
 
 
-Overfull \hbox (50.00601pt too wide) in alignment at lines 9--133
+Underfull \hbox (badness 3668) in paragraph at lines 125--126
+\TU/Arial(0)/m/n/10 disaggregierten Teilbilanzräumen
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 126--128
+\TU/Arial(0)/m/n/10 in Teilbilanzräumen im Verhältnis
+ []
+
+
+Overfull \hbox (49.99994pt too wide) in alignment at lines 9--129
  [] [] [] [] 
  []
 
 [22
 
-] [23] [24])
+] [23])
 Overfull \hbox (9.48416pt too wide) in paragraph at lines 118--118
 []\TU/Arial(0)/b/n/14.4 Ist-Zustand des Datenbankschemas von EMS-EDM Pro-
  []
 
 (../Kapitel/03_Konzept/02_Beschreibung_des_aktuellen_Zustands.tex
+
+[24]
 Overfull \hbox (24.40794pt too wide) in paragraph at lines 20--24
 \TU/Arial(0)/m/n/10 wird eine Zuweisung von in ZRM_ZRINFO angelegten Infofeldern mit einem in ZRM_ZR_ZRINFO
  []
@@ -1499,18 +1411,16 @@ Overfull \hbox (24.40794pt too wide) in paragraph at lines 20--24
 )
 
 [25]
-
-[26]
 Kapitel 4.
 
 
-[27
+[26
 
 ]
 Kapitel 5.
 
 
-[28
+[27
 
 ]
 Overfull \hbox (13.9175pt too wide) in paragraph at lines 187--187
@@ -1530,22 +1440,22 @@ Overfull \hbox (0.58678pt too wide) in paragraph at lines 187--187
 Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
 
 
-[29
+[28
 
 ]
 
-[30]
+[29]
 Anhang A.
 (../Kapitel/06_Anhang/Abbildungen.tex
 File: ../../Ressourcen/Abbildungen/Schema_ZRM_ZR.jpg Graphic file (type bmp)
 <../../Ressourcen/Abbildungen/Schema_ZRM_ZR.jpg>
 )
 
-[31
+[30
 
 ]
 
-[32] (./BA_Arbeit_Heinlein.aux)
+[31] (./BA_Arbeit_Heinlein.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-11-02>
@@ -1555,12 +1465,12 @@ Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16223 strings out of 473965
- 355463 string characters out of 5736632
- 1391685 words of memory out of 5000000
- 38943 multiletter control sequences out of 15000+600000
+ 16226 strings out of 473965
+ 355499 string characters out of 5736632
+ 1391699 words of memory out of 5000000
+ 38946 multiletter control sequences out of 15000+600000
  558723 words of font info for 63 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  79i,7n,93p,2263b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on BA_Arbeit_Heinlein.xdv (37 pages, 785284 bytes).
+Output written on BA_Arbeit_Heinlein.xdv (36 pages, 786972 bytes).

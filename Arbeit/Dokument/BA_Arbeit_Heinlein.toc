@@ -36,6 +36,6 @@
 \contentsline {section}{\numberline {3.2}Ist-Zustand des Datenbankschemas von EMS-EDM Prophet®}{25}{}%
 \contentsline {subsubsection}{Zeitreihenmanagement}{25}{}%
 \contentsline {subsubsection}{Zeitreihenwerte}{25}{}%
-\contentsline {chapter}{\numberline {4}Evaluation}{27}{}%
-\contentsline {chapter}{\numberline {5}Fazit}{28}{}%
-\contentsline {chapter}{\numberline {A}Anhang}{31}{}%
+\contentsline {chapter}{\numberline {4}Evaluation}{26}{}%
+\contentsline {chapter}{\numberline {5}Fazit}{27}{}%
+\contentsline {chapter}{\numberline {A}Anhang}{30}{}%
