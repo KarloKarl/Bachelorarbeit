@@ -1,0 +1,23 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'BA_Arbeit_Heinlein.blg'
+[120] biber-MSWIN64:340> INFO - === 
+[195] Biber.pm:420> INFO - Reading 'BA_Arbeit_Heinlein.bcf'
+[366] Biber.pm:994> INFO - Found 19 citekeys in bib section 0
+[390] Biber.pm:4463> INFO - Processing section 0
+[402] Biber.pm:4654> INFO - Looking for bibtex file '../../Ressourcen/Bibliographie/ba_literatur.bib' for section 0
+[469] bibtex.pm:1713> INFO - LaTeX decoding ...
+[510] bibtex.pm:1519> INFO - Found BibTeX data source '../../Ressourcen/Bibliographie/ba_literatur.bib'
+[677] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[677] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[678] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[678] Biber.pm:4289> INFO - No sort tailoring available for locale 'de-DE'
+[731] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[731] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[731] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'de-DE'
+[731] Biber.pm:4289> INFO - No sort tailoring available for locale 'de-DE'
+[769] bbl.pm:676> INFO - Writing 'BA_Arbeit_Heinlein.bbl' with encoding 'UTF-8'
+[798] bbl.pm:779> INFO - Output to BA_Arbeit_Heinlein.bbl
+[798] Biber.pm:131> WARN - misc entry 'DIN50006.2024' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring
+[799] Biber.pm:131> WARN - misc entry 'DIN18599.2018' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '02.01.2025' of date field 'urldate' - ignoring
+[799] Biber.pm:131> WARN - inbook entry 'Engelmann.2015' (../../Ressourcen/Bibliographie/ba_literatur.bib): Invalid format '31.12.2024' of date field 'urldate' - ignoring
+[799] Biber.pm:133> INFO - WARNINGS: 3
