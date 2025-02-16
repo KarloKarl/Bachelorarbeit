@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber BA_Arbeit_Heinlein"] 1739646066.30645 "BA_Arbeit_Heinlein.bcf" "BA_Arbeit_Heinlein.bbl" "BA_Arbeit_Heinlein" 1739646123.30512 0
+["biber BA_Arbeit_Heinlein"] 1739711480.47966 "BA_Arbeit_Heinlein.bcf" "BA_Arbeit_Heinlein.bbl" "BA_Arbeit_Heinlein" 1739711620.2965 0
   "../../Ressourcen/Bibliographie/ba_literatur.bib" 1739201506 20808 3def1500abf9186adbd1955f3ff09b5d ""
-  "BA_Arbeit_Heinlein.bcf" 1739646121 142350 de2da0624764e59c766bea14b7f02d89 "xelatex"
+  "BA_Arbeit_Heinlein.bcf" 1739711619 142560 1809626d16822ffadd66b0ba2e197e2b "xelatex"
   (generated)
   "BA_Arbeit_Heinlein.bbl"
   "BA_Arbeit_Heinlein.blg"
   (rewritten before read)
-["xdvipdfmx"] 1739646122.25984 "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein.pdf" "BA_Arbeit_Heinlein" 1739646123.3128 0
-  "BA_Arbeit_Heinlein.xdv" 1739646122 762656 0632c6324adccd6e8e4b4f06f17a25b0 "xelatex"
+["xdvipdfmx"] 1739711619.29537 "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein.pdf" "BA_Arbeit_Heinlein" 1739711620.30356 0
+  "BA_Arbeit_Heinlein.xdv" 1739711619 817596 e5ef9ba11fdadecc04e1dd0230c5cd42 "xelatex"
   (generated)
   "BA_Arbeit_Heinlein.pdf"
   (rewritten before read)
-["xelatex"] 1739646119.13647 "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein" 1739646123.30559 0
+["xelatex"] 1739711616.32489 "f:/Studium/Bachelorarbeit/Arbeit/Dokument/BA_Arbeit_Heinlein.tex" "BA_Arbeit_Heinlein.xdv" "BA_Arbeit_Heinlein" 1739711620.29692 0
   "../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg" 1739119307 18513 ea6fdcb7265c4fe5a634242f2fbace0d ""
   "../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg" 1738847530 321501 282fca56ed9d445c0ec6bbcab58aa85c ""
   "../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg" 1735850030 372136 6c5d79b445fba1ea65979dd2f7a2dbf0 ""
@@ -37,15 +37,15 @@
   "../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Energieleistungskennzahlen.tex" 1739619692 10447 bc897d248c0d09bf3e2620c4906e1f4d ""
   "../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex" 1739201599 7468 3c80554f389b75c62fca382c06d8a9a6 ""
   "../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Allgemeine_Vorgaben_der_ISO_50001.tex" 1739636906 5954 7c956bdd190ba66bf30bdef3fa0560e6 ""
-  "../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex" 1739646064 4545 db3b8594c064b7893497e98daa311929 ""
+  "../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex" 1739711612 10601 1a664081b72c760eac353a681fcb3c5a ""
   "../Kapitel/03_Konzept/02_Beschreibung_des_aktuellen_Zustands.tex" 1739646118 3965 ddd3c4fa74b89cb548f8000e45b94d76 ""
   "../Kapitel/03_Konzept/03_Bilanzraumkonzept.tex" 1739645476 3150 efea3fedf7a99d7ccff4574723c3ecbf ""
   "../Kapitel/06_Anhang/Abbildungen.tex" 1739624126 278 6d6df56dcb5955a833a66859c16ca33c ""
-  "BA_Arbeit_Heinlein.aux" 1739646121 30468 3be80849363b01fc7823210b59517a69 "xelatex"
-  "BA_Arbeit_Heinlein.bbl" 1739646068 90143 e1d756efb5d8a88493a6fb9ca1ef6f9b "biber BA_Arbeit_Heinlein"
-  "BA_Arbeit_Heinlein.run.xml" 1739646121 2589 8efe822addff136623c6d9f45d72fa9e "xelatex"
+  "BA_Arbeit_Heinlein.aux" 1739711618 30915 32fa12a7e25fab389538a002f00fb314 "xelatex"
+  "BA_Arbeit_Heinlein.bbl" 1739711487 90143 e1d756efb5d8a88493a6fb9ca1ef6f9b "biber BA_Arbeit_Heinlein"
+  "BA_Arbeit_Heinlein.run.xml" 1739711619 2589 8efe822addff136623c6d9f45d72fa9e "xelatex"
   "BA_Arbeit_Heinlein.tex" 1739641108 5930 2e7e184767d600083644665d2a288752 ""
-  "BA_Arbeit_Heinlein.toc" 1739646122 3105 cb5eb9a73ca8ac28dc37a7ff5279094f "xelatex"
+  "BA_Arbeit_Heinlein.toc" 1739711619 3105 4b0d1f4a45850193c816a7dd3779156c "xelatex"
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1733171244 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1733169596 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2024/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1733169783 2289 4c0bd5448e6c4088c5170e3997082036 ""
