@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.19)  16 FEB 2025 16:03
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.19)  17 FEB 2025 11:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -539,8 +539,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
-
-No file BA_Arbeit_Heinlein.aux.
+ (./BA_Arbeit_Heinlein.aux)
 \openout1 = `BA_Arbeit_Heinlein.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -559,6 +558,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -740,8 +740,7 @@ File: ../../Ressourcen/Bilder/FHE-AI_Logo.png Graphic file (type bmp)
 
 [3
 
-]
-No file BA_Arbeit_Heinlein.toc.
+] (./BA_Arbeit_Heinlein.toc)
 \tf@toc=\write4
 \openout4 = `BA_Arbeit_Heinlein.toc'.
 
@@ -755,3 +754,1006 @@ Kapitel 1.
 
 [1
 
+]) (../Kapitel/01_Einleitung/02_Problemstellung.tex
+
+[2]) (../Kapitel/01_Einleitung/03_Ziele.tex) (../Kapitel/01_Einleitung/04_Aufbau.tex
+
+[3]
+
+[4])
+
+[5]
+Kapitel 2.
+(../Kapitel/02_Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/01_Energiebilanzierung.tex
+
+LaTeX Warning: Reference `fig:Energieverbrauch_Wärme_DE' on page 6 undefined on input line 12.
+
+File: ../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Energieverbrauch_für_Wärmezweck_DE.jpg>
+
+LaTeX Warning: Reference `fig:Energieverbrauch_Wärme_DE' on page 6 undefined on input line 21.
+
+
+
+[6
+
+]
+
+LaTeX Warning: Reference `energiebilanzierungsgleichung_Rönsch' on page 7 undefined on input line 51.
+
+
+LaTeX Warning: Reference `energiegleicheit_Rönsch' on page 7 undefined on input line 66.
+
+
+LaTeX Warning: Reference `energiegleicheit_Rönsch' on page 7 undefined on input line 75.
+
+
+
+[7]
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 8 undefined on input line 88.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendtStrom' on page 8 undefined on input line 88.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 8 undefined on input line 121.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendtStrom' on page 8 undefined on input line 121.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 8 undefined on input line 124.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 8 undefined on input line 131.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendtStrom' on page 8 undefined on input line 131.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 8 undefined on input line 134.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendtStrom' on page 8 undefined on input line 134.
+
+
+LaTeX Warning: Reference `energiebilanzierungsgleichung_Rönsch' on page 8 undefined on input line 138.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 8 undefined on input line 138.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendtStrom' on page 8 undefined on input line 138.
+
+
+LaTeX Warning: Reference `energiebilanzierungsgleichung_Rönsch' on page 8 undefined on input line 141.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 8 undefined on input line 141.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendtStrom' on page 8 undefined on input line 141.
+
+) (../Kapitel/02_Theoretische_Grundlagen/01_Grundlagen_von_Bilanzräumen/02_Definition_von_Bilanzräumen.tex
+
+[8]
+
+LaTeX Warning: Reference `EffizienzgleichungMiller' on page 9 undefined on input line 14.
+
+
+LaTeX Warning: Reference `EffizienzgleichungMiller' on page 9 undefined on input line 27.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 9 undefined on input line 31.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendtStrom' on page 9 undefined on input line 31.
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 9 undefined on input line 34.
+
+
+
+[9]
+File: ../../Ressourcen/Abbildungen/Energiewertschöpfingskette_Posch.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Energiewertschöpfingskette_Posch.jpg>
+
+
+LaTeX Warning: Reference `fig:Energieflussschema_Posch' on page 10 undefined on input line 84.
+
+
+LaTeX Warning: Reference `fig:Energieflussschema_Posch' on page 10 undefined on input line 89.
+
+
+
+[10]
+
+LaTeX Warning: Reference `fig:Übersicht_Bilanzräume' on page 11 undefined on input line 92.
+
+File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit.jpg>
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 11 undefined on input line 106.
+
+
+LaTeX Warning: Reference `fig:Übersicht_Bilanzräume' on page 11 undefined on input line 107.
+
+
+LaTeX Warning: Reference `fig:Übersicht_Bilanzräume' on page 11 undefined on input line 114.
+
+
+Overfull \hbox (1.30501pt too wide) in paragraph at lines 114--119
+[]\TU/Arial(0)/m/n/10 Im Bilanzraumkonzept der Abbildung [] werden die abfließenden Energieströme durch
+ []
+
+
+
+[11]
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 12 undefined on input line 123.
+
+
+LaTeX Warning: Reference `fig:Energieflussschema_Posch' on page 12 undefined on input line 131.
+
+
+LaTeX Warning: Reference `fig:Energieverbrauch_Wärme_DE' on page 12 undefined on input line 142.
+
+
+LaTeX Warning: Reference `fig:Übersicht_Bilanzräume' on page 12 undefined on input line 145.
+
+
+LaTeX Warning: Reference `fig:Disagggregation_Bilanzraum_Untersuchungsgegenstand' on page 12 undefined on input line 146.
+
+File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt.jpg>
+
+
+[12]
+
+LaTeX Warning: Reference `fig:Disagggregation_Bilanzraum_Nutzengrößen' on page 13 undefined on input line 158.
+
+File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt.jpg>
+) (../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/01_Energieleistungskennzahlen.tex
+
+[13]
+File: ../../Ressourcen/Abbildungen/ISO_50006_Beispiel_EnPI_EnB.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/ISO_50006_Beispiel_EnPI_EnB.jpg>
+
+
+LaTeX Warning: Reference `fig:Beziehung_EnPI_EnB_ISO_50006' on page 14 undefined on input line 29.
+
+
+LaTeX Warning: Reference `fig:Beziehung_EnPI_EnB_ISO_50006' on page 14 undefined on input line 34.
+
+
+
+[14]
+File: ../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Arten_von_Kennzahlen.jpg>
+
+
+LaTeX Warning: Reference `fig:Arten_Kennzahlen' on page 15 undefined on input line 51.
+
+
+LaTeX Warning: Reference `fig:Beziehung_EnPI_EnB_ISO_50006' on page 15 undefined on input line 53.
+
+
+LaTeX Warning: Reference `fig:Beziehung_EnPI_EnB_ISO_50006' on page 15 undefined on input line 55.
+
+
+LaTeX Warning: Reference `fig:Übersicht_Bilanzräume' on page 15 undefined on input line 63.
+
+
+LaTeX Warning: Reference `fig:Beziehung_EnPI_EnB_ISO_50006' on page 15 undefined on input line 67.
+
+
+
+[15]
+
+LaTeX Warning: Reference `fig:EnPI_Grenzniveaus' on page 16 undefined on input line 86.
+
+File: ../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/EnPI_Grenzniveaus_ISO_50006.jpg>
+
+LaTeX Warning: Reference `fig:EnPI_Grenzniveaus' on page 16 undefined on input line 95.
+
+) (../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/02_Energieeinsätze.tex
+
+[16]
+
+LaTeX Warning: Reference `EnergieeinsatzMiller' on page 17 undefined on input line 9.
+
+
+LaTeX Warning: Reference `EffizienzgleichungMiller' on page 17 undefined on input line 10.
+
+
+LaTeX Warning: Reference `fig:Disagggregation_Bilanzraum_Nutzengrößen' on page 17 undefined on input line 36.
+
+
+LaTeX Warning: Reference `fig:Disagggregation_Bilanzraum_Nutzengrößen_Beispiel' on page 17 undefined on input line 41.
+
+
+LaTeX Warning: Reference `SepzifischerEnergieinsatzMiller' on page 17 undefined on input line 46.
+
+
+LaTeX Warning: Reference `Anteil_Gesamtenergieverbrauch' on page 17 undefined on input line 48.
+
+
+
+[17]
+File: ../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Nutzengröße_Bewertungseinheit_Zerlegt_Beispiel.jpg>
+
+
+LaTeX Warning: Reference `fig:Disagggregation_Bilanzraum_Untersuchungsgegenstand' on page 18 undefined on input line 72.
+
+
+LaTeX Warning: Reference `fig:Disagggregation_Bilanzraum_Untersuchungsgegenstand_Beispiel' on page 18 undefined on input line 77.
+
+
+LaTeX Warning: Reference `fig:Disagggregation_Bilanzraum_Nutzengrößen_Beispiel' on page 18 undefined on input line 79.
+
+
+
+[18]
+File: ../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Untersuchungsgegenstand_Zerlegt_Beispiel.jpg>
+) (../Kapitel/02_Theoretische_Grundlagen/02_Bilanzräume_im_Energiemanagement_nach_ISO_50001/03_Allgemeine_Vorgaben_der_ISO_50001.tex
+
+LaTeX Warning: Reference `fig:Erwägungen_Identifizierung_Rel_Var' on page 19 undefined on input line 17.
+
+
+
+[19]
+File: ../../Ressourcen/Abbildungen/Erwägungen_relevanter_Variablen.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Erwägungen_relevanter_Variablen.jpg>
+
+
+[20])
+
+[21]
+Kapitel 3.
+(../Kapitel/03_Konzept/01_Anforderungen_an_Konzept.tex
+
+LaTeX Warning: Reference `tab:funktionale_anforderungen' on page 22 undefined on input line 5.
+
+
+Overfull \hbox (2.21883pt too wide) in paragraph at lines 12--12
+[]|\TU/Arial(0)/b/n/10 Index| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+[]|\TU/Arial(0)/m/n/10 Definition
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+\TU/Arial(0)/m/n/10 von Ener-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+\TU/Arial(0)/m/n/10 gieströmen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+\TU/Arial(0)/m/n/10 -quellen und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+\TU/Arial(0)/m/n/10 -senken in
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 18--19
+\TU/Arial(0)/m/n/10 jeden Bilanzraum beliebig viele
+ []
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 22 undefined on input line 19.
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 19--21
+[]|\TU/Arial(0)/m/n/10 Die mathematische Beschreibung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+\TU/Arial(0)/m/n/10 der Bilanzierung nach Ahrendt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+\TU/Arial(0)/m/n/10 (vgl. Gleichung []) beschreibt
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 19--21
+\TU/Arial(0)/m/n/10 die Veränderung der bilanzierten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+\TU/Arial(0)/m/n/10 Zustandsgröße in Abhängigkeit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]|\TU/Arial(0)/m/n/10 Definition
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+\TU/Arial(0)/m/n/10 des Untersu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+\TU/Arial(0)/m/n/10 chungsgegen-
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 24--25
+[]|\TU/Arial(0)/m/n/10 Im Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 für
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 24--25
+\TU/Arial(0)/m/n/10 jeden Bilanzraum ein Untersu-
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 24--25
+\TU/Arial(0)/m/n/10 chungsgegenstand definiert wer-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]|\TU/Arial(0)/m/n/10 Zeitliche
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 29--30
+\TU/Arial(0)/m/n/10 Möglichkeit bieten, die Bilanzie-
+ []
+
+
+LaTeX Warning: Reference `BilanzierungsgleichungAhrendt' on page 22 undefined on input line 30.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 30--32
+[]|\TU/Arial(0)/m/n/10 Die Zustandsgröße der Bilanz ist
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]|\TU/Arial(0)/m/n/10 Integration
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+\TU/Arial(0)/m/n/10 von Energie-
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 35--38
+\TU/Arial(0)/m/n/10 ergiespeichernden Komponenten
+ []
+
+
+Underfull \hbox (badness 1817) in paragraph at lines 35--38
+\TU/Arial(0)/m/n/10 ermöglichen. Im Zuge der Inte-
+ []
+
+
+LaTeX Warning: Reference `energiebilanzierungsgleichung_Rönsch' on page 22 undefined on input line 38.
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 38--41
+[]|\TU/Arial(0)/m/n/10 Energiespeicher wirken sich nach
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 38--41
+\TU/Arial(0)/m/n/10 einer Energiebilanz nach Rönsch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+[]|\TU/Arial(0)/m/n/10 Bewertungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\TU/Arial(0)/m/n/10 einheiten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\TU/Arial(0)/m/n/10 eines Bilanz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+\TU/Arial(0)/m/n/10 Energieformen und Energieträ-
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 46--47
+[]|\TU/Arial(0)/m/n/10 Die bevorzugte Bewertungseinheit
+ []
+
+
+Overfull \hbox (3.52512pt too wide) in paragraph at lines 49--49
+[]|\TU/Arial(0)/m/n/10 Quantifizierung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\TU/Arial(0)/m/n/10 von Energie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\TU/Arial(0)/m/n/10 dienstleistun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 50--52
+\TU/Arial(0)/m/n/10 in Anlehnung an das von Mil-
+ []
+
+
+Underfull \hbox (badness 6592) in paragraph at lines 50--52
+\TU/Arial(0)/m/n/10 ler (2016) entworfene Konzept
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+\TU/Arial(0)/m/n/10 der Bewertungsräume aus ei-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+\TU/Arial(0)/m/n/10 nem Bilanzraum austretende
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 50--52
+\TU/Arial(0)/m/n/10 Energieströme in Form von En-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+\TU/Arial(0)/m/n/10 ergiedienstleistungen mit einer
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 50--52
+\TU/Arial(0)/m/n/10 Bewertungseinheit konkretisieren
+ []
+
+
+LaTeX Warning: Reference `fig:Energieflussschema_Posch' on page 22 undefined on input line 52.
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 52--55
+\TU/Arial(0)/m/n/10 besondere im Rahmen der Bilan-
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 52--55
+\TU/Arial(0)/m/n/10 bare Energiedienstleistungen auf-
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 52--55
+\TU/Arial(0)/m/n/10 Form von Energiedienstleistungen
+ []
+
+
+Overfull \hbox (3.53pt too wide) in paragraph at lines 57--58
+[]|\TU/Arial(0)/m/n/10 Disaggregation
+ []
+
+
+Overfull \hbox (0.73703pt too wide) in paragraph at lines 62--63
+[]|\TU/Arial(0)/m/n/10 Definierbarkeit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\TU/Arial(0)/m/n/10 der Bilanz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\TU/Arial(0)/m/n/10 raumgrenzen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\TU/Arial(0)/m/n/10 nach Grenz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\TU/Arial(0)/m/n/10 niveaus der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\TU/Arial(0)/m/n/10 E DIN ISO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+\TU/Arial(0)/m/n/10 50006:2024-
+ []
+
+
+LaTeX Warning: Reference `fig:EnPI_Grenzniveaus' on page 22 undefined on input line 63.
+
+
+Overfull \hbox (0.73703pt too wide) in paragraph at lines 70--71
+[]|\TU/Arial(0)/m/n/10 Definierbarkeit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+\TU/Arial(0)/m/n/10 von Energie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+\TU/Arial(0)/m/n/10 leistungs-
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 71--72
+\TU/Arial(0)/m/n/10 Definition von Energieleistungs-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]|\TU/Arial(0)/m/n/10 Energieleistungskennzahlen sind
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\TU/Arial(0)/m/n/10 zentral für die Bewertung der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\TU/Arial(0)/m/n/10 energiebezogenen Leistung im
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\TU/Arial(0)/m/n/10 Energiemanagement nach ISO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+[]|\TU/Arial(0)/m/n/10 Definierbare
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+\TU/Arial(0)/m/n/10 Arten von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+\TU/Arial(0)/m/n/10 Energieleis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+\TU/Arial(0)/m/n/10 tungskenn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 76--76
+\TU/Arial(0)/m/n/10 in einem Bilanzraum EnPIs der
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 77--78
+[]|\TU/Arial(0)/m/n/10 Unterschiedliche Arten von Kenn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\TU/Arial(0)/m/n/10 energetischen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+\TU/Arial(0)/m/n/10 Ausgangsba-
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 81--82
+\TU/Arial(0)/m/n/10 gangsbasis bereitstellen und im
+ []
+
+
+LaTeX Warning: Reference `fig:Beziehung_EnPI_EnB_ISO_50006' on page 22 undefined on input line 82.
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 82--84
+[]|\TU/Arial(0)/m/n/10 Die Differenz zwischen der Aus-
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 86--87
+[]|\TU/Arial(0)/m/n/10 Definition von
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+\TU/Arial(0)/m/n/10 operativen
+ []
+
+
+LaTeX Warning: Reference `fig:Beziehung_EnPI_EnB_ISO_50006' on page 22 undefined on input line 88.
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 88--89
+[]|\TU/Arial(0)/m/n/10 Die Bewertung der Zielerreichung
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 88--89
+\TU/Arial(0)/m/n/10 Verbesserung der energiebezoge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+[]|\TU/Arial(0)/m/n/10 Integration
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+\TU/Arial(0)/m/n/10 von relevan-
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 93--96
+[]|\TU/Arial(0)/m/n/10 Die Analyse von relevanten Va-
+ []
+
+
+Underfull \hbox (badness 4156) in paragraph at lines 93--96
+\TU/Arial(0)/m/n/10 EnPIs ist einer der Grundlegen-
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 93--96
+\TU/Arial(0)/m/n/10 Anforderungen der DIN EN ISO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+[]|\TU/Arial(0)/m/n/10 Zeit-Werte-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+\TU/Arial(0)/m/n/10 Verlauf von
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 102--103
+\TU/Arial(0)/m/n/10 lanzraum definierten EnPIs und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[]|\TU/Arial(0)/m/n/10 Abbildbare
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+\TU/Arial(0)/m/n/10 Kennzahlen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 107--107
+\TU/Arial(0)/m/n/10 in einem Bilanzraum EnPIs der
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 108--109
+[]|\TU/Arial(0)/m/n/10 Unterschiedliche Arten von Kenn-
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 111--112
+\TU/Arial(0)/m/n/10 gregation von
+ []
+
+
+LaTeX Warning: Reference `fig:Beziehung_EnPI_EnB_ISO_50006' on page 22 undefined on input line 114.
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 113--115
+\TU/Arial(0)/m/n/10 lung der Energiebezogenen Leis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]|\TU/Arial(0)/m/n/10 Bestimmung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+\TU/Arial(0)/m/n/10 des Energie-
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 118--119
+\TU/Arial(0)/m/n/10 einsatz in einem Bilanzzeitraum
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 119--121
+\TU/Arial(0)/m/n/10 von der Organisation festgelegten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]|\TU/Arial(0)/m/n/10 Bestimmung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+\TU/Arial(0)/m/n/10 des spe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+\TU/Arial(0)/m/n/10 zifischen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+\TU/Arial(0)/m/n/10 Energieein-
+ []
+
+
+LaTeX Warning: Reference `SepzifischerEnergieinsatzMiller' on page 22 undefined on input line 125.
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 124--126
+\TU/Arial(0)/m/n/10 gen bilanziert \TU/Arial(0)/b/n/10 muss \TU/Arial(0)/m/n/10 der spezi-
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 124--126
+\TU/Arial(0)/m/n/10 fische Energieeinsatz (vgl. Glei-
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 126--128
+\TU/Arial(0)/m/n/10 als Maß der Energieeffizienz bei
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 126--128
+\TU/Arial(0)/m/n/10 der Erfüllung einer Energiedienst-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+[]|\TU/Arial(0)/m/n/10 Auswertung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/Arial(0)/m/n/10 von Ener-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/Arial(0)/m/n/10 gieeinsätzen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/Arial(0)/m/n/10 in Disaggre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/Arial(0)/m/n/10 gierten (Teil-
+ []
+
+
+Overfull \hbox (4.06711pt too wide) in paragraph at lines 130--131
+\TU/Arial(0)/m/n/10 )Bilanzrräumen| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+[]|\TU/Arial(0)/m/n/10 Das Bilanzraumkonzept \TU/Arial(0)/b/n/10 muss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+\TU/Arial(0)/m/n/10 Funktionen zur Analyse des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+\TU/Arial(0)/m/n/10 Energieeinsatzes eines Bilanz-
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 131--132
+\TU/Arial(0)/m/n/10 raums im Verhältnis zu seinen
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 131--132
+\TU/Arial(0)/m/n/10 disaggregierten Teilbilanzräumen
+ []
+
+
+Underfull \hbox (badness 3547) in paragraph at lines 132--134
+\TU/Arial(0)/m/n/10 in Teilbilanzräumen im Verhältnis
+ []
+
+
+Overfull \hbox (49.99994pt too wide) in alignment at lines 7--135
+ [] [] [] [] 
+ []
+
+[22
+
+] [23] [24])
+Overfull \hbox (9.48416pt too wide) in paragraph at lines 118--118
+[]\TU/Arial(0)/b/n/14.4 Ist-Zustand des Datenbankschemas von EMS-EDM Pro-
+ []
+
+(../Kapitel/03_Konzept/02_Beschreibung_des_aktuellen_Zustands.tex
+
+LaTeX Warning: Reference `fig:Datenbankschema_Prophet_ZRM' on page 25 undefined on input line 3.
+
+
+Overfull \hbox (24.40794pt too wide) in paragraph at lines 20--24
+\TU/Arial(0)/m/n/10 wird eine Zuweisung von in ZRM_ZRINFO angelegten Infofeldern mit einem in ZRM_ZR_ZRINFO
+ []
+
+)
+
+[25] (../Kapitel/03_Konzept/03_Bilanzraumkonzept.tex
+
+LaTeX Warning: Reference `tab:funktionale_anforderungen' on page 26 undefined on input line 2.
+
+File: ../../Ressourcen/Abbildungen/Konzept/BIL_BR.png Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Konzept/BIL_BR.png>
+
+LaTeX Warning: Reference `fig:BIL_BR' on page 26 undefined on input line 15.
+
+
+LaTeX Warning: Reference `tab:funktionale_anforderungen' on page 26 undefined on input line 17.
+
+
+LaTeX Warning: Reference `tab:funktionale_anforderungen' on page 26 undefined on input line 22.
+
+
+LaTeX Warning: Reference `tab:funktionale_anforderungen' on page 26 undefined on input line 24.
+
+
+LaTeX Warning: Reference `fig:EnPI_Grenzniveaus' on page 26 undefined on input line 25.
+
+
+
+[26]
+File: ../../Ressourcen/Abbildungen/Konzept/BIL_AGIN.png Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Konzept/BIL_AGIN.png>
+)
+
+[27]
+Kapitel 4.
+
+
+[28
+
+]
+Kapitel 5.
+
+
+[29
+
+]
+Overfull \hbox (13.9175pt too wide) in paragraph at lines 189--189
+[][][] [] [][] [] [][][][][][][][] [] [][][][] [] [][][][][][][][] [] [][][][][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][][][][][][] [][] [][][][][][][][][][][][][][][][][]$ 
+ []
+
+
+Overfull \hbox (42.87828pt too wide) in paragraph at lines 189--189
+[][]\TU/Arial(0)/m/n/10 Hohnhold & Kai. (2013). Steigerung der Energieeffizienz durch Energiemanagement: Ausgestaltungs-
+ []
+
+
+Overfull \hbox (0.58678pt too wide) in paragraph at lines 189--189
+\TU/Arial(0)/m/n/10 hydratbasierte Niedertemperatur-Latentwärmespeicher. \TU/Arial(0)/m/it/10 Chemie Ingenieur Technik\TU/Arial(0)/m/n/10 ,
+ []
+
+Missing character: There is no ^^81 (U+0081) in font Arial Italic/OT:script=latn;language=dflt;mapping=tex-text;!
+
+
+[30
+
+]
+
+[31]
+Anhang A.
+(../Kapitel/06_Anhang/Abbildungen.tex
+File: ../../Ressourcen/Abbildungen/Schema_ZRM_ZR.jpg Graphic file (type bmp)
+<../../Ressourcen/Abbildungen/Schema_ZRM_ZR.jpg>
+)
+
+[32
+
+]
+
+[33] (./BA_Arbeit_Heinlein.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-11-02>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
+Package logreq Info: Writing requests to 'BA_Arbeit_Heinlein.run.xml'.
+\openout1 = `BA_Arbeit_Heinlein.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16169 strings out of 473964
+ 356976 string characters out of 5736610
+ 1393753 words of memory out of 5000000
+ 38884 multiletter control sequences out of 15000+600000
+ 558723 words of font info for 63 fonts, out of 8000000 for 9000
+ 1350 hyphenation exceptions out of 8191
+ 79i,7n,93p,2296b,7177s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on BA_Arbeit_Heinlein.pdf (38 pages).
